@@ -6,15 +6,10 @@ using I2.Loc;
 using Mono.Cecil.Cil;
 using System.IO;
 using System;
-using System.Net.Http;
+using System.Net;
 using System.Threading.Tasks;
-using Octokit;
 using static MeshCombineStudio.CombinedLODManager;
 using Newtonsoft.Json.Linq;
-using System.Net;
-using Google.Apis.Auth.OAuth2;
-using System.Net.Http.Headers;
-using System.Net.Http;
 
 public class UkrainianLanguage : Mod
 {
@@ -26,39 +21,25 @@ public class UkrainianLanguage : Mod
     public void Start()
     {
         Log("Модифікація успішно завантажена!");
-        string owner = "github_username"; // Замініть на власне ім'я користувача GitHub
-        string repo = "repository_name"; // Замініть на назву репозиторію
-        string filePath = "path/to/file.txt"; // Замініть на шлях до файлу у репозиторії
-        string savePath = "C:\\path\\to\\save\\file.txt"; // Замініть на шлях, де ви хочете зберегти файл
+        string repositoryUrl = "https://github.com/Damglador/Raft-UA";
+        string filePath = "Loc.csv";
+        string savePath = dataFolder + "\\Loc.csv"; // Замініть на шлях, де ви хочете зберегти файл
 
-        string accessToken = "your_access_token"; // Замініть на свій особистий токен доступу GitHub
-
-        var github = new GitHubClient(new ProductHeaderValue("DownloadFileExample"));
-        github.Credentials = new Credentials(accessToken);
-
-        try
+        using (WebClient webClient = new WebClient())
         {
-            var fileContent = await github.Repository.Content.GetAllContentsByRef(owner, repo, filePath);
-
-            if (fileContent.Count > 0)
+            try
             {
-                using (var httpClient = new HttpClient())
-                {
-                    var fileUrl = fileContent[0].DownloadUrl;
-                    var fileBytes = await httpClient.GetByteArrayAsync(fileUrl);
-                    File.WriteAllBytes(savePath, fileBytes);
+                webClient.Encoding = Encoding.UTF8; // Встановлюємо кодування UTF-8
+                string fileContent = webClient.DownloadString($"{repositoryUrl}/raw/main/{filePath}");
 
-                    Console.WriteLine("Файл успішно завантажено.");
-                }
+                File.WriteAllText(savePath, fileContent, Encoding.UTF8);
+
+                Log("Файл перекладу успішно завантажено.");
             }
-            else
+            catch (Exception)
             {
-                Console.WriteLine("Файл не знайдено в репозиторії.");
+                Log("Виникла помилка при завантаженні файлу: {ex.Message}");
             }
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Виникла помилка при завантаженні файлу: {ex.Message}");
         }
 
         ImportLocalizationFromCSV("Loc.csv");
