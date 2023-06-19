@@ -1,3 +1,3 @@
 files:
-  - source: Loc.csv
+  - source: Source localization file/Loc.csv
     translation: Loc.csv
