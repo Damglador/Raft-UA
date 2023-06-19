@@ -28,19 +28,21 @@ public class Ukrainian_Language : Mod
             }
             catch (Exception)
             {
-                Debug.LogError("Виникла помилка при створенні dataFolder: {ex.Message}");
+                Debug.LogError("Виникла помилка при створенні dataFolder");
             }
         }
         if (!File.Exists(lastLanguageFile))
         {
+            Log("Файл пам'яті відсутній.");
             try
             {
-                Log("Файл пам'яті відсутній.");
-                File.Create(lastLanguageFile);
+                using (StreamWriter sw = new StreamWriter(lastLanguageFile))
+                {
+                }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                Debug.LogError("Виникла помилка при створенні файлу пам'яті: {ex.Message}");
+                Debug.LogError("Виникла помилка при створенні файлу пам'яті");
             }
         }
         string repositoryUrl = "https://github.com/Damglador/Raft-UA/raw/l10n_main/uk/Loc.csv";
@@ -59,7 +61,7 @@ public class Ukrainian_Language : Mod
             }
             catch (Exception)
             {
-                Log("Виникла помилка при завантаженні файлу: {ex.Message}\nБудь-ласка перевірте з'єднання з інтернетом, щоб оновити чи завантажити файл перекладу, або зверніться до головного кодера. Контакти:\nDiscord: damglador\nSteam: Damglador, та й будь де впринципі Damglador");
+                Debug.LogError("Виникла помилка при завантаженні файлу\nБудь-ласка перевірте з'єднання з інтернетом, щоб оновити чи завантажити файл перекладу, або зверніться до головного кодера. Контакти:\nDiscord: damglador\nSteam: Damglador, та й будь де впринципі Damglador");
             }
         }
 
