@@ -955,7 +955,7 @@ Restart Raft and try again.";"Відключено від Steam.
 "Menu/Music";"Text";"";"Music";"Музика"
 "Menu/NameExists";"Text";"";"Name already exists";"Назва вже існує"
 "Menu/New";"Text";"";"New";"Новий"
-"Menu/NewWorld";"Text";"";"New world";"Новий світ гігі"
+"Menu/NewWorld";"Text";"";"New world";"Новий світ"
 "Menu/Next";"Text";"";"Next";"Наступне"
 "Menu/No";"Text";"";"No";"Ні"
 "Menu/NoFriends";"Text";"";"Host not allowing friends to join";"Host not allowing friends to join"
