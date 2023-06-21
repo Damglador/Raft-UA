@@ -946,7 +946,7 @@ Evacuate personnel from the crane area"
 "Menu/InvalidName";"Text";"";"Name is invalid";"Назва неприпустима"
 "Menu/JoinGame";"Text";"";"Join world";"Доєднатися до світу"
 "Menu/LastPlayed";"Text";"";"Last played";"Востаннє зіграно"
-"Menu/LoadWorld";"Text";"";"Load world";"Завантажити світ"
+"Menu/LoadWorld";"Text";"";"Load world";"Завантажити"
 "Menu/LostConnection";"Text";"";"Disconnected from Steam.
 Restart Raft and try again.";"Відключено від Steam.
 Перезапустіть Raft і спробуйте ще раз."
