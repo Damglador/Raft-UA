@@ -1,8 +1,8 @@
 {
   "name": "Ukrainian Language",
-  "author": "Damglador",
+  "author": "Damglador & amadare",
   "description": "Дадає українську мову в гру.\nПереклад оновлюється та завантажується автоматично при запуску модифікації. Файли перекладу беруться з репозиторію на GitHub.",
-  "version": "1.0.4",
+  "version": "1.0.9",
   "license": "GNU AGPLv3",
   "icon": "icon.png",
   "banner": "banner.jpg",
