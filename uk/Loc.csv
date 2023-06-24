@@ -272,7 +272,7 @@
 "Controls/Hotbar";"Text";"";"Hotbar";"Панель швидкого доступу"
 "Controls/Interact";"Text";"";"Interact";"Взаємодія"
 "Controls/Inventory";"Text";"";"Inventory";"Інвентар"
-"Controls/InvertMouseY";"Text";"";"Invert mouse up/down";"Інвертувати поворот вгору/вниз"
+"Controls/InvertMouseY";"Text";"";"Invert mouse up/down";"Інвертувати оберт вгору/вниз"
 "Controls/Jump";"Text";"";"Jump";"Стрибок"
 "Controls/Key";"Text";"";"Key";"Клавіша"
 "Controls/Keybinds";"Text";"";"Keybinds";"Призначення клавіш"
@@ -491,7 +491,7 @@ Evacuate personnel from the crane area";"Помилка
 "Game/StartCooking";"Text";"";"Start cooking";"Почати готувати"
 "Game/StopSleep";"Text";"";"Stand up";"Встати"
 "Game/Storage";"Text";"";"Storage";"Сховище"
-"Game/TalkToX";"Text";"";"Talk to {[ItemX]}";"Поговорити з персонажем {[ItemX]}"
+"Game/TalkToX";"Text";"";"Talk to {[ItemX]}";"Поговорити з {[ItemX]}"
 "Game/Throw";"Text";"";"Throw";"Кинути"
 "Game/Tier";"Text";"";"Tier";"Рівень"
 "Game/Trader";"Text";"";"Trader";"Торговець"
@@ -545,7 +545,7 @@ Evacuate personnel from the crane area";"Помилка
 "Graphics/QualityNone";"Text";"";"None";"Немає"
 "Graphics/Reflection/Title";"Text";"";"Real time reflections";"Віддзеркалення у реальному часі"
 "Graphics/Resolution";"Text";"";"Resolution";"Роздільність"
-"Graphics/ShadowCascade";"Text";"";"Shadow cascades";"Полігони тіней"
+"Graphics/ShadowCascade";"Text";"";"Shadow cascades";"Полігони тіні"
 "Graphics/ShadowCascadeFour";"Text";"";"Four";"Чотири"
 "Graphics/ShadowCascadeNone";"Text";"";"None";"Немає"
 "Graphics/ShadowCascadeTwo";"Text";"";"Two";"Два"
@@ -631,26 +631,26 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Canteen_Water";"Text";"";"Canteen of fresh water@Fresh water is very important on the ocean.";"Фляга прісної води@Прісна вода дуже важлива у відкритому океані."
 "Item/Cassette_Classical";"Text";"";"Classical cassette@#1 Left Alone
 #2 Llama Waltz
-#3 Unwanted Adventure";"Касета з класикою@№1 Залишившись наодинці
-№2 Вальс лам
-№3 Небажана пригода"
+#3 Unwanted Adventure";"Касета з класикою@#1 Left Alone
+#2 Llama Waltz
+#3 Unwanted Adventure"
 "Item/Cassette_EDM";"Text";"";"EDM cassette @#1 Dehydrated
 #2 It's a Wave
-#3 Raving on Sea";"Касета з EDM@№1 Зневоднення
-№2 Це хвиля
-№3 Рейв у морі"
-"Item/Cassette_Elevator";"Text";"";"Elevator cassette@#1 Levels Descending";"Ліфтярська касета@№1 Зменшення висоти"
+#3 Raving on Sea";"Касета з EDM@#1 Dehydrated
+#2 It's a Wave
+#3 Raving on Sea"
+"Item/Cassette_Elevator";"Text";"";"Elevator cassette@#1 Levels Descending";"Ліфтярська касета@#1 Levels Descending"
 "Item/Cassette_Pop";"Text";"";"Pop cassette@#1 Funky Surfer
 #2 Romantic Sunset
-#3 Summer Breeze";"Касета з попмузикою@№1 Веселий серфінгіст
-№2 Романтичний захід сонця
-№3 Літній бриз"
+#3 Summer Breeze";"Касета з попмузикою@#1 Funky Surfer
+#2 Romantic Sunset
+#3 Summer Breeze"
 "Item/Cassette_Rock";"Text";"";"Rock cassette@#1 More Metal!
 #2 Seagull Stole my Potato
-#3 Smoke on my Raft";"Касета з роком@№1 Більше металу!
-№2 Мартини викрали картоплю
-№3 Дим на моєму плоті"
-"Item/Cassette_TradingPost";"Text";"";"Trading post cassette@#1 Bargain Bossa";"Касета торговельного пункту@№1 Босанова торгівля"
+#3 Smoke on my Raft";"Касета з роком@#1 More Metal!
+#2 Seagull Stole my Potato
+#3 Smoke on my Raft"
+"Item/Cassette_TradingPost";"Text";"";"Trading post cassette@#1 Bargain Bossa";"Касета торговельного пункту@#1 Bargain Bossa"
 "Item/CatfishDeluxe";"Text";"";"Catfish deluxe@Makes you run faster.";"Сом Делюкс@Змушує вас швидше бігати."
 "Item/CaveMushroom";"Text";"";"Cave mushroom@Great addition to many meals.";"Печерний гриб@Чудове доповнення до багатьох страв."
 "Item/Chili";"Text";"";"Chili@Spice up your food.";"Перець чилі@Приправте свою їжу."
@@ -700,7 +700,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Flower_Red";"Text";"";"Red flower@Can be made into paint.";"Червона квітка@Може бути перетворена у фарбу."
 "Item/Flower_White";"Text";"";"White flower@Can be made into paint.";"Біла квітка@Може бути перетворена у фарбу."
 "Item/Flower_Yellow";"Text";"";"Yellow flower@Can be made into paint.";"Жовта квітка@Може бути перетворена у фарбу."
-"Item/Foamspitter";"Text";"";"Foamspitter@Tier 2. Time for bubbles.";"Піноутворювач@Рівень 2. Час для бульбашок."
+"Item/Foamspitter";"Text";"";"Foamspitter@Tier 2. Time for bubbles.";"Плювальниця@Рівень 2. Час для бульбашок."
 "Item/FruitCompot";"Text";"";"Fruit compot@Tastes extra good when you are tired of chewing meat.";"Фруктове асорті@Смакує особливо добре, коли ви втомилися жувати м'ясо."
 "Item/GiantClam";"Text";"";"Giant clam@A big clam.";"Гігантський молюск@Великий молюск."
 "Item/Glass";"Text";"";"Glass@It's transparent.";"Скло@Воно прозоре."
@@ -930,7 +930,7 @@ Evacuate personnel from the crane area";"Помилка
 "Menu/DeleteWorldButton";"Text";"";"Delete";"Видалити"
 "Menu/Developer";"Text";"";"Developer:";"Розробник:"
 "Menu/Difficulty";"Text";"";"Difficulty";"Складність"
-"Menu/DoYouWantToSave";"Text";"";"Do you want to save before you exit?";"Зберегти перед виходом?"
+"Menu/DoYouWantToSave";"Text";"";"Do you want to save before you exit?";"Зберегти світ перед виходом?"
 "Menu/Done";"Text";"";"Done";"Готово"
 "Menu/EmptyName";"Text";"";"Name can't be empty";"Назва не може бути порожньою"
 "Menu/EnterText";"Text";"";"Enter text...";"Уведіть текст..."
