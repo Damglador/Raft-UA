@@ -1302,12 +1302,12 @@ If I’m thrown in jail, this is proof I am innocent!"
 "Story/CaravanIsland/Voiceline/SanjayMessage_4";"Text";"";"Now if I leave then no one will pump air to Detto using the bike! ";"Now if I leave then no one will pump air to Detto using the bike! "
 "Story/CaravanIsland/Voiceline/SanjayMessage_5";"Text";"";"If I’m thrown in jail, this is proof I am innocent!";"If I’m thrown in jail, this is proof I am innocent!"
 "Story/FirstPage";"Text";"";"First page";"Перша сторінка"
-"Story/Intro/BikerPicture";"Text";"";"Me and the boys.";"Me and the boys."
-"Story/Intro/ExecutivePicture";"Text";"";"Remember what you’re fighting for.";"Remember what you’re fighting for."
+"Story/Intro/BikerPicture";"Text";"";"Me and the boys.";"Я з хлопцями."
+"Story/Intro/ExecutivePicture";"Text";"";"Remember what you’re fighting for.";"Пам'ятай за що ти борешся."
 "Story/Intro/FamilyPicture";"Text";"";"I'll see you someplace dry. //Sis";"Побачимося на суші. //Сестричка"
-"Story/Intro/FishingPicture";"Text";"";"If you want to catch the big one, just keep trying until you do! //Grandpa";"If you want to catch the big one, just keep trying until you do! //Grandpa"
-"Story/Intro/MechanicPicture";"Text";"";"Just close your eyes and you’ll be back there.";"Just close your eyes and you’ll be back there."
-"Story/Intro/ScientistPicture";"Text";"";"To the biggest idiot in the world.";"To the biggest idiot in the world."
+"Story/Intro/FishingPicture";"Text";"";"If you want to catch the big one, just keep trying until you do! //Grandpa";"Якщо ти хочеш зловити велику рибину, то продовжуй ловити, доки не зловиш! //Дідо"
+"Story/Intro/MechanicPicture";"Text";"";"Just close your eyes and you’ll be back there.";"Варто лиш заплющити очі — і ти повернешся туди."
+"Story/Intro/ScientistPicture";"Text";"";"To the biggest idiot in the world.";"Найбільшому ідіоту у світі."
 "Story/Prologue";"Text";"";"Stop me if you’ve heard this one before: fifteen rafts go out, searching for land, six days before the mother of all storms.
 
 It took us three months to prepare. The storm blew us apart and away in four days.
