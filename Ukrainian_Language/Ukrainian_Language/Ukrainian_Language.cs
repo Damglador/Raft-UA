@@ -47,6 +47,8 @@ namespace UkrainianLanguage
             }
             UpdateTranslationFile();
             RestoreLanguage();
+            foreach (var t in Resources.FindObjectsOfTypeAll<TMP_Text>())
+                Patch_TMP_Awake.Postfix(t);
             (harmony = new Harmony("com.damglador.UkrainianLanguage")).PatchAll();
             Log("loaded!");
         }
@@ -192,5 +194,28 @@ namespace UkrainianLanguage
             Debug.Log("Збережено вибір мови: " + LocalizationManager.CurrentLanguage);
             Main.Instance.StartUpdateAfterDelayRoutine();
         }
+    }
+    [HarmonyPatch(typeof(LocalizeTarget_TextMeshPro_Label), "SetFont")]
+    static class Patch_SetLabelFont
+    {
+        static void Prefix(ref TMP_FontAsset newFont)
+        {
+            if (LocalizationManager.CurrentLanguage == "Українська")
+                newFont = Main.TMPCyrillicFont;
+        }
+    }
+    [HarmonyPatch]
+    static class Patch_TMP_Awake
+    {
+        [HarmonyPatch(typeof(TextMeshPro), "Awake")]
+        public static void Postfix(TMP_Text __instance)
+        {
+            if (!__instance.name.StartsWith("ConsoleLinePrefab"))
+            {
+                __instance.font = Main.TMPCyrillicFont;
+            }
+        }
+        [HarmonyPatch(typeof(TextMeshProUGUI), "Awake")]
+        static void Postfix(TextMeshProUGUI __instance) => Postfix(__instance as TMP_Text);
     }
 }
