@@ -37,7 +37,7 @@
 "Block/Clock";"Text";"";"Clock@Shows the time.";"Годинник@Показує час."
 "Block/CollectionNet";"Text";"";"Advanced collection net@Automatically catches items that float into it. Can contain more items than a simple collection net.";"Покращена сітка для забору сміття@Автоматично ловить предмети, що в неї запливають. Може тримати в собі більше предметів, ніж проста сітка для забору сміття."
 "Block/CollectionNet_Simple";"Text";"";"Simple collection net@Automatically catches items that float into it.";"Проста сітка для забору сміття@Автоматично ловить предмети, що в неї запливають."
-"Block/CookingPot";"Text";"";"Cookingpot@Combines base food into amazing meals.";"Каструля для готування@Створює дивовижні страви з простих продуктів."
+"Block/CookingPot";"Text";"";"Cookingpot@Combines base food into amazing meals.";"Казан@Створює дивовижні страви з простих продуктів."
 "Block/CookingStand_Food_Electric";"Text";"";"Electric grill@Can cook a lot of food at once. Uses battery as fuel.";"Електрогриль@Може готувати багато їжі одночасно. Використовує акумулятор як паливо."
 "Block/CookingStand_Food_One";"Text";"";"Simple grill@Can cook a piece of food. Uses planks as fuel.";"Простий гриль@Може готувати порцію їжі. Використовує дошки як паливо."
 "Block/CookingStand_Food_Two";"Text";"";"Advanced grill@Can cook several pieces of food at once. Uses planks as fuel.";"Покращений гриль@Може готувати кілька порцій їжі одночасно. Використовує дошки як паливо."
