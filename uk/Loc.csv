@@ -372,7 +372,7 @@
 "DeathMenu/InventoryLoss";"Text";"";"Lose 2/3 of inventory";"Втрата 2/3 запасів інвентарю"
 "DeathMenu/Rescue";"Text";"";"Waiting for rescue";"В очікуванні порятунку"
 "DeathMenu/Respawn";"Text";"";"Surrender and respawn";"Здатися і відродитися"
-"Difficulty";"Text";"";"Game mode";"Ігровий режим"
+"Difficulty";"Text";"";"Game mode";"Режим"
 "Difficulty/Creative";"Text";"";"Creative";"Творчий"
 "Difficulty/Creative_Description";"Text";"";"Unlimited supplies and health, allowing you to focus less on survival and more on building.";"Необмежені запаси й здоров’я, що дозволяє зосередитися не на виживанні, а на будівництві."
 "Difficulty/Easy";"Text";"";"Easy";"Легкий"
