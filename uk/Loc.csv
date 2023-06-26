@@ -714,7 +714,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Hat_Fishing";"Text";"";"Fishing hat@Lures for any occasion.";"Рибальський капелюх@Наживки на всі випадки життя."
 "Item/Hat_Glasses_Aviator";"Text";"";"Sunglasses@For those sunny days.";"Протисонцеві окуляри@Для сонячних днів."
 "Item/Hat_Glasses_Disguise";"Text";"";"Disguise glasses@It might fool your friends, but it can't fool the shark.";"Маскувальні окуляри@Вони можуть ввести в оману ваших друзів, але не акулу."
-"Item/Hat_Mayor";"Text";"";"Mayor hat@Belonged to the mayor of Caravan Town.";"Капелюх мера@Належав меру трейлерного містечка."
+"Item/Hat_Mayor";"Text";"";"Mayor hat@Belonged to the mayor of Caravan Town.";"Капелюх мера@Належав меру містечка Караван."
 "Item/Hat_Pilot";"Text";"";"Pilot helmet@An old but fancy pilot helmet.";"Шолом пілота@Старий, але стильний шолом пілота."
 "Item/Hat_Pirate";"Text";"";"Pirate hat@Ahoy, set sail!";"Піратська трикутка@Ахой, на вітрила!"
 "Item/Hat_Sailor";"Text";"";"Sailor hat@A true hat for a true sailor.";"Матроський кашкет@Справжній капелюх для справжнього матроса."
@@ -1057,67 +1057,67 @@ Refresh or restart Raft and try again.";"Немає підключення з St
 "Story/BalboaIsland/CorreasDiary1";"Text";"";"Three months ago my sister Astrid and I were put in charge of the Ranger Station on Balboa. We handled the bear population and kept the relay towers operational. The next shift was meant to start weeks back. But the replacements never showed up.
 
 HENRY suggested that I start writing things down after Astrid disappeared so that I'm not feeling so lonely anymore.
-~BRUNO";"Three months ago my sister Astrid and I were put in charge of the Ranger Station on Balboa. We handled the bear population and kept the relay towers operational. The next shift was meant to start weeks back. But the replacements never showed up.
+~BRUNO";"Три місяці тому мене і мою сестру Астрід призначили відповідальними за рейнджерську станцію на Бальбоа. Ми опікувалися популяцією ведмедів і підтримували в робочому стані ретрансляційні станції. Наступна зміна мала розпочатися кілька тижнів тому. Але заміна так і не з'явилася.
 
-HENRY suggested that I start writing things down after Astrid disappeared so that I'm not feeling so lonely anymore.
-~BRUNO"
+ГЕНРІ запропонував мені почати записувати все, що відбувалося після зникнення Астрід, щоб я більше не почувався таким самотнім.
+~БРУНО"
 "Story/BalboaIsland/CorreasDiary2";"Text";"";"The kids are fighting. Astrid would have known how to make them stop. I found her wrench out by the clearing. I’ve been calling out on the radio. Please. I just want to talk, sis.
 
 MIRANDA is screaming outside. I hope her and HENRY make up soon.
-~BRUNO";"The kids are fighting. Astrid would have known how to make them stop. I found her wrench out by the clearing. I’ve been calling out on the radio. Please. I just want to talk, sis.
+~BRUNO";"Діти б'ються. Астрід знала б, як їх зупинити. Я знайшов її гайковий ключ на галявині. Я кликав її по рації. Будь ласка, сестро, я просто хочу поговорити.
 
-MIRANDA is screaming outside. I hope her and HENRY make up soon.
-~BRUNO"
+МІРАНДА кричить на вулиці. Сподіваюся, вони з ГЕНРІ скоро помиряться.
+~БРУНО"
 "Story/BalboaIsland/CorreasDiary3";"Text";"";"I haven’t seen ERROL all night. I asked MIRANDA but she and HENRY won’t tell me anything. They’re hiding something. Did they figure out there’s only space for two of them on the boat? I’ve decided. I’ll leave the TRIPLETS in charge of the remaining relay stations. BOBBY will take care of the bears. Yes. It’s for the best.
 
 So many memories of this place. We’ll find you, sis. I promise.
-~BRUNO";"I haven’t seen ERROL all night. I asked MIRANDA but she and HENRY won’t tell me anything. They’re hiding something. Did they figure out there’s only space for two of them on the boat? I’ve decided. I’ll leave the TRIPLETS in charge of the remaining relay stations. BOBBY will take care of the bears. Yes. It’s for the best.
+~BRUNO";"Я не бачив ЕРРОЛА всю ніч. Я питав МІРАНДУ, але вони з ГЕНРІ нічого мені не сказали. Вони щось приховують. Вони зрозуміли, що на човні є місце лише для двох? Я вирішив. Я залишу ТРІЙКУ відповідальними за решту ретрансляційних станцій. БОББІ подбає про ведмедів. Так. Так буде краще.
 
-So many memories of this place. We’ll find you, sis. I promise.
-~BRUNO"
+З цим місцем пов'язано стільки спогадів. Ми знайдемо тебе, сестричко. Обіцяю.
+~БРУНО"
 "Story/BalboaIsland/DollNote1";"Text";"";"BETRAYAL. FATHER TRUSTS THE MURDERERS.
-~BOBBY";"BETRAYAL. FATHER TRUSTS THE MURDERERS.
-~BOBBY"
+~BOBBY";"ЗРАДА. БАТЬКО ДОВІРЯЄ ВБИВЦЯМ.
+~БОББІ"
 "Story/BalboaIsland/DollNote2";"Text";"";"HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT. 
-~N&D&L";"HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT. 
-~N&D&L"
+~N&D&L";"ВІН ПОКИНЕ НАС. МИ НЕ МОЖЕМО ЦЬОГО ДОПУСТИТИ. 
+~Н, Д та Л"
 "Story/BalboaIsland/DollNote3";"Text";"";"FATHER HAS TO MAKE A DECISION. I KNOW IT WON’T BE ME, SO I WILL BE SPARED.
-~BOBBY";"FATHER HAS TO MAKE A DECISION. I KNOW IT WON’T BE ME, SO I WILL BE SPARED.
-~BOBBY"
+~BOBBY";"БАТЬКО МУСИТЬ ПРИЙНЯТИ РІШЕННЯ. Я ЗНАЮ, ЩО ЦЕ БУДУ НЕ Я, МЕНЕ ПОМИЛУЮТЬ.
+~БОББІ"
 "Story/BalboaIsland/DollNote4";"Text";"";"NOT ENOUGH BOAT FOR ALL OF US. I’M SORRY, ERROL.
-~MIRANDA";"NOT ENOUGH BOAT FOR ALL OF US. I’M SORRY, ERROL.
-~MIRANDA"
+~MIRANDA";"НА НАС ВСІХ ЧОВНА НЕ ВИСТАЧИТЬ. ПРОБАЧ, ЕРРОЛ.
+~МІРАНДА"
 "Story/BalboaIsland/DollNote5";"Text";"";"THE GUILTY LAY RESTLESS. WE MUST BE PUNISHED, IF WE ARE TO REST.
-~BOBBY";"THE GUILTY LAY RESTLESS. WE MUST BE PUNISHED, IF WE ARE TO REST.
-~BOBBY"
+~BOBBY";"ВИННІ НЕ МОЖУТЬ СПАТИ. МИ ПОВИННІ БУТИ ПОКАРАНІ, ЯКЩО ХОЧЕМО СПОКОЮ.
+~БОББІ"
 "Story/BalboaIsland/NoteFromHenry";"Text";"";"Papa MADE HIS MIND UP A LONG TIME AGO. HE’S GOING AFTER AUNTY.  MIRANDA IS FOLLOWING AS ALWAYS. 
-~HENRY";"Papa MADE HIS MIND UP A LONG TIME AGO. HE’S GOING AFTER AUNTY.  MIRANDA IS FOLLOWING AS ALWAYS. 
-~HENRY"
+~HENRY";"ТАТО ПРИЙНЯВ РІШЕННЯ ВЖЕ ДАВНО. ВІН ЙДЕ ЗА ТІТКОЮ.  МІРАНДА, ЯК ЗАВЖДИ, СЛІДУЄ ЗА НИМ. 
+~ГЕНРІ"
 "Story/BalboaIsland/PictureOfTwoEngineers";"Text";"";"MERRY CHRISTMAS FROM NOWHERE
-~THE CORREA TWINS";"MERRY CHRISTMAS FROM NOWHERE
-~THE CORREA TWINS"
+~THE CORREA TWINS";"ЩАСЛИВОГО РІЗДВА З НІЗВІДКИ
+~БЛИЗНЮКИ КОРРЕА"
 "Story/BalboaIsland/Schedule";"Text";"";"SCHEDULE";"РОЗКЛАД"
-"Story/BalboaIsland/Voiceline/CorreasDiary1_1";"Text";"";"Three months ago my sister Astrid and I were put in charge of the Ranger Station on Balboa. ";"Three months ago my sister Astrid and I were put in charge of the Ranger Station on Balboa. "
-"Story/BalboaIsland/Voiceline/CorreasDiary1_2";"Text";"";"We handled the bear population and kept the relay towers operational. ";"We handled the bear population and kept the relay towers operational. "
-"Story/BalboaIsland/Voiceline/CorreasDiary1_3";"Text";"";"The next shift was meant to start weeks back. But the replacements never showed up.";"The next shift was meant to start weeks back. But the replacements never showed up."
-"Story/BalboaIsland/Voiceline/CorreasDiary1_4";"Text";"";"HENRY suggested that I start writing things down after Astrid disappeared so that I'm not feeling so lonely anymore.";"HENRY suggested that I start writing things down after Astrid disappeared so that I'm not feeling so lonely anymore."
-"Story/BalboaIsland/Voiceline/CorreasDiary2_1";"Text";"";"The kids are fighting. Astrid would have known how to make them stop.";"The kids are fighting. Astrid would have known how to make them stop."
-"Story/BalboaIsland/Voiceline/CorreasDiary2_2";"Text";"";"I found her wrench out by the clearing. I’ve been calling out on the radio. ";"I found her wrench out by the clearing. I’ve been calling out on the radio. "
-"Story/BalboaIsland/Voiceline/CorreasDiary2_3";"Text";"";"Please. I just want to talk, sis. MIRANDA is screaming outside.";"Please. I just want to talk, sis. MIRANDA is screaming outside."
-"Story/BalboaIsland/Voiceline/CorreasDiary2_4";"Text";"";"I hope her and HENRY make up soon.";"I hope her and HENRY make up soon."
-"Story/BalboaIsland/Voiceline/CorreasDiary3_1";"Text";"";"I haven’t seen ERROL all night. I asked MIRANDA but she and HENRY won’t tell me anything. ";"I haven’t seen ERROL all night. I asked MIRANDA but she and HENRY won’t tell me anything. "
-"Story/BalboaIsland/Voiceline/CorreasDiary3_2";"Text";"";"They’re hiding something. Did they figure out there’s only space for two of them on the boat?";"They’re hiding something. Did they figure out there’s only space for two of them on the boat?"
-"Story/BalboaIsland/Voiceline/CorreasDiary3_3";"Text";"";"I’ve decided. I’ll leave the TRIPLETS in charge of the remaining relay stations. ";"I’ve decided. I’ll leave the TRIPLETS in charge of the remaining relay stations. "
-"Story/BalboaIsland/Voiceline/CorreasDiary3_4";"Text";"";"BOBBY will take care of the bears. Yes. It’s for the best.";"BOBBY will take care of the bears. Yes. It’s for the best."
-"Story/BalboaIsland/Voiceline/CorreasDiary3_5";"Text";"";"So many memories of this place. We’ll find you, sis. I promise.";"So many memories of this place. We’ll find you, sis. I promise."
-"Story/BalboaIsland/Voiceline/DollNote1";"Text";"";"BETRAYAL. FATHER TRUSTS THE MURDERERS.";"BETRAYAL. FATHER TRUSTS THE MURDERERS."
-"Story/BalboaIsland/Voiceline/DollNote2";"Text";"";"HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT. ";"HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT. "
-"Story/BalboaIsland/Voiceline/DollNote3";"Text";"";"FATHER HAS TO MAKE A DECISION. I KNOW IT WON’T BE ME, SO I WILL BE SPARED.";"FATHER HAS TO MAKE A DECISION. I KNOW IT WON’T BE ME, SO I WILL BE SPARED."
-"Story/BalboaIsland/Voiceline/DollNote4";"Text";"";"NOT ENOUGH BOAT FOR ALL OF US. I’M SORRY, ERROL.";"NOT ENOUGH BOAT FOR ALL OF US. I’M SORRY, ERROL."
-"Story/BalboaIsland/Voiceline/DollNote5";"Text";"";"THE GUILTY LAY RESTLESS. WE MUST BE PUNISHED, IF WE ARE TO REST.";"THE GUILTY LAY RESTLESS. WE MUST BE PUNISHED, IF WE ARE TO REST."
-"Story/BalboaIsland/Voiceline/NoteFromHenry_1";"Text";"";"Papa MADE HIS MIND UP A LONG TIME AGO. HE’S GOING AFTER AUNTY. ";"Papa MADE HIS MIND UP A LONG TIME AGO. HE’S GOING AFTER AUNTY. "
-"Story/BalboaIsland/Voiceline/NoteFromHenry_2";"Text";"";"MIRANDA IS FOLLOWING AS ALWAYS. ";"MIRANDA IS FOLLOWING AS ALWAYS. "
-"Story/BalboaIsland/Voiceline/PictureOfTwoEngineers";"Text";"";"MERRY CHRISTMAS FROM NOWHERE";"MERRY CHRISTMAS FROM NOWHERE"
+"Story/BalboaIsland/Voiceline/CorreasDiary1_1";"Text";"";"Three months ago my sister Astrid and I were put in charge of the Ranger Station on Balboa. ";"Три місяці тому мене і мою сестру Астрід призначили відповідальними за рейнджерську станцію на Бальбоа. "
+"Story/BalboaIsland/Voiceline/CorreasDiary1_2";"Text";"";"We handled the bear population and kept the relay towers operational. ";"Ми опікувалися популяцією ведмедів і підтримували в робочому стані ретрансляційні станції. "
+"Story/BalboaIsland/Voiceline/CorreasDiary1_3";"Text";"";"The next shift was meant to start weeks back. But the replacements never showed up.";"Наступна зміна мала розпочатися кілька тижнів тому. Але заміна так і не з'явилася."
+"Story/BalboaIsland/Voiceline/CorreasDiary1_4";"Text";"";"HENRY suggested that I start writing things down after Astrid disappeared so that I'm not feeling so lonely anymore.";"ГЕНРІ запропонував мені почати записувати все, що відбувалося після зникнення Астрід, щоб я більше не почувався таким самотнім."
+"Story/BalboaIsland/Voiceline/CorreasDiary2_1";"Text";"";"The kids are fighting. Astrid would have known how to make them stop.";"Діти б'ються. Астрід знала б, як їх зупинити."
+"Story/BalboaIsland/Voiceline/CorreasDiary2_2";"Text";"";"I found her wrench out by the clearing. I’ve been calling out on the radio. ";"Я знайшов її гайковий ключ на галявині. Я кликав її по рації. "
+"Story/BalboaIsland/Voiceline/CorreasDiary2_3";"Text";"";"Please. I just want to talk, sis. MIRANDA is screaming outside.";"Будь ласка, сестро, я просто хочу поговорити. МІРАНДА кричить на вулиці."
+"Story/BalboaIsland/Voiceline/CorreasDiary2_4";"Text";"";"I hope her and HENRY make up soon.";"Сподіваюся, вони з ГЕНРІ скоро помиряться."
+"Story/BalboaIsland/Voiceline/CorreasDiary3_1";"Text";"";"I haven’t seen ERROL all night. I asked MIRANDA but she and HENRY won’t tell me anything. ";"Я не бачив ЕРРОЛА всю ніч. Я питав МІРАНДУ, але вони з ГЕНРІ нічого мені не сказали. "
+"Story/BalboaIsland/Voiceline/CorreasDiary3_2";"Text";"";"They’re hiding something. Did they figure out there’s only space for two of them on the boat?";"Вони щось приховують. Вони зрозуміли, що на човні є місце лише для двох?"
+"Story/BalboaIsland/Voiceline/CorreasDiary3_3";"Text";"";"I’ve decided. I’ll leave the TRIPLETS in charge of the remaining relay stations. ";"Я вирішив. Я залишу ТРІЙКУ відповідальними за решту ретрансляційних станцій. "
+"Story/BalboaIsland/Voiceline/CorreasDiary3_4";"Text";"";"BOBBY will take care of the bears. Yes. It’s for the best.";"БОББІ подбає про ведмедів. Так. Так буде краще."
+"Story/BalboaIsland/Voiceline/CorreasDiary3_5";"Text";"";"So many memories of this place. We’ll find you, sis. I promise.";"З цим місцем пов'язано стільки спогадів. Ми знайдемо тебе, сестричко. Обіцяю."
+"Story/BalboaIsland/Voiceline/DollNote1";"Text";"";"BETRAYAL. FATHER TRUSTS THE MURDERERS.";"ЗРАДА. БАТЬКО ДОВІРЯЄ ВБИВЦЯМ."
+"Story/BalboaIsland/Voiceline/DollNote2";"Text";"";"HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT. ";"ВІН ПОКИНЕ НАС. МИ НЕ МОЖЕМО ЦЬОГО ДОПУСТИТИ. "
+"Story/BalboaIsland/Voiceline/DollNote3";"Text";"";"FATHER HAS TO MAKE A DECISION. I KNOW IT WON’T BE ME, SO I WILL BE SPARED.";"БАТЬКО МУСИТЬ ПРИЙНЯТИ РІШЕННЯ. Я ЗНАЮ, ЩО ЦЕ БУДУ НЕ Я, МЕНЕ ПОМИЛУЮТЬ."
+"Story/BalboaIsland/Voiceline/DollNote4";"Text";"";"NOT ENOUGH BOAT FOR ALL OF US. I’M SORRY, ERROL.";"НА НАС ВСІХ ЧОВНА НЕ ВИСТАЧИТЬ. ПРОБАЧ, ЕРРОЛ."
+"Story/BalboaIsland/Voiceline/DollNote5";"Text";"";"THE GUILTY LAY RESTLESS. WE MUST BE PUNISHED, IF WE ARE TO REST.";"ВИННІ НЕ МОЖУТЬ СПАТИ. МИ ПОВИННІ БУТИ ПОКАРАНІ, ЯКЩО ХОЧЕМО СПОКОЮ."
+"Story/BalboaIsland/Voiceline/NoteFromHenry_1";"Text";"";"Papa MADE HIS MIND UP A LONG TIME AGO. HE’S GOING AFTER AUNTY. ";"ТАТО ПРИЙНЯВ РІШЕННЯ ВЖЕ ДАВНО. ВІН ЙДЕ ЗА ТІТКОЮ. "
+"Story/BalboaIsland/Voiceline/NoteFromHenry_2";"Text";"";"MIRANDA IS FOLLOWING AS ALWAYS. ";"МІРАНДА, ЯК ЗАВЖДИ, СЛІДУЄ ЗА НИМ. "
+"Story/BalboaIsland/Voiceline/PictureOfTwoEngineers";"Text";"";"MERRY CHRISTMAS FROM NOWHERE";"ЩАСЛИВОГО РІЗДВА З НІЗВІДКИ"
 "Story/CaravanIsland/DettosJournal1";"Text";"";"DETTO'S SCIENTIFIC JOURNAL -CLASSIFIED-
 
 Ma says I should write down what I think to make it stick, so I write. Caravan Town is a rock, sticking out from the water. It has good land, to raise pigs to eat. We can fish. Grow vegetables. Only downside are the hyenas, but they are usually friendly.
@@ -1314,26 +1314,26 @@ It took us three months to prepare. The storm blew us apart and away in four day
  
 Now, there’s just me and the Raft, the sound of the waves and the rumbling in my gut. I’d brood, but I think I saw a shark.
  
-Time to get to work.";"Stop me if you’ve heard this one before: fifteen rafts go out, searching for land, six days before the mother of all storms.
+Time to get to work.";"Зупиніть мене, якщо ви вже чули цю історію: п'ятнадцять плотів вирушають на пошуки землі за шість днів до появи матері усіх штормів.
 
-It took us three months to prepare. The storm blew us apart and away in four days.
+Ми готувалися три місяці, а шторм розкидав нас за чотири дні.
  
-Now, there’s just me and the Raft, the sound of the waves and the rumbling in my gut. I’d brood, but I think I saw a shark.
+Залишилися лише я та пліт, шум хвиль і гуркіт у моєму животі. Я задумався, але здається бачу акулу.
  
-Time to get to work."
+Час братися до роботи."
 "Story/Prologue/Prologue";"Text";"";"Stop me if you’ve heard this one before: fifteen rafts go out, searching for land, six days before the mother of all storms.
 
 It took us three months to prepare. The storm blew us apart and away in four days.
  
 Now, there’s just me and the Raft, the sound of the waves and the rumbling in my gut. I’d brood, but I think I saw a shark.
  
-Time to get to work.";"Stop me if you’ve heard this one before: fifteen rafts go out, searching for land, six days before the mother of all storms.
+Time to get to work.";"Зупиніть мене, якщо ви вже чули цю історію: п'ятнадцять плотів вирушають на пошуки землі за шість днів до появи матері усіх штормів.
 
-It took us three months to prepare. The storm blew us apart and away in four days.
+Ми готувалися три місяці, а шторм розкидав нас за чотири дні.
  
-Now, there’s just me and the Raft, the sound of the waves and the rumbling in my gut. I’d brood, but I think I saw a shark.
+Залишилися лише я та пліт, шум хвиль і гуркіт у моєму животі. Я задумався, але здається бачу акулу.
  
-Time to get to work."
+Час братися до роботи."
 "Story/Prologue/ScoutRule1";"Text";"";"Your Raft is your home. Your Hook is your friend.";"Твій пліт — твій дім. Твій гак — твій друг."
 "Story/Prologue/ScoutRule2";"Text";"";"If your Raft breaks, you patch it up. If your Hook is lost, you make another. ";"Якщо твій пліт зламається — відремонтуй. Якщо твій гак загубиться — зроби новий. "
 "Story/Prologue/ScoutRule3";"Text";"";"If you find the big blue stretching out forever, that means you aren’t paying attention.";"Якщо тобі здається, що велика синя смуга попереду нескінченна — тобі лише здається."
@@ -2218,98 +2218,98 @@ Of course, the food shortage will need to be handled. Tonight we’re discussing
 I’ve already made progress on their training. With food and pain as incentives I can discipline them. And by sharing their blood the mutations increase. I wonder if another species would react the same? I’ve received a transmission from a place called Caravan Town not far from here.
 
 They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.
-~Olof Wilkstrom";"These ‘lurkers’ have potential. They were clearly once rats, now grown into something much more rabid. Yet also smarter.
+~Olof Wilkstrom";"А ці шкідники мають потенціал. Вочевидь вони колись були щурами, а тепер стали чимось набагато лютішим. А також розумнішими.
 
-I’ve already made progress on their training. With food and pain as incentives I can discipline them. And by sharing their blood the mutations increase. I wonder if another species would react the same? I’ve received a transmission from a place called Caravan Town not far from here.
+Я вже навчився дресувати їх використовуючи їжу та удари. При змішанні крові їх мутації збільшуються. Цікаво чи була б така сама реакція в інших видів? Я отримав повідомлення з містечка Караван, що неподалік звідси.
 
-They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.
-~Olof Wilkstrom"
+Вони мають велику популяцію тварин. Мені більше не потрібна ця непостійна команда. Я створю справжніх солдатів. Вірних солдатів.
+~Олоф Вілкштром"
 "Story/Vasagatan/Recording1";"Text";"";"(Transcribed)
 (Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”
 (Olof) - “Hanne, you were brought to keep the engines running. That is what you-” 
 (Lurker) - *Rabid noises.*
 (Hanne) - “That’s one of those damn rats! What are you doing to it?”
-(Olof) - “Get out. Do your job.”";"(Transcribed)
-(Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”
-(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” 
-(Lurker) - *Rabid noises.*
-(Hanne) - “That’s one of those damn rats! What are you doing to it?”
-(Olof) - “Get out. Do your job.”"
+(Olof) - “Get out. Do your job.”";"(Розшифроване аудіо)
+(Ханне) - “Але що це значить? Ти не можеш просто так їх звільнити. Ми ж у відкритому морі!”
+(Олоф) - “Ханне, тебе привезли, щоб ти підтримувала роботу двигунів. Це те, що ти...”
+(Шкідник) - *Скажені звуки*
+(Ханне) - “Це один з тих клятих щурів! Що ти з ним робиш?”
+(Олоф) - “Забирайся геть. Роби свою роботу.”"
 "Story/Vasagatan/Recording2";"Text";"";"(Transcribed)
 (Captain) - *Knocking* “Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-”
 (Olof) - “The crew are planning a mutiny, Captain. It is time to act.”
 (Captain) - “A mutiny? They’re just trying to stay alive, I- Are you mad?”
-(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”";"(Transcribed)
-(Captain) - *Knocking* “Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-”
-(Olof) - “The crew are planning a mutiny, Captain. It is time to act.”
-(Captain) - “A mutiny? They’re just trying to stay alive, I- Are you mad?”
-(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”"
+(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”";"(Розшифроване аудіо)
+(Капітан) - *Стукіт* “Вілкштроме, це терміново. З'явився туман. Ми не знаємо, наскільки піднялася вода. Карти марні. Нам треба...”
+(Олоф) - “Екіпаж планує бунт, капітане. Час діяти.”
+(Капітан) - “Бунт? Вони просто намагаються вижити, я... Ви збожеволіли?”
+(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо шкідників на свою користь.”"
 "Story/Vasagatan/Recording3";"Text";"";"(Transcribed)
 [The ship’s hull grinding against solid rock.]
 (Captain) - “Get to the lifeboats! Hurry!”
 (Hanne) - “Olof! You coward!”
 (Lurker) - *Aggressive snarl.*
 (Captain) - “Watch out!”
-[Distorted screams are heard before the tape cuts off.]";"(Transcribed)
-[The ship’s hull grinding against solid rock.]
-(Captain) - “Get to the lifeboats! Hurry!”
-(Hanne) - “Olof! You coward!”
-(Lurker) - *Aggressive snarl.*
-(Captain) - “Watch out!”
-[Distorted screams are heard before the tape cuts off.]"
-"Story/Vasagatan/Voiceline/HannesLetter1_1";"Text";"";"I heard from the captain we’re heading for one of the high-rises down south.";"I heard from the captain we’re heading for one of the high-rises down south."
-"Story/Vasagatan/Voiceline/HannesLetter1_2";"Text";"";"I can only hope you come to your senses and follow us. You knew the city was a failure, Ruben.";"I can only hope you come to your senses and follow us. You knew the city was a failure, Ruben."
-"Story/Vasagatan/Voiceline/HannesLetter1_3";"Text";"";"Why do you always have to be so stubborn? ";"Why do you always have to be so stubborn? "
-"Story/Vasagatan/Voiceline/HannesLetter2_1";"Text";"";"Ruben, The yacht is ill prepared for this journey.";"Ruben, The yacht is ill prepared for this journey."
-"Story/Vasagatan/Voiceline/HannesLetter2_2";"Text";"";"Olof left space for a dance floor, but no space for supplies. ";"Olof left space for a dance floor, but no space for supplies. "
-"Story/Vasagatan/Voiceline/HannesLetter2_3";"Text";"";"The bottles sure found their way to the bar. ";"The bottles sure found their way to the bar. "
-"Story/Vasagatan/Voiceline/HannesLetter2_4";"Text";"";"As a military man I thought Olof would at the very least be practical.";"As a military man I thought Olof would at the very least be practical."
-"Story/Vasagatan/Voiceline/HannesLetter2_5";"Text";"";"Yet they’re all treating it like a luxury cruise.";"Yet they’re all treating it like a luxury cruise."
-"Story/Vasagatan/Voiceline/HannesLetter2_6";"Text";"";"I’m sorry, Ruben. I shouldn't have left.";"Мені шкода, Рубен. Мені не варто було йти."
-"Story/Vasagatan/Voiceline/HannesLetter3_1";"Text";"";"I saw a large rat last night… Unnervingly large. ";"I saw a large rat last night… Unnervingly large. "
-"Story/Vasagatan/Voiceline/HannesLetter3_2";"Text";"";"I tried telling the crew we obviously have an infestation among the locked down supplies.";"I tried telling the crew we obviously have an infestation among the locked down supplies."
-"Story/Vasagatan/Voiceline/HannesLetter3_3";"Text";"";"They laughed at me. I miss you, Ruben.";"They laughed at me. I miss you, Ruben."
-"Story/Vasagatan/Voiceline/MagazineClipping1_1";"Text";"";"calling the cost of the project’s realization “borderline criminal” and its scope “outrageous, at least”";"calling the cost of the project’s realization “borderline criminal” and its scope “outrageous, at least”"
-"Story/Vasagatan/Voiceline/MagazineClipping1_2";"Text";"";"Despite vocal opposition, the Floating Cities Project does not appear to be slowing down anytime soon. ";"Despite vocal opposition, the Floating Cities Project does not appear to be slowing down anytime soon. "
-"Story/Vasagatan/Voiceline/MagazineClipping1_3";"Text";"";"According to former General Olof Wilkstrom’s latest statement on the issue:";"According to former General Olof Wilkstrom’s latest statement on the issue:"
-"Story/Vasagatan/Voiceline/MagazineClipping1_4";"Text";"";"“We are fully aware of the strain this puts on our people. ";"“We are fully aware of the strain this puts on our people. "
-"Story/Vasagatan/Voiceline/MagazineClipping1_5";"Text";"";"Nevertheless, our options are becoming increasingly limited. ";"Nevertheless, our options are becoming increasingly limited. "
-"Story/Vasagatan/Voiceline/MagazineClipping1_6";"Text";"";"We must pull through this together or join Stockholm beneath the waves.”";"We must pull through this together or join Stockholm beneath the waves.”"
-"Story/Vasagatan/Voiceline/MagazineClipping1_7";"Text";"";"Wilkstrom refused to comment on the rumors regarding the modification of his personal yacht. ";"Wilkstrom refused to comment on the rumors regarding the modification of his personal yacht. "
-"Story/Vasagatan/Voiceline/MagazineClipping1_8";"Text";"";"When further asked about the Floating City Project’s whistle blowers, Olof Wilkstrom chose to terminate the interview. ";"When further asked about the Floating City Project’s whistle blowers, Olof Wilkstrom chose to terminate the interview. "
-"Story/Vasagatan/Voiceline/MagazineClipping1_9";"Text";"";"Reaching out to these anonymous sources we were able to further corroborate -";"Reaching out to these anonymous sources we were able to further corroborate -"
-"Story/Vasagatan/Voiceline/OlofsLog1_1";"Text";"";"The captain keeps complaining about my route. If he does it again he will be reprimanded. ";"The captain keeps complaining about my route. If he does it again he will be reprimanded. "
-"Story/Vasagatan/Voiceline/OlofsLog1_2";"Text";"";"The crew doesn’t listen to orders. I’m shocked by their undisciplined nature. ";"The crew doesn’t listen to orders. I’m shocked by their undisciplined nature. "
-"Story/Vasagatan/Voiceline/OlofsLog1_3";"Text";"";"Somehow they believe rank and prestige disappeared with solid land. ";"Somehow they believe rank and prestige disappeared with solid land. "
-"Story/Vasagatan/Voiceline/OlofsLog1_4";"Text";"";"No, they will not be allowed to mingle among my esteemed guests. ";"No, they will not be allowed to mingle among my esteemed guests. "
-"Story/Vasagatan/Voiceline/OlofsLog1_5";"Text";"";"And they will certainly not be allowed further rations. ";"And they will certainly not be allowed further rations. "
-"Story/Vasagatan/Voiceline/OlofsLog1_6";"Text";"";"They should be grateful. I am the only reason they are alive.";"They should be grateful. I am the only reason they are alive."
-"Story/Vasagatan/Voiceline/OlofsLog2_1";"Text";"";"As I’ve suspected the crew is completely incompetent. ";"Як я підозрював, екіпаж абсолютно некомпетентний. "
-"Story/Vasagatan/Voiceline/OlofsLog2_2";"Text";"";"Now they’re claiming RATS have eaten half of our supplies in a matter of weeks. ";"Now they’re claiming RATS have eaten half of our supplies in a matter of weeks. "
-"Story/Vasagatan/Voiceline/OlofsLog2_3";"Text";"";"I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive.";"I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive."
-"Story/Vasagatan/Voiceline/OlofsLog2_4";"Text";"";"Of course, the food shortage will need to be handled. ";"Of course, the food shortage will need to be handled. "
-"Story/Vasagatan/Voiceline/OlofsLog2_5";"Text";"";"Tonight we’re discussing which staff members are most suitable for termination.";"Tonight we’re discussing which staff members are most suitable for termination."
-"Story/Vasagatan/Voiceline/OlofsLog3_1";"Text";"";"These ‘lurkers’ have potential.";"These ‘lurkers’ have potential."
-"Story/Vasagatan/Voiceline/OlofsLog3_2";"Text";"";"They were clearly once rats, now grown into something much more rabid. Yet also smarter.";"They were clearly once rats, now grown into something much more rabid. Yet also smarter."
-"Story/Vasagatan/Voiceline/OlofsLog3_3";"Text";"";"I’ve already made progress on their training. With food and pain as incentives I can discipline them. ";"I’ve already made progress on their training. With food and pain as incentives I can discipline them. "
-"Story/Vasagatan/Voiceline/OlofsLog3_4";"Text";"";"And by sharing their blood the mutations increase. I wonder if another species would react the same?";"And by sharing their blood the mutations increase. I wonder if another species would react the same?"
-"Story/Vasagatan/Voiceline/OlofsLog3_5";"Text";"";"I’ve received a transmission from a place called Caravan Town not far from here.";"I’ve received a transmission from a place called Caravan Town not far from here."
-"Story/Vasagatan/Voiceline/OlofsLog3_6";"Text";"";"They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.";"They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers."
-"Story/Vasagatan/Voiceline/Recording1_1";"Text";"";"(Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”";"(Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”"
-"Story/Vasagatan/Voiceline/Recording1_2";"Text";"";"(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” ";"(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” "
-"Story/Vasagatan/Voiceline/Recording1_3";"Text";"";"(Lurker) - *Rabid noises.*";"(Lurker) - *Rabid noises.*"
-"Story/Vasagatan/Voiceline/Recording1_4";"Text";"";"(Hanne) - “That’s one of those damn rats! What… what are you doing to it?”";"(Hanne) - “That’s one of those damn rats! What… what are you doing to it?”"
-"Story/Vasagatan/Voiceline/Recording1_5";"Text";"";"(Olof) - “Get out. Do your job.”";"(Olof) - “Get out. Do your job.”"
-"Story/Vasagatan/Voiceline/Recording2_1";"Text";"";"(Captain) - *Knocking* “Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-”";"(Captain) - *Knocking* “Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-”"
-"Story/Vasagatan/Voiceline/Recording2_2";"Text";"";"(Olof) - “The crew are planning a mutiny, Captain. It is time to act.”";"(Olof) - “The crew are planning a mutiny, Captain. It is time to act.”"
-"Story/Vasagatan/Voiceline/Recording2_3";"Text";"";"(Captain) - “A mutiny? They’re just trying to stay alive, I- Are you mad?”";"(Captain) - “A mutiny? They’re just trying to stay alive, I- Are you mad?”"
-"Story/Vasagatan/Voiceline/Recording2_4";"Text";"";"(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”";"(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”"
-"Story/Vasagatan/Voiceline/Recording3_1";"Text";"";"[The ship’s hull grinding against solid rock.]";"[The ship’s hull grinding against solid rock.]"
-"Story/Vasagatan/Voiceline/Recording3_2";"Text";"";"(Captain) - “Get to the lifeboats! Hurry!”";"(Captain) - “Get to the lifeboats! Hurry!”"
-"Story/Vasagatan/Voiceline/Recording3_3";"Text";"";"(Hanne) - “Olof! You coward!”";"(Hanne) - “Olof! You coward!”"
-"Story/Vasagatan/Voiceline/Recording3_4";"Text";"";"(Lurker) - *Aggressive snarl.*";"(Lurker) - *Aggressive snarl.*"
-"Story/Vasagatan/Voiceline/Recording3_5";"Text";"";"(Captain) - “Watch out!”";"(Captain) - “Watch out!”"
-"Story/Vasagatan/Voiceline/Recording3_6";"Text";"";"[Distorted screams are heard before the tape cuts off.]";"[Distorted screams are heard before the tape cuts off.]"
+[Distorted screams are heard before the tape cuts off.]";"(Розшифроване аудіо)
+*Корпус корабля скрегоче об тверду породу*
+(Капітан) - “До рятувальних шлюпок! Швидко!”
+(Ханне) - “Олофе! Ти боягуз!”
+(Шкідник) - *Агресивне гарчання*
+(Капітан) - “Стережись!”
+*Чути спотворені крики* | Запис обірвався"
+"Story/Vasagatan/Voiceline/HannesLetter1_1";"Text";"";"I heard from the captain we’re heading for one of the high-rises down south.";"Я чула як капітан сказав, що ми прямуємо до якоїсь височини на півдні."
+"Story/Vasagatan/Voiceline/HannesLetter1_2";"Text";"";"I can only hope you come to your senses and follow us. You knew the city was a failure, Ruben.";"Сподіваюся, ти схаменешся і підеш за нами. Ти ж знав, що місто приречене, Рубене."
+"Story/Vasagatan/Voiceline/HannesLetter1_3";"Text";"";"Why do you always have to be so stubborn? ";"Чому ти завжди такий упертий? "
+"Story/Vasagatan/Voiceline/HannesLetter2_1";"Text";"";"Ruben, The yacht is ill prepared for this journey.";"Рубене, яхта не створена для цієї подорожі."
+"Story/Vasagatan/Voiceline/HannesLetter2_2";"Text";"";"Olof left space for a dance floor, but no space for supplies. ";"Олоф підготував місце для танцмайданчика, але не для припасів. "
+"Story/Vasagatan/Voiceline/HannesLetter2_3";"Text";"";"The bottles sure found their way to the bar. ";"Хоч пляшки у барі є. "
+"Story/Vasagatan/Voiceline/HannesLetter2_4";"Text";"";"As a military man I thought Olof would at the very least be practical.";"Я гадала, що Олоф, як військовий, буде щонайменше практичним."
+"Story/Vasagatan/Voiceline/HannesLetter2_5";"Text";"";"Yet they’re all treating it like a luxury cruise.";"Але всі вони ставляться до цього як до розкішного круїзу."
+"Story/Vasagatan/Voiceline/HannesLetter2_6";"Text";"";"I’m sorry, Ruben. I shouldn't have left.";"Пробач, Рубене. Я не повинна була йти."
+"Story/Vasagatan/Voiceline/HannesLetter3_1";"Text";"";"I saw a large rat last night… Unnervingly large. ";"Минулої ночі я бачила великого щура... Жахливо великого. "
+"Story/Vasagatan/Voiceline/HannesLetter3_2";"Text";"";"I tried telling the crew we obviously have an infestation among the locked down supplies.";"Я намагалася сказати екіпажу, що серед наших припасів, вочевидь, завелися шкідники."
+"Story/Vasagatan/Voiceline/HannesLetter3_3";"Text";"";"They laughed at me. I miss you, Ruben.";"А вони лиш посміялися з мене. Сумую за тобою, Рубене."
+"Story/Vasagatan/Voiceline/MagazineClipping1_1";"Text";"";"calling the cost of the project’s realization “borderline criminal” and its scope “outrageous, at least”";"називаючи вартість реалізації проєкту “майже злочинною”, а його масштаби — “щонайменше неймовірними”."
+"Story/Vasagatan/Voiceline/MagazineClipping1_2";"Text";"";"Despite vocal opposition, the Floating Cities Project does not appear to be slowing down anytime soon. ";"Попри активну опозицію, проєкт плавучих міст, схоже, не збирається зупинятися. "
+"Story/Vasagatan/Voiceline/MagazineClipping1_3";"Text";"";"According to former General Olof Wilkstrom’s latest statement on the issue:";"Про це свідчить остання заява колишнього генерала Олофа Вілкштрома з цього приводу:"
+"Story/Vasagatan/Voiceline/MagazineClipping1_4";"Text";"";"“We are fully aware of the strain this puts on our people. ";"«Ми повністю усвідомлюємо, які труднощі це несе для людей. "
+"Story/Vasagatan/Voiceline/MagazineClipping1_5";"Text";"";"Nevertheless, our options are becoming increasingly limited. ";"Однак, альтернатив стає все менше і менше. "
+"Story/Vasagatan/Voiceline/MagazineClipping1_6";"Text";"";"We must pull through this together or join Stockholm beneath the waves.”";"Ми або повинні пройти через це разом або піти під воду як Стокгольм.»"
+"Story/Vasagatan/Voiceline/MagazineClipping1_7";"Text";"";"Wilkstrom refused to comment on the rumors regarding the modification of his personal yacht. ";"Вілкштром відмовився коментувати чутки про модифікацію його особистої яхти. "
+"Story/Vasagatan/Voiceline/MagazineClipping1_8";"Text";"";"When further asked about the Floating City Project’s whistle blowers, Olof Wilkstrom chose to terminate the interview. ";"А коли його запитали про противників проєкту плавучих міст, він побажав припинити інтерв'ю. "
+"Story/Vasagatan/Voiceline/MagazineClipping1_9";"Text";"";"Reaching out to these anonymous sources we were able to further corroborate -";"Звернувшись до анонімних джерел, ми змогли додатково підтвердити —"
+"Story/Vasagatan/Voiceline/OlofsLog1_1";"Text";"";"The captain keeps complaining about my route. If he does it again he will be reprimanded. ";"Капітан постійно висловлює невдоволення моїм маршрутом. Якщо він зробить це ще раз, то отримає догану. "
+"Story/Vasagatan/Voiceline/OlofsLog1_2";"Text";"";"The crew doesn’t listen to orders. I’m shocked by their undisciplined nature. ";"Екіпаж не слухає наказів. Я шокований їхньою недисциплінованістю. "
+"Story/Vasagatan/Voiceline/OlofsLog1_3";"Text";"";"Somehow they believe rank and prestige disappeared with solid land. ";"Вони чомусь вважають, що звання і повноваження зникли разом із сушею. "
+"Story/Vasagatan/Voiceline/OlofsLog1_4";"Text";"";"No, they will not be allowed to mingle among my esteemed guests. ";"Ні, я не дозволю їм вільно ходити серед моїх шановних гостей. "
+"Story/Vasagatan/Voiceline/OlofsLog1_5";"Text";"";"And they will certainly not be allowed further rations. ";"І я також забороню їм отримувати пайки. "
+"Story/Vasagatan/Voiceline/OlofsLog1_6";"Text";"";"They should be grateful. I am the only reason they are alive.";"Вони повинні дякувати. Вони живі лише завдяки мені."
+"Story/Vasagatan/Voiceline/OlofsLog2_1";"Text";"";"As I’ve suspected the crew is completely incompetent. ";"Як я і підозрював, екіпаж виявився абсолютно некомпетентним. "
+"Story/Vasagatan/Voiceline/OlofsLog2_2";"Text";"";"Now they’re claiming RATS have eaten half of our supplies in a matter of weeks. ";"Тепер вони стверджують, що ЩУРИ з'їли половину нашої їжі за кілька тижнів. "
+"Story/Vasagatan/Voiceline/OlofsLog2_3";"Text";"";"I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive.";"Я пообіцяв їм збільшити пайки, якщо вони зможуть принести мені хоч одного з цих шкідників живим."
+"Story/Vasagatan/Voiceline/OlofsLog2_4";"Text";"";"Of course, the food shortage will need to be handled. ";"Звісно, проблему нестачі їжі треба якось вирішити. "
+"Story/Vasagatan/Voiceline/OlofsLog2_5";"Text";"";"Tonight we’re discussing which staff members are most suitable for termination.";"Сьогодні ввечері ми будемо обговорювати, яких співробітників краще звільнити."
+"Story/Vasagatan/Voiceline/OlofsLog3_1";"Text";"";"These ‘lurkers’ have potential.";"А ці шкідники мають потенціал."
+"Story/Vasagatan/Voiceline/OlofsLog3_2";"Text";"";"They were clearly once rats, now grown into something much more rabid. Yet also smarter.";"Вочевидь вони колись були щурами, а тепер стали чимось набагато лютішим. А також розумнішими."
+"Story/Vasagatan/Voiceline/OlofsLog3_3";"Text";"";"I’ve already made progress on their training. With food and pain as incentives I can discipline them. ";"Я вже навчився дресувати їх використовуючи їжу та удари. "
+"Story/Vasagatan/Voiceline/OlofsLog3_4";"Text";"";"And by sharing their blood the mutations increase. I wonder if another species would react the same?";"При змішанні крові їх мутації збільшуються. Цікаво чи була б така сама реакція в інших видів?"
+"Story/Vasagatan/Voiceline/OlofsLog3_5";"Text";"";"I’ve received a transmission from a place called Caravan Town not far from here.";"Я отримав повідомлення з містечка Караван, що неподалік звідси."
+"Story/Vasagatan/Voiceline/OlofsLog3_6";"Text";"";"They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.";"Вони мають велику популяцію тварин. Мені більше не потрібна ця непостійна команда. Я створю справжніх солдатів. Вірних солдатів."
+"Story/Vasagatan/Voiceline/Recording1_1";"Text";"";"(Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”";"(Ханне) - “Але що це значить? Ти не можеш просто так їх звільнити. Ми ж у відкритому морі!”"
+"Story/Vasagatan/Voiceline/Recording1_2";"Text";"";"(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” ";"(Олоф) - “Ханне, тебе привезли, щоб ти підтримувала роботу двигунів. Це те, що ти...” "
+"Story/Vasagatan/Voiceline/Recording1_3";"Text";"";"(Lurker) - *Rabid noises.*";"(Шкідник) - *Скажені звуки*"
+"Story/Vasagatan/Voiceline/Recording1_4";"Text";"";"(Hanne) - “That’s one of those damn rats! What… what are you doing to it?”";"(Ханне) - “Це один з тих клятих щурів! Що ти з ним робиш?”"
+"Story/Vasagatan/Voiceline/Recording1_5";"Text";"";"(Olof) - “Get out. Do your job.”";"(Олоф) - “Забирайся геть. Роби свою роботу.”"
+"Story/Vasagatan/Voiceline/Recording2_1";"Text";"";"(Captain) - *Knocking* “Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-”";"(Капітан) - *Стукіт* “Вілкштроме, це терміново. З'явився туман. Ми не знаємо, наскільки піднялася вода. Карти марні. Нам треба...”"
+"Story/Vasagatan/Voiceline/Recording2_2";"Text";"";"(Olof) - “The crew are planning a mutiny, Captain. It is time to act.”";"(Олоф) - “Екіпаж планує бунт, капітане. Час діяти.”"
+"Story/Vasagatan/Voiceline/Recording2_3";"Text";"";"(Captain) - “A mutiny? They’re just trying to stay alive, I- Are you mad?”";"(Капітан) - “Бунт? Вони просто намагаються вижити, я... Ви збожеволіли?”"
+"Story/Vasagatan/Voiceline/Recording2_4";"Text";"";"(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”";"(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо шкідників на свою користь.”"
+"Story/Vasagatan/Voiceline/Recording3_1";"Text";"";"[The ship’s hull grinding against solid rock.]";"*Корпус корабля скрегоче об тверду породу*"
+"Story/Vasagatan/Voiceline/Recording3_2";"Text";"";"(Captain) - “Get to the lifeboats! Hurry!”";"(Капітан) - “До рятувальних шлюпок! Швидко!”"
+"Story/Vasagatan/Voiceline/Recording3_3";"Text";"";"(Hanne) - “Olof! You coward!”";"(Ханне) - “Олофе! Ти боягуз!”"
+"Story/Vasagatan/Voiceline/Recording3_4";"Text";"";"(Lurker) - *Aggressive snarl.*";"(Шкідник) - *Агресивне гарчання*"
+"Story/Vasagatan/Voiceline/Recording3_5";"Text";"";"(Captain) - “Watch out!”";"(Капітан) - “Стережись!”"
+"Story/Vasagatan/Voiceline/Recording3_6";"Text";"";"[Distorted screams are heard before the tape cuts off.]";"*Чути спотворені крики* | Запис обірвався"
 "Story/X/Voiceline/BikerDialog1";"Text";"";"Buddy! Yeah, could you be an angel and help me out a bit? I’d owe you big time!";"Друже! Так, ти не міг би бути ангелом і трохи мені допомогти? Буду дуже вдячний!"
 "Story/X/Voiceline/BikerDialog2";"Text";"";"Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!";"О, Боже! Без тебе я б загинув. Порада на майбутнє: ведмеді НЕ дружні!"
 "Story/X/Voiceline/BikerDialog3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Скажи, ти ж не будеш плотарем, га? Якщо тобі потрібні будуть м’язи на боту, не шукай далі!"
