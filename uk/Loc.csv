@@ -730,7 +730,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/HoneyComb";"Text";"";"Honeycomb@Can be used to create honey jars.";"Стільники@Можнуть бути використані для створення банок меду."
 "Item/Hook_Plastic";"Text";"";"Plastic hook@Use this amazing item to catch debris floating by in the ocean!";"Пластиковий гак@Використовуйте цей неймовірний предмет, щоб ловити сміття, яке пропливає повз вас в океані!"
 "Item/Hook_Scrap";"Text";"";"Scrap hook@This is basically the same as the plastic hook but better. It's faster, more durable and can be thrown farther.";"Брухтовий гак@Майже як пластиковий гак, але краще. Він швидший, міцніший та може бути закинутий далі."
-"Item/Hook_Titanium";"Text";"";"Titanium hook@The ultimate hook for any rafter.";"Титановий гак@Оптимальний гак для будь-кого на плоті."
+"Item/Hook_Titanium";"Text";"";"Titanium hook@The ultimate hook for any rafter.";"Титановий гак@Оптимальний гак для будь-якого плотаря."
 "Item/HyenaBossHead";"Text";"";"Alpha's head@It was tough, but you beat it!";"Голова Альфи@Було важко, але ви впоралися!"
 "Item/HyenaHead";"Text";"";"Hyena head@Looks good on a trophy board.";"Голова гієни@Має чудовий вигляд на трофейній дошці."
 "Item/Item";"Text";"";"Item";"Предмет"
@@ -1354,10 +1354,10 @@ I really hope we’re not the last hope for humanity.
 
 Ми зупинились на ніч. Сова вилізла на вежу. Схоже, що радіо все ще працює. До «Селене» ми доберемося десь за два тижні, але команда не виходить на зв'язок.
 
-Можна сказати, що ситуація трохи напружена. Частина приміщень затоплені. Тому… Якщо у «Селене» щось сталося — це кінець. А ще тепер Горобець відмовляється з нами розмовляти.
+Можна сказати, що ситуація трохи напружена. Частина приміщень затоплена. Тому… Якщо у «Селене» щось сталося — це кінець. А ще тепер Горобець відмовляється з нами розмовляти.
 
 Я дуже сподіваюся, що ми не остання надія людства.
-~Куко"
+~Зозуля"
 "Story/RadioTower/Note2";"Text";"";"JANUARY:
 
 It’s been weeks. Just me and Owl here now, stuck on this platform. Sparrow took the boat. I can’t figure out why... Everything is just so secretive. I mean, I don’t even know their real names!
@@ -1371,8 +1371,8 @@ Owl’s yelling up in the tower. Maybe the radio picked up something? Is it you,
 
 Я лиш знаю, що команда в «Селене» отримала прототип, який працює, і їм потрібно більше людей. Ми повинні стати цими людьми, і ми разом б знайшли вихід з цієї халепи. Якось.
 
-Сова кричить на вежі. Може радіо щось вловило? Це ти, Горобцю?
-~Куко"
+Сова щось кричить на вежі. Може радіо щось вловило? Це що, Горобець?
+~Зозуля"
 "Story/RadioTower/Note3";"Text";"";"Errm… FEBRUARY(?) 
 
 We’ve picked up a lot of signals. Maybe someone will come and help us. We’re not starving... yet.
@@ -1380,54 +1380,53 @@ We’ve picked up a lot of signals. Maybe someone will come and help us. We’re
 The reactor at Selene might be the only chance we have against this endless ocean, and you knew it, Sparrow. Owl thinks you betrayed us. But you must have had a good reason for leaving us here.
 
 I hope you make it to Selene. I hope you finish the reactor. For all of us.
-~Cuckoo";"Errm… FEBRUARY(?) 
+~Cuckoo";"Гммм… ЛЮТИЙ(?) 
 
-We’ve picked up a lot of signals. Maybe someone will come and help us. We’re not starving... yet.
+Ми отримали чимало сигналів. Можливо, хтось з'явиться і допоможе нам. Ми не голодуємо... поки.
 
-The reactor at Selene might be the only chance we have against this endless ocean, and you knew it, Sparrow. Owl thinks you betrayed us. But you must have had a good reason for leaving us here.
+Реактор у «Селене» може бути нашим єдиним шансом проти цього безкрайнього океану, і ти це знав, Горобцю. Сова вважає, що ти нас зрадив. Але у тебе, мабуть, була вагома причина залишити нас тут.
 
-I hope you make it to Selene. I hope you finish the reactor. For all of us.
-~Cuckoo"
+Сподіваюся, ти дістанешся до «Селене». Сподіваюся, ти закінчиш реактор. Заради нас усіх.
+~Зозуля"
 "Story/RadioTower/Note4";"Text";"";"OWL’S RADIO NOTES:
 22 Dec ~Distress call received. Balboa Island.
 9 Jan ~Cuckoo won’t accept facts.
 2 Feb ~Gunshots in the distance. Tangaroa City?
 14 Feb ~Sparrow’s comm. At Selene?
 6 Mar ~Another distress call. Varuna Point. Missing child?
-16 Apr ~Rafters dreaming of UTOPIA. Foolish hope.";"OWL’S RADIO NOTES:
-22 Dec ~Distress call received. Balboa Island.
-9 Jan ~Cuckoo won’t accept facts.
-2 Feb ~Gunshots in the distance. Tangaroa City?
-14 Feb ~Sparrow’s comm. At Selene?
-6 Mar ~Another distress call. Varuna Point. Missing child?
-16 Apr ~Rafters dreaming of UTOPIA. Foolish hope."
+16 Apr ~Rafters dreaming of UTOPIA. Foolish hope.";"РАДІОНОТАТКИ СОВИ:
+22 груд. ~Отримано сигнал лиха. Острів Бальбоа.
+9 січ. ~Зозуля не сприймає факти.
+2 лют. ~Постріли удалині. Місто Танґароа?
+14 лют. ~Розмова Горобця. У «Селене»?
+6 берез. ~Ще один сигнал лиха. Варуна Пойнт. Зникле дитя?
+16 квіт. ~Плотарі мріють знайти УТОПІЮ. Безглузда надія."
 "Story/RadioTower/PostIt";"Text";"";"People?";"Люди?"
-"Story/RadioTower/Voiceline/Note1_1";"Text";"";"DECEMBER 12th: We stopped for the night. Owl climbed the tower. Radio still works apparently.";"DECEMBER 12th: We stopped for the night. Owl climbed the tower. Radio still works apparently."
-"Story/RadioTower/Voiceline/Note1_2";"Text";"";"Should be two weeks before we reach Selene, but the team’s not responding.";"Should be two weeks before we reach Selene, but the team’s not responding."
-"Story/RadioTower/Voiceline/Note1_3";"Text";"";"You might say things are a bit tense. The other facilities are under water.";"You might say things are a bit tense. The other facilities are under water."
-"Story/RadioTower/Voiceline/Note1_4";"Text";"";"So… If Selene is lost, we’ve got nothing. And now Sparrow’s not talking to either of us.";"So… If Selene is lost, we’ve got nothing. And now Sparrow’s not talking to either of us."
-"Story/RadioTower/Voiceline/Note1_5";"Text";"";"I really hope we’re not the last hope for humanity.";"I really hope we’re not the last hope for humanity."
-"Story/RadioTower/Voiceline/Note2_1";"Text";"";"JANUARY: It’s been weeks. Just me and Owl here now, stuck on this platform.";"JANUARY: It’s been weeks. Just me and Owl here now, stuck on this platform."
-"Story/RadioTower/Voiceline/Note2_2";"Text";"";"Sparrow took the boat. I can’t figure out why... Everything is just so secretive. ";"Sparrow took the boat. I can’t figure out why... Everything is just so secretive. "
-"Story/RadioTower/Voiceline/Note2_3";"Text";"";"I mean, I don’t even know their real names! ";"I mean, I don’t even know their real names! "
-"Story/RadioTower/Voiceline/Note2_4";"Text";"";"I only know the team at Selene got a prototype working and they needed more people. ";"I only know the team at Selene got a prototype working and they needed more people. "
-"Story/RadioTower/Voiceline/Note2_5";"Text";"";"WE were supposed to be those people and Together we would find a way out of this mess. Somehow.";"WE were supposed to be those people and Together we would find a way out of this mess. Somehow."
+"Story/RadioTower/Voiceline/Note1_1";"Text";"";"DECEMBER 12th: We stopped for the night. Owl climbed the tower. Radio still works apparently.";"12 ГРУДНЯ: Ми зупинились на ніч. Сова вилізла на вежу. Схоже, що радіо все ще працює."
+"Story/RadioTower/Voiceline/Note1_2";"Text";"";"Should be two weeks before we reach Selene, but the team’s not responding.";"До «Селене» ми доберемося десь за два тижні, але команда не виходить на зв'язок."
+"Story/RadioTower/Voiceline/Note1_3";"Text";"";"You might say things are a bit tense. The other facilities are under water.";"Можна сказати, що ситуація трохи напружена. Частина приміщень затоплена."
+"Story/RadioTower/Voiceline/Note1_4";"Text";"";"So… If Selene is lost, we’ve got nothing. And now Sparrow’s not talking to either of us.";"Тому… Якщо у «Селене» щось сталося — це кінець. А ще тепер Горобець відмовляється з нами розмовляти."
+"Story/RadioTower/Voiceline/Note1_5";"Text";"";"I really hope we’re not the last hope for humanity.";"Я дуже сподіваюся, що ми не остання надія людства."
+"Story/RadioTower/Voiceline/Note2_1";"Text";"";"JANUARY: It’s been weeks. Just me and Owl here now, stuck on this platform.";"СІЧЕНЬ: Минули тижні. Наразі тут лише я та Сова, ми застрягли на цій платформі."
+"Story/RadioTower/Voiceline/Note2_2";"Text";"";"Sparrow took the boat. I can’t figure out why... Everything is just so secretive. ";"Горобець забрав човен. Не можу зрозуміти, чому... Все настільки засекречено. "
+"Story/RadioTower/Voiceline/Note2_3";"Text";"";"I mean, I don’t even know their real names! ";"Я навіть не знаю їхніх справжніх імен! "
+"Story/RadioTower/Voiceline/Note2_4";"Text";"";"I only know the team at Selene got a prototype working and they needed more people. ";"Я лиш знаю, що команда в «Селене» отримала прототип, який працює, і їм потрібно більше людей. "
+"Story/RadioTower/Voiceline/Note2_5";"Text";"";"WE were supposed to be those people and Together we would find a way out of this mess. Somehow.";"Ми повинні стати цими людьми, і ми разом б знайшли вихід з цієї халепи. Якось."
 "Story/RadioTower/Voiceline/Note2_6";"Text";"";"Owl’s yelling up in the tower. Maybe the radio picked up something? Is it you, Sparrow?
-";"Owl’s yelling up in the tower. Maybe the radio picked up something? Is it you, Sparrow?
-"
-"Story/RadioTower/Voiceline/Note3_1";"Text";"";"Errm… FEBRUARY(?) We’ve picked up a lot of signals. Maybe someone will come and help us. ";"Errm… FEBRUARY(?) We’ve picked up a lot of signals. Maybe someone will come and help us. "
-"Story/RadioTower/Voiceline/Note3_2";"Text";"";"We’re not starving... yet.";"We’re not starving... yet."
-"Story/RadioTower/Voiceline/Note3_3";"Text";"";"The reactor at Selene might be the only chance we have against this endless ocean.";"The reactor at Selene might be the only chance we have against this endless ocean."
-"Story/RadioTower/Voiceline/Note3_4";"Text";"";" You knew it, Sparrow. Owl thinks you betrayed us. ";" You knew it, Sparrow. Owl thinks you betrayed us. "
-"Story/RadioTower/Voiceline/Note3_5";"Text";"";"But you must have had a good reason for leaving us here.";"But you must have had a good reason for leaving us here."
-"Story/RadioTower/Voiceline/Note3_6";"Text";"";"I hope you make it to Selene. I hope you finish the reactor. For all of us.";"I hope you make it to Selene. I hope you finish the reactor. For all of us."
-"Story/RadioTower/Voiceline/Note4_1";"Text";"";"OWL’S RADIO NOTES:";"OWL’S RADIO NOTES:"
-"Story/RadioTower/Voiceline/Note4_2";"Text";"";"22 Dec ~Distress call received. Balboa Island.";"22 Dec ~Distress call received. Balboa Island."
-"Story/RadioTower/Voiceline/Note4_3";"Text";"";"9 Jan ~Cuckoo won’t accept facts.";"9 Jan ~Cuckoo won’t accept facts."
-"Story/RadioTower/Voiceline/Note4_4";"Text";"";"2 Feb ~Gunshots in the distance. Tangaroa City?";"2 Feb ~Gunshots in the distance. Tangaroa City?"
-"Story/RadioTower/Voiceline/Note4_5";"Text";"";"14 Feb ~Sparrow’s comm. At Selene?";"14 Feb ~Sparrow’s comm. At Selene?"
-"Story/RadioTower/Voiceline/Note4_6";"Text";"";"6 Mar ~Another distress call. Varuna Point. Missing child?";"6 Mar ~Another distress call. Varuna Point. Missing child?"
-"Story/RadioTower/Voiceline/Note4_7";"Text";"";"16 Apr ~Rafters dreaming of UTOPIA. Foolish hope.";"16 Apr ~Rafters dreaming of UTOPIA. Foolish hope."
+";"Сова щось кричить на вежі. Може радіо щось вловило? Це що, Горобець?"
+"Story/RadioTower/Voiceline/Note3_1";"Text";"";"Errm… FEBRUARY(?) We’ve picked up a lot of signals. Maybe someone will come and help us. ";"Гммм… ЛЮТИЙ(?) Ми отримали чимало сигналів. Можливо, хтось з'явиться і допоможе нам. "
+"Story/RadioTower/Voiceline/Note3_2";"Text";"";"We’re not starving... yet.";"Ми не голодуємо... поки."
+"Story/RadioTower/Voiceline/Note3_3";"Text";"";"The reactor at Selene might be the only chance we have against this endless ocean.";"Реактор у «Селене» може бути нашим єдиним шансом проти цього безкрайнього океану."
+"Story/RadioTower/Voiceline/Note3_4";"Text";"";" You knew it, Sparrow. Owl thinks you betrayed us. ";" І ти це знав, Горобцю. Сова вважає, що ти нас зрадив. "
+"Story/RadioTower/Voiceline/Note3_5";"Text";"";"But you must have had a good reason for leaving us here.";"Але у тебе, мабуть, була вагома причина залишити нас тут."
+"Story/RadioTower/Voiceline/Note3_6";"Text";"";"I hope you make it to Selene. I hope you finish the reactor. For all of us.";"Сподіваюся, ти дістанешся до «Селене». Сподіваюся, ти закінчиш реактор. Заради нас усіх."
+"Story/RadioTower/Voiceline/Note4_1";"Text";"";"OWL’S RADIO NOTES:";"РАДІОНОТАТКИ СОВИ:"
+"Story/RadioTower/Voiceline/Note4_2";"Text";"";"22 Dec ~Distress call received. Balboa Island.";"22 груд. ~Отримано сигнал лиха. Острів Бальбоа."
+"Story/RadioTower/Voiceline/Note4_3";"Text";"";"9 Jan ~Cuckoo won’t accept facts.";"9 січ. ~Зозуля не сприймає факти."
+"Story/RadioTower/Voiceline/Note4_4";"Text";"";"2 Feb ~Gunshots in the distance. Tangaroa City?";"2 лют. ~Постріли удалині. Місто Танґароа?"
+"Story/RadioTower/Voiceline/Note4_5";"Text";"";"14 Feb ~Sparrow’s comm. At Selene?";"14 лют. ~Розмова Горобця. У «Селене»?"
+"Story/RadioTower/Voiceline/Note4_6";"Text";"";"6 Mar ~Another distress call. Varuna Point. Missing child?";"6 берез. ~Ще один сигнал лиха. Варуна Пойнт. Зникле дитя?"
+"Story/RadioTower/Voiceline/Note4_7";"Text";"";"16 Apr ~Rafters dreaming of UTOPIA. Foolish hope.";"16 квіт. ~Плотарі мріють знайти УТОПІЮ. Безглузда надія."
 "Story/Tangaroa/GardenerDiary";"Text";"";"Oh no, no, no. The entire ecosystem is ruined! 
 
 I’ve WARNED Captain Tulley about this for weeks now. My contract doesn’t allow me to tell anyone else and it’s eating me up inside. The banana plants won’t bear nearly enough fruit. Not to mention the infestations…
@@ -2165,37 +2164,37 @@ But it’s just one shark. How hard could it be?
 "Story/Vasagatan/HannesLetter1";"Text";"";"I heard from the captain we’re heading for one of the high-rises down south. I can only hope you come to your senses and follow us.
 
 You knew the city was a failure, Ruben. Why do you always have to be so stubborn? 
-~Hanne";"I heard from the captain we’re heading for one of the high-rises down south. I can only hope you come to your senses and follow us.
+~Hanne";"Я чула як капітан сказав, що ми прямуємо до якоїсь височини на півдні. Сподіваюся, ти схаменешся і підеш за нами.
 
-You knew the city was a failure, Ruben. Why do you always have to be so stubborn? 
-~Hanne"
+Ти ж знав, що місто приречене, Рубене. Чому ти завжди такий упертий? 
+~Ханне"
 "Story/Vasagatan/HannesLetter2";"Text";"";"Ruben,
 
 The yacht is ill prepared for this journey. Olof left space for a dance floor, but no space for supplies. The bottles sure found their way to the bar. As a military man I thought Olof would at the very least be practical. Yet they’re all treating it like a luxury cruise.
 
 I’m sorry, Ruben. I shouldn't have left.
-~Hanne";"Ruben,
+~Hanne";"Рубене,
 
-The yacht is ill prepared for this journey. Olof left space for a dance floor, but no space for supplies. The bottles sure found their way to the bar. As a military man I thought Olof would at the very least be practical. Yet they’re all treating it like a luxury cruise.
+Яхта не створена для цієї подорожі. Олоф підготував місце для танцмайданчика, але не для припасів. Хоч пляшки у барі є. Я гадала, що Олоф, як військовий, буде щонайменше практичним. Але всі вони ставляться до цього як до розкішного круїзу.
 
-I’m sorry, Ruben. I shouldn't have left.
-~Hanne"
+Пробач, Рубене. Я не повинна була йти.
+~Ханне"
 "Story/Vasagatan/HannesLetter3";"Text";"";"I saw a large rat last night… Unnervingly large. I tried telling the crew we obviously have an infestation among the locked down supplies. They laughed at me.
 
 I miss you, Ruben.
-~Hanne";"I saw a large rat last night… Unnervingly large. I tried telling the crew we obviously have an infestation among the locked down supplies. They laughed at me.
+~Hanne";"Минулої ночі я бачила великого щура... Жахливо великого. Я намагалася сказати екіпажу, що серед наших припасів, вочевидь, завелися шкідники. А вони лиш посміялися з мене.
 
-I miss you, Ruben.
-~Hanne"
+Сумую за тобою, Рубене.
+~Ханне"
 "Story/Vasagatan/MagazineClipping1";"Text";"";"calling the cost of the project’s realization “borderline criminal” and its scope “outrageous, at least”. Despite vocal opposition, the Floating Cities Project does not appear to be slowing down anytime soon. According to former General Olof Wilkstrom’s latest statement on the issue:
 
-“We are fully aware of the strain this puts on our people. Nevertheless, our options are becoming increasingly limited. We must pull through this together or join Stockholm beneath the waves.”";"calling the cost of the project’s realization “borderline criminal” and its scope “outrageous, at least”. Despite vocal opposition, the Floating Cities Project does not appear to be slowing down anytime soon. According to former General Olof Wilkstrom’s latest statement on the issue:
+“We are fully aware of the strain this puts on our people. Nevertheless, our options are becoming increasingly limited. We must pull through this together or join Stockholm beneath the waves.”";"називаючи вартість реалізації проєкту “майже злочинною”, а його масштаби — “щонайменше неймовірними”. Попри активну опозицію, проєкт плавучих міст, схоже, не збирається зупинятися. Про це свідчить остання заява колишнього генерала Олофа Вілкштрома з цього приводу:
 
-“We are fully aware of the strain this puts on our people. Nevertheless, our options are becoming increasingly limited. We must pull through this together or join Stockholm beneath the waves.”"
-"Story/Vasagatan/MagazineClipping2";"Text";"";"""We must pull through this together or join Stockholm beneath the waves.""";"""We must pull through this together or join Stockholm beneath the waves."""
-"Story/Vasagatan/MagazineClipping3";"Text";"";"Wilkstrom refused to comment on the rumors regarding the modification of his personal yacht. When further asked about the Floating City Project’s whistle blowers, Olof Wilkstrom chose to terminate the interview. Reaching out to these anonymous sources we were able to further corroborate -";"Wilkstrom refused to comment on the rumors regarding the modification of his personal yacht. When further asked about the Floating City Project’s whistle blowers, Olof Wilkstrom chose to terminate the interview. Reaching out to these anonymous sources we were able to further corroborate -"
-"Story/Vasagatan/MagazineClippingFactbox";"Text";"";"Factbox";"Factbox"
-"Story/Vasagatan/MagazineClippingTitle";"Text";"";"CITIES IN THE BLUE";"CITIES IN THE BLUE"
+«Ми повністю усвідомлюємо, які труднощі це несе для людей. Однак, альтернатив стає все менше і менше. Ми або повинні пройти через це разом або піти під воду як Стокгольм.»"
+"Story/Vasagatan/MagazineClipping2";"Text";"";"""We must pull through this together or join Stockholm beneath the waves.""";"«Ми або повинні пройти через це разом або піти під воду як Стокгольм.»"
+"Story/Vasagatan/MagazineClipping3";"Text";"";"Wilkstrom refused to comment on the rumors regarding the modification of his personal yacht. When further asked about the Floating City Project’s whistle blowers, Olof Wilkstrom chose to terminate the interview. Reaching out to these anonymous sources we were able to further corroborate -";"Вілкштром відмовився коментувати чутки про модифікацію його особистої яхти. А коли його запитали про противників проєкту плавучих міст, він побажав припинити інтерв'ю. Звернувшись до анонімних джерел, ми змогли додатково підтвердити —"
+"Story/Vasagatan/MagazineClippingFactbox";"Text";"";"Factbox";"Цікаві факти"
+"Story/Vasagatan/MagazineClippingTitle";"Text";"";"CITIES IN THE BLUE";"МІСТА У БЛАКИТІ"
 "Story/Vasagatan/OlofsLog1";"Text";"";"The captain keeps complaining about my route. If he does it again he will be reprimanded. 
 
 The crew doesn’t listen to orders. I’m shocked by their undisciplined nature. Somehow they believe rank and prestige disappeared with solid land. No, they will not be allowed to mingle among my esteemed guests. And they will certainly not be allowed further rations. 
@@ -2313,11 +2312,11 @@ They have an active animal population. No longer do I need this make-shift crew.
 "Story/Vasagatan/Voiceline/Recording3_6";"Text";"";"[Distorted screams are heard before the tape cuts off.]";"[Distorted screams are heard before the tape cuts off.]"
 "Story/X/Voiceline/BikerDialog1";"Text";"";"Buddy! Yeah, could you be an angel and help me out a bit? I’d owe you big time!";"Друже! Так, ти не міг би бути ангелом і трохи мені допомогти? Буду дуже вдячний!"
 "Story/X/Voiceline/BikerDialog2";"Text";"";"Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!";"О, Боже! Без тебе я б загинув. Порада на майбутнє: ведмеді НЕ дружні!"
-"Story/X/Voiceline/BikerDialog3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Скажи, ти ж не будеш пливти на плоті, так? Якщо тобі потрібні м’язи на борту, то тобі сюди!"
+"Story/X/Voiceline/BikerDialog3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Скажи, ти ж не будеш плотарем, га? Якщо тобі потрібні будуть м’язи на боту, не шукай далі!"
 "Story/X/Voiceline/BikerDialog4";"Text";"";"Alright, yeah! Leave the heavy lifting to me!";"Добре, зрозумів! Залиш важку роботу мені!"
 "Story/X/Voiceline/BikerDialogue1";"Text";"";"Buddy! Yeah, could you be an angel and help me out a bit? I’d owe you big time!";"Друже! Так, ти не міг би бути ангелом і трохи мені допомогти? Буду дуже вдячний!"
 "Story/X/Voiceline/BikerDialogue2";"Text";"";"Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!";"О, Боже! Без тебе я б загинув. Порада на майбутнє: ведмеді НЕ дружні!"
-"Story/X/Voiceline/BikerDialogue3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Скажи, ти ж не будеш пливти на плоті, так? Якщо тобі потрібні м’язи на борту, то тобі сюди!"
+"Story/X/Voiceline/BikerDialogue3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Скажи, ти ж не будеш плотарем, га? Якщо тобі потрібні будуть м’язи на боту, не шукай далі!"
 "Story/X/Voiceline/BikerDialogue4";"Text";"";"Alright, yeah! Leave the heavy lifting to me!";"Добре, так! Залиш важку роботу мені!"
 "Story/X/Voiceline/BikerDialogue5";"Text";"";"Ain’t nothing like the fresh breeze. Reminds me of the road trips me and the boys used to go on.";"Ніщо не може зрівнятися зі свіжим вітром. Нагадує мені про дорожні подорожі, в які ми з хлопцями колись вирушали."
 "Story/X/Voiceline/ExecutiveDialog1";"Text";"";"You there. Get me out of this thing.";"You there. Get me out of this thing."
