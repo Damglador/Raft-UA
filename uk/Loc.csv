@@ -454,7 +454,7 @@ Evacuate personnel from the crane area";"Помилка
 "Game/PickupNote";"Text";"";"New note added";"Записку знайдено"
 "Game/PlaceInBed";"Text";"";"Place {[CarriedPlayer]} in bed";"Покласти {[CarriedPlayer]} у ліжко"
 "Game/PlaceItem";"Text";"";"Place {[CurrentItem]}";"Помістити «{[CurrentItem]}»"
-"Game/PlaceItemResearch";"Text";"";"Place item in slot to research";"Для дослідження помістіть предмет у слот"
+"Game/PlaceItemResearch";"Text";"";"Place item in slot to research";"Для дослідження помістіть предмет у комірку"
 "Game/PlaceItemX";"Text";"";"Place {[ItemX]}";"Помістити «{[ItemX]}»"
 "Game/PlantItemX";"Text";"";"Plant {[ItemX]}";"Посадити «{[ItemX]}»"
 "Game/PlayerDisconnected";"Text";"";"has left the raft!";"залишив пліт!"
