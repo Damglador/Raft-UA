@@ -1601,7 +1601,7 @@ Where are you, sis?
 "Story/Temperance/Bruno4";"Text";"";"That kid Detto is really smart. Using material we salvaged, he was able to fix up my boat. Ruben is recovering too, but... he doesn’t seem to want to talk to me a lot. Both of them stare whenever I talk to HENRY…?
 
 HENRY doesn’t like the way they look at us. I think I need to do something.
-~Bruno";"Той хлопчина Детто дуже кмітливий. З допомогою матеріалу, що ми припасли, він зміг виправити мій човен. Рубен також видужує, але... схоже, він не дуже бажає розмовляти зі мною. Обидва зазираються щоразу, коли я розмовляю з ГЕНРІ…?
+~Bruno";"Той хлопчина Детто дуже кмітливий. З допомогою матеріалу, що ми припасли, він зміг виправити моє судно. Рубен також видужує, але... схоже, він не дуже бажає розмовляти зі мною. Обидва зазираються щоразу, коли я розмовляю з ГЕНРІ…?
 
 ГЕНРІ не до вподоби те, як вони дивляться на нас. Схоже, мені треба щось зробити.
 ~Бруно"
@@ -1612,7 +1612,7 @@ HENRY is staying behind. It’s bittersweet. He doesn’t speak with me anymore,
 It’s nice talking to people.
 ~Bruno";"Судно готове до відправлення. Детто готовий працювати з тифоном, а Рубен принаймні може ходити.
 
-ГЕНРІ залишається позаду. Якось і радісно, і сумно. Він зі мною більше не розмовляє, але комусь легше попросити когось, щоб лишився позаду. Детто, там є місце для купи людей. Рубен каже, що Астрід може бути там. Вона точно не тут, в цьому холодному місці.
+ГЕНРІ залишається позаду. Якось і радісно, і сумно. Він зі мною більше не розмовляє, але я думаю, так буде безпечніше, якщо хтось лишиться позаду. Детто каже, там є місце для купи людей. Рубен каже, що Астрід може бути там. Вона точно не тут, в цьому холодному місці.
 
 Чудово розмовляти з людьми.
 ~Бруно"
@@ -1621,69 +1621,69 @@ It’s nice talking to people.
 I was sent to Selene alongside two colleagues. One of which I discovered was a mole by the ‘investors’. Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.
 
 The other colleague… I left behind. I did not trust you, Cuckoo. I couldn’t. It was too much of a risk. I hope you will forgive me.
-~Sparrow";"I am called Sparrow. Whoever finds this, know that I held humanity’s interest first. Always.
+~Sparrow";"Мене звуть Горобець. Хто знайде цей запис, знайте - я ставив інтереси людства на перше місце. Завжди.
 
-I was sent to Selene alongside two colleagues. One of which I discovered was a mole by the ‘investors’. Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.
+Мене відправили до Селени разом з двома колегами. Я з'ясував, що один з них - кріт, надісланий ""інвесторами"". От дозволили б Сові прибути до Селени, знання про цю необмежену зелену енергію були б монополізовані тими самими людьми, що й заварили ту кашу, яку ми й сьорбали.
 
-The other colleague… I left behind. I did not trust you, Cuckoo. I couldn’t. It was too much of a risk. I hope you will forgive me.
-~Sparrow"
+Іншу колегу... я лишив позаду. Я тобі не довіряв, Зозуле. Я не міг. Це було надто ризиковано. Сподіваюсь, ти мені пробачиш.
+~Горобець"
 "Story/Temperance/Sparrow2";"Text";"";"The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities. No easy task. But it has been done. In theory. Yet we do not have the people to construct anything but a basic prototype. It can be built for real, I know it! We just need more people.
 
 There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. One of the ‘investors’ has taken control of the community. Olof Wilkstrom. I fear his intentions with this potential Utopia.
-~Sparrow";"The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities. No easy task. But it has been done. In theory. Yet we do not have the people to construct anything but a basic prototype. It can be built for real, I know it! We just need more people.
+~Sparrow";"Комплекс Селена був збудований лише з однією метою: освоєння та покращення експериментальних реакторів, які живили плавучі міста енергією. Непросте завдання. Та все ж, воно виконане. В теорії. Однак в нас нема людей для конструкції всього, крім основного прототипу. Його справді можна збудувати, я це точно знаю! Нам лише треба більше людей.
 
-There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. One of the ‘investors’ has taken control of the community. Olof Wilkstrom. I fear his intentions with this potential Utopia.
-~Sparrow"
+Є одне місце, де плотяри живуть в мирі разом з усіма вижившими зі старого світу. Його називають Утопія. Може, там ми можемо усунути шкоду, яку ми наробили. Але вчора ми отримали повідомлення від них. Один з ""інвесторів"" взяв на себе контроль над громадою. Олоф Уілкстром. Мене лякають його наміри щодо потенційної Утопії.
+~Горобець"
 "Story/Temperance/Voiceline/Bruno1_1";"Text";"";"I’ve already lost MIRANDA. I will not lose you too, HENRY.";"Я вже втратив МІРАНДУ. Тебе я точно не втрачу, ГЕНРІ."
 "Story/Temperance/Voiceline/Bruno1_2";"Text";"";"The two of us have followed a signal far south. I know it's from my sister. There’s no doubt. ";"Ми обидва пішли вслід за сигналом далеко на південь. Я знаю, він від моєї сестри. Жодних сумнівів. "
 "Story/Temperance/Voiceline/Bruno1_3";"Text";"";"HENRY is skeptical. He thinks the cold will be dangerous.";"ГЕНРІ скептичний. Він вважає, холоди будуть небезпечними."
 "Story/Temperance/Voiceline/Bruno1_4";"Text";"";"I'm more scared of whatever’s out there in the snowstorm…";"Я більше боюся будь-чого, що може бути там, у сніговій бурі…"
 "Story/Temperance/Voiceline/Bruno2_1";"Text";"";"There’s bears all over this frozen island!";"Бачили ведмедів на цьому замороженому острові!"
-"Story/Temperance/Voiceline/Bruno2_2";"Text";"";"One of them completely wrecked the boat when we tried to get away. ";"One of them completely wrecked the boat when we tried to get away. "
-"Story/Temperance/Voiceline/Bruno2_3";"Text";"";"None of the usual tricks worked either. ";"None of the usual tricks worked either. "
-"Story/Temperance/Voiceline/Bruno2_4";"Text";"";"HENRY and I would have been eaten if that boy with the airhorn hadn’t showed up. ";"HENRY and I would have been eaten if that boy with the airhorn hadn’t showed up. "
-"Story/Temperance/Voiceline/Bruno2_5";"Text";"";"His name is Detto. Says he came here with some survivors.";"His name is Detto. Says he came here with some survivors."
-"Story/Temperance/Voiceline/Bruno2_6";"Text";"";"I asked HENRY if I should trust the boy. But I didn’t get an answer.";"I asked HENRY if I should trust the boy. But I didn’t get an answer."
-"Story/Temperance/Voiceline/Bruno3_1";"Text";"";"Detto showed me and HENRY some abandoned igloos.";"Detto showed me and HENRY some abandoned igloos."
-"Story/Temperance/Voiceline/Bruno3_2";"Text";"";"The boy got them open by fiddling with some cables? The big igloo is still shut though.";"The boy got them open by fiddling with some cables? The big igloo is still shut though."
+"Story/Temperance/Voiceline/Bruno2_2";"Text";"";"One of them completely wrecked the boat when we tried to get away. ";"Один із них повністю розтрощив судно, коли ми намагалися втекти."
+"Story/Temperance/Voiceline/Bruno2_3";"Text";"";"None of the usual tricks worked either. ";"Жодні простенькі хитрощі також не спрацювали. "
+"Story/Temperance/Voiceline/Bruno2_4";"Text";"";"HENRY and I would have been eaten if that boy with the airhorn hadn’t showed up. ";"Нас із ГЕНРІ просто з'їли б, якби не з'явився той хлопчик з тифоном. "
+"Story/Temperance/Voiceline/Bruno2_5";"Text";"";"His name is Detto. Says he came here with some survivors.";"Його звати Детто. Сказав, він прибув сюди з деякими вижившими."
+"Story/Temperance/Voiceline/Bruno2_6";"Text";"";"I asked HENRY if I should trust the boy. But I didn’t get an answer.";"Я запитав ГЕНРІ, чи варто довіряти хлопчику. Але у відповідь - нічого."
+"Story/Temperance/Voiceline/Bruno3_1";"Text";"";"Detto showed me and HENRY some abandoned igloos.";"Детто показав нам з ГЕНРІ деякі закинуті іґлу."
+"Story/Temperance/Voiceline/Bruno3_2";"Text";"";"The boy got them open by fiddling with some cables? The big igloo is still shut though.";"Хлопчик їх відчинив, повозившись з дротами? Велика іґлу все ще замкнена."
 "Story/Temperance/Voiceline/Bruno3_3";"Text";"";"I wonder what’s inside…";"Цікаво, що всередині…"
-"Story/Temperance/Voiceline/Bruno3_4";"Text";"";"Detto introduced me to a man named Ruben. He was hurt.";"Detto introduced me to a man named Ruben. He was hurt."
-"Story/Temperance/Voiceline/Bruno3_5";"Text";"";"Looked like wounds from a bear attack, so I helped fix up the wounds.";"Looked like wounds from a bear attack, so I helped fix up the wounds."
-"Story/Temperance/Voiceline/Bruno3_6";"Text";"";"Astrid used to fix up my wounds the same way. Where are you, sis?";"Astrid used to fix up my wounds the same way. Where are you, sis?"
-"Story/Temperance/Voiceline/Bruno4_1";"Text";"";"That kid Detto is really smart. Using material we salvaged, he was able to fix up my boat.";"That kid Detto is really smart. Using material we salvaged, he was able to fix up my boat."
-"Story/Temperance/Voiceline/Bruno4_2";"Text";"";"Ruben is recovering too, but... he doesn’t seem to want to talk to me a lot.";"Ruben is recovering too, but... he doesn’t seem to want to talk to me a lot."
-"Story/Temperance/Voiceline/Bruno4_3";"Text";"";"Both of them stare whenever I talk to HENRY…?";"Both of them stare whenever I talk to HENRY…?"
-"Story/Temperance/Voiceline/Bruno4_4";"Text";"";"HENRY doesn’t like the way they look at us. I think I need to do something.";"HENRY doesn’t like the way they look at us. I think I need to do something."
-"Story/Temperance/Voiceline/Bruno5_1";"Text";"";"The boat is ready to go. Detto is ready with the airhorn, and Ruben can at least walk.";"The boat is ready to go. Detto is ready with the airhorn, and Ruben can at least walk."
-"Story/Temperance/Voiceline/Bruno5_2";"Text";"";"HENRY is staying behind. It’s bittersweet.";"HENRY is staying behind. It’s bittersweet."
-"Story/Temperance/Voiceline/Bruno5_3";"Text";"";"He doesn’t speak with me anymore, but I think it’s safer for someone to stay behind. ";"He doesn’t speak with me anymore, but I think it’s safer for someone to stay behind. "
-"Story/Temperance/Voiceline/Bruno5_4";"Text";"";"Detto says there’s a place with lots of people. Ruben says Astrid might be there.";"Detto says there’s a place with lots of people. Ruben says Astrid might be there."
-"Story/Temperance/Voiceline/Bruno5_5";"Text";"";"She definitely isn’t here, in this cold place. It’s nice talking to people.";"She definitely isn’t here, in this cold place. It’s nice talking to people."
-"Story/Temperance/Voiceline/Sparrow1_1";"Text";"";"I am called Sparrow. Whoever finds this, know that I held humanity’s interest first. Always.";"I am called Sparrow. Whoever finds this, know that I held humanity’s interest first. Always."
-"Story/Temperance/Voiceline/Sparrow1_2";"Text";"";"I was sent to Selene alongside two colleagues.";"I was sent to Selene alongside two colleagues."
-"Story/Temperance/Voiceline/Sparrow1_3";"Text";"";"One of which I discovered was a mole by the ‘investors’.";"One of which I discovered was a mole by the ‘investors’."
-"Story/Temperance/Voiceline/Sparrow1_4";"Text";"";"Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.";"Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with."
-"Story/Temperance/Voiceline/Sparrow1_5";"Text";"";"The other colleague… I left behind. I did not trust you, Cuckoo.";"The other colleague… I left behind. I did not trust you, Cuckoo."
-"Story/Temperance/Voiceline/Sparrow1_6";"Text";"";"I couldn’t. It was too much of a risk. I hope you will forgive me.";"I couldn’t. It was too much of a risk. I hope you will forgive me."
-"Story/Temperance/Voiceline/Sparrow2_1";"Text";"";"The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities.";"The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities."
-"Story/Temperance/Voiceline/Sparrow2_2";"Text";"";"No easy task. But it has been done. In theory.";"No easy task. But it has been done. In theory."
-"Story/Temperance/Voiceline/Sparrow2_3";"Text";"";"Yet we do not have the people to construct anything but a basic prototype. ";"Yet we do not have the people to construct anything but a basic prototype. "
-"Story/Temperance/Voiceline/Sparrow2_4";"Text";"";"It can be built for real, I know it! We just need more people.";"It can be built for real, I know it! We just need more people."
-"Story/Temperance/Voiceline/Sparrow2_5";"Text";"";"There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. ";"There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. "
-"Story/Temperance/Voiceline/Sparrow2_6";"Text";"";"Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. ";"Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. "
-"Story/Temperance/Voiceline/Sparrow2_7";"Text";"";"One of the ‘investors’ has taken control of the community. Olof Wilkstrom.";"One of the ‘investors’ has taken control of the community. Olof Wilkstrom."
-"Story/Temperance/Voiceline/Sparrow2_8";"Text";"";"I fear his intentions with this potential Haven.";"I fear his intentions with this potential Haven."
+"Story/Temperance/Voiceline/Bruno3_4";"Text";"";"Detto introduced me to a man named Ruben. He was hurt.";"Детто мене познайомив з чоловіком на ім'я Рубен. Йому було боляче."
+"Story/Temperance/Voiceline/Bruno3_5";"Text";"";"Looked like wounds from a bear attack, so I helped fix up the wounds.";"Схоже, рани в нього після нападу ведмедя, тому я допоміг йому перев'язати рани."
+"Story/Temperance/Voiceline/Bruno3_6";"Text";"";"Astrid used to fix up my wounds the same way. Where are you, sis?";"Астрід раніше так само перев'язувала мені рани. Де ж ти є, сестричко?"
+"Story/Temperance/Voiceline/Bruno4_1";"Text";"";"That kid Detto is really smart. Using material we salvaged, he was able to fix up my boat.";"Той хлопчина Детто дуже кмітливий. З допомогою матеріалу, що ми припасли, він зміг виправити моє судно."
+"Story/Temperance/Voiceline/Bruno4_2";"Text";"";"Ruben is recovering too, but... he doesn’t seem to want to talk to me a lot.";"Рубен також видужує, але... схоже, він не дуже бажає розмовляти зі мною."
+"Story/Temperance/Voiceline/Bruno4_3";"Text";"";"Both of them stare whenever I talk to HENRY…?";"Обидва зазираються щоразу, коли я розмовляю з ГЕНРІ…?"
+"Story/Temperance/Voiceline/Bruno4_4";"Text";"";"HENRY doesn’t like the way they look at us. I think I need to do something.";"ГЕНРІ не до вподоби те, як вони дивляться на нас. Схоже, мені треба щось зробити."
+"Story/Temperance/Voiceline/Bruno5_1";"Text";"";"The boat is ready to go. Detto is ready with the airhorn, and Ruben can at least walk.";"Судно готове до відправлення. Детто готовий працювати з тифоном, а Рубен принаймні може ходити."
+"Story/Temperance/Voiceline/Bruno5_2";"Text";"";"HENRY is staying behind. It’s bittersweet.";"ГЕНРІ залишається позаду. Якось і радісно, і сумно."
+"Story/Temperance/Voiceline/Bruno5_3";"Text";"";"He doesn’t speak with me anymore, but I think it’s safer for someone to stay behind. ";"Він зі мною більше не розмовляє, але я думаю, так буде безпечніше, якщо хтось лишиться позаду. "
+"Story/Temperance/Voiceline/Bruno5_4";"Text";"";"Detto says there’s a place with lots of people. Ruben says Astrid might be there.";"Детто каже, там є місце для купи людей. Рубен каже, що Астрід може бути там."
+"Story/Temperance/Voiceline/Bruno5_5";"Text";"";"She definitely isn’t here, in this cold place. It’s nice talking to people.";"Вона точно не тут, в цьому холодному місці. Чудово розмовляти з людьми."
+"Story/Temperance/Voiceline/Sparrow1_1";"Text";"";"I am called Sparrow. Whoever finds this, know that I held humanity’s interest first. Always.";"Мене звуть Горобець. Хто знайде цей запис, знайте - я ставив інтереси людства на перше місце. Завжди."
+"Story/Temperance/Voiceline/Sparrow1_2";"Text";"";"I was sent to Selene alongside two colleagues.";"Мене відправили до Селени разом з двома колегами."
+"Story/Temperance/Voiceline/Sparrow1_3";"Text";"";"One of which I discovered was a mole by the ‘investors’.";"Я з'ясував, що один з них - кріт, надісланий ""інвесторами""."
+"Story/Temperance/Voiceline/Sparrow1_4";"Text";"";"Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.";"От дозволили б Сові прибути до Селени, знання про цю необмежену зелену енергію були б монополізовані тими самими людьми, що й заварили ту кашу, яку ми й сьорбали."
+"Story/Temperance/Voiceline/Sparrow1_5";"Text";"";"The other colleague… I left behind. I did not trust you, Cuckoo.";"Іншу колегу... я лишив позаду. Я тобі не довіряв, Зозуле."
+"Story/Temperance/Voiceline/Sparrow1_6";"Text";"";"I couldn’t. It was too much of a risk. I hope you will forgive me.";"Я не міг. Це було надто ризиковано. Сподіваюсь, ти мені пробачиш."
+"Story/Temperance/Voiceline/Sparrow2_1";"Text";"";"The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities.";"Комплекс Селена був збудований лише з однією метою: освоєння та покращення експериментальних реакторів, які живили плавучі міста енергією."
+"Story/Temperance/Voiceline/Sparrow2_2";"Text";"";"No easy task. But it has been done. In theory.";"Непросте завдання. Та все ж, воно виконане. В теорії."
+"Story/Temperance/Voiceline/Sparrow2_3";"Text";"";"Yet we do not have the people to construct anything but a basic prototype. ";"Однак в нас нема людей для конструкції всього, крім основного прототипу. "
+"Story/Temperance/Voiceline/Sparrow2_4";"Text";"";"It can be built for real, I know it! We just need more people.";"Його справді можна збудувати, я це точно знаю! Нам лише треба більше людей."
+"Story/Temperance/Voiceline/Sparrow2_5";"Text";"";"There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. ";"Є одне місце, де плотяри живуть в мирі разом з усіма вижившими зі старого світу. Його називають Утопія. "
+"Story/Temperance/Voiceline/Sparrow2_6";"Text";"";"Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. ";"Може, там ми можемо усунути шкоду, яку ми наробили. Але вчора ми отримали повідомлення від них. "
+"Story/Temperance/Voiceline/Sparrow2_7";"Text";"";"One of the ‘investors’ has taken control of the community. Olof Wilkstrom.";"Один з ""інвесторів"" взяв на себе контроль над громадою. Олоф Уілкстром."
+"Story/Temperance/Voiceline/Sparrow2_8";"Text";"";"I fear his intentions with this potential Haven.";"Мене лякають його наміри щодо потенційної Утопії."
 "Story/Utopia/Captives";"Text";"";"FROM THE PEOPLE OF UTOPIA
 
 Do NOT trust Olof Wilkstrom. When he arrived here we took his word in good faith. He exploited us at every turn. Now all of us ‘dissenters’ are locked up. Which is everyone, by my count.
 
 To anyone reading this, Olof should be up in the marketplace. BEWARE of his rabid beasts! Please, take the master key from him. Set us free! Set Utopia FREE!
-~Hanne, Utopia Representative";"FROM THE PEOPLE OF UTOPIA
+~Hanne, Utopia Representative";"ВІД ЛЮДЕЙ УТОПІЇ
 
-Do NOT trust Olof Wilkstrom. When he arrived here we took his word in good faith. He exploited us at every turn. Now all of us ‘dissenters’ are locked up. Which is everyone, by my count.
+НЕ довіряйте Олофу Уілкстрому. Коли він сюди прибув, ми повірили йому на слово. Він нас використовував на кожному кроці. Тепер усі ми, ""інакодумці"", замкнені. А за моїми підрахунками, це буквально всі.
 
-To anyone reading this, Olof should be up in the marketplace. BEWARE of his rabid beasts! Please, take the master key from him. Set us free! Set Utopia FREE!
-~Hanne, Utopia Representative"
+Хто це читає, знайте - Олоф вже має бути на ринку. ОСТЕРІГАЙТЕСЯ його скажених звірів! Будь ласка, заберіть у нього головний ключ. Звільніть нас! Звільніть УТОПІЮ!
+~Ганна, Представниця Утопії"
 "Story/Utopia/DettoRaft";"Text";"";"DETTO'S UTOPIA JOURNAL -SUPER SECRET-
 
 I have my own raft! And it’s hooked up to actual wind turbines! If I had even more power, just imagine all the experiments I could run… 
@@ -1751,12 +1751,12 @@ From today on, we are all Forward Scouts, ready to discover the next step for hu
 "Story/Utopia/Voiceline/BrunoDialogue7";"Text";"";"My sister is out there somewhere, I know it!";"My sister is out there somewhere, I know it!"
 "Story/Utopia/Voiceline/BrunoDialogue8";"Text";"";"You were on Balboa? The bears weren’t too much of a hassle, I hope.";"You were on Balboa? The bears weren’t too much of a hassle, I hope."
 "Story/Utopia/Voiceline/BrunoDialogue9";"Text";"";"You’ve been to Temperance too? You must really like bears.";"You’ve been to Temperance too? You must really like bears."
-"Story/Utopia/Voiceline/Captives_1";"Text";"";"FROM THE PEOPLE OF UTOPIA";"FROM THE PEOPLE OF UTOPIA"
-"Story/Utopia/Voiceline/Captives_2";"Text";"";"Do NOT trust Olof Wilkstrom. When he arrived here we took his word in good faith.";"Do NOT trust Olof Wilkstrom. When he arrived here we took his word in good faith."
-"Story/Utopia/Voiceline/Captives_3";"Text";"";"He exploited us at every turn. Now all of us ‘dissenters’ are locked up.";"He exploited us at every turn. Now all of us ‘dissenters’ are locked up."
-"Story/Utopia/Voiceline/Captives_4";"Text";"";"Which is everyone, by my count. To anyone reading this, Olof should be up in the marketplace.";"Which is everyone, by my count. To anyone reading this, Olof should be up in the marketplace."
-"Story/Utopia/Voiceline/Captives_5";"Text";"";"BEWARE of his rabid beasts! Please, take the master key from him.";"BEWARE of his rabid beasts! Please, take the master key from him."
-"Story/Utopia/Voiceline/Captives_6";"Text";"";"Set us free! Set Utopia FREE!";"Set us free! Set Utopia FREE!"
+"Story/Utopia/Voiceline/Captives_1";"Text";"";"FROM THE PEOPLE OF UTOPIA";"ВІД ЛЮДЕЙ УТОПІЇ"
+"Story/Utopia/Voiceline/Captives_2";"Text";"";"Do NOT trust Olof Wilkstrom. When he arrived here we took his word in good faith.";"НЕ довіряйте Олофу Уілкстрому. Коли він сюди прибув, ми повірили йому на слово."
+"Story/Utopia/Voiceline/Captives_3";"Text";"";"He exploited us at every turn. Now all of us ‘dissenters’ are locked up.";"Він нас використовував на кожному кроці. Тепер усі ми, ""інакодумці"", замкнені."
+"Story/Utopia/Voiceline/Captives_4";"Text";"";"Which is everyone, by my count. To anyone reading this, Olof should be up in the marketplace.";"А за моїми підрахунками, це буквально всі. Хто це читає, знайте - Олоф вже має бути на ринку."
+"Story/Utopia/Voiceline/Captives_5";"Text";"";"BEWARE of his rabid beasts! Please, take the master key from him.";"ОСТЕРІГАЙТЕСЯ його скажених звірів! Будь ласка, заберіть у нього головний ключ."
+"Story/Utopia/Voiceline/Captives_6";"Text";"";"Set us free! Set Utopia FREE!";"Звільніть нас! Звільніть УТОПІЮ!"
 "Story/Utopia/Voiceline/CitraDialogue1";"Text";"";"The turbines are still working, wonderful.";"The turbines are still working, wonderful."
 "Story/Utopia/Voiceline/CitraDialogue2";"Text";"";"Ruben went to check up on the systems straight away.";"Ruben went to check up on the systems straight away."
 "Story/Utopia/Voiceline/CitraDialogue3";"Text";"";"Without him we’d still be using candles every night.";"Without him we’d still be using candles every night."
