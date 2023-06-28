@@ -431,7 +431,7 @@ Evacuate personnel from the crane area";"Помилка
 "Game/Harvest";"Text";"";"Harvest";"Урожай"
 "Game/HazmatSuit";"Text";"";"Equip hazmat suit";"Одягти захисний костюм"
 "Game/Health";"Text";"";"Health";"Здоров’я"
-"Game/HoldToPickupX";"Text";"";"Hold to pick up {[ItemX]}";"Утримуйте, щоб забрати «{[ItemX]}»"
+"Game/HoldToPickupX";"Text";"";"Hold to pick up {[ItemX]}";"Утримуйте, щоб забрати {[ItemX]}"
 "Game/InStock";"Text";"";"In stock: {[ItemX]}";"На складі: {[ItemX]}"
 "Game/InsertCogwheel";"Text";"";"Insert cogwheel";"Вставити шестерню"
 "Game/Keypad/Fail";"Text";"";"Error";"Помилка"
@@ -1446,7 +1446,7 @@ We’ll be starving by the end of the year. If not sooner!
 (Security) - ”Tulley says shoot to wound..?”";"(Розшифроване аудіо)
 (Охорона) - “Ні, сер, вони не зробили нічого ворожого. Так, вони все ще просто скандують.”
 (Капітан Таллі) - *Приглушена відповідь*
-(Охорона) - “Так, сер, я озброєний. Але якщо я можу говорити відверто, ми можемо використати водомети, якщо...”
+(Охорона) - “Так, сер, я озброєна. Але відверто кажучи, ми можемо використати водомети, якщо...”
 (Капітан Таллі) - *Приглушений наказ*
 (Охорона) - “Так, сер. Ні, сер.” 
 *Статичний радіосигнал вимикається, коли голос охоронця тремтить*
@@ -1524,7 +1524,7 @@ Now I will stay here, trapped in the cockpit with two dozen idiots who used to r
 "Story/Tangaroa/Voiceline/GardenerDiary_5";"Text";"";"We’ll be starving by the end of the year. If not sooner!";"Ми будемо голодувати вже наприкінці року. Якщо не раніше!"
 "Story/Tangaroa/Voiceline/RiotLog_1";"Text";"";"(Security) - “No sir, they haven’t done anything hostile. Yes, they’re still just chanting.”";"(Охорона) - “Ні, сер, вони не зробили нічого ворожого. Так, вони все ще просто скандують.”"
 "Story/Tangaroa/Voiceline/RiotLog_2";"Text";"";"(Captain Tulley) - *Muffled response.*";"(Капітан Таллі) - *Приглушена відповідь*"
-"Story/Tangaroa/Voiceline/RiotLog_3";"Text";"";"(Security) - ”Yes sir, I am armed. But if I may speak freely, we are able to use the water cannons if-”";"(Охорона) - “Так, сер, я озброєний. Але якщо я можу говорити відверто, ми можемо використати водомети, якщо...”"
+"Story/Tangaroa/Voiceline/RiotLog_3";"Text";"";"(Security) - ”Yes sir, I am armed. But if I may speak freely, we are able to use the water cannons if-”";"(Охорона) - “Так, сер, я озброєна. Але відверто кажучи, ми можемо використати водомети, якщо...”"
 "Story/Tangaroa/Voiceline/RiotLog_4";"Text";"";"(Captain Tulley) - *Muffled order.*";"(Капітан Таллі) - *Приглушений наказ*"
 "Story/Tangaroa/Voiceline/RiotLog_5";"Text";"";"(Security) - ”Yes, sir. No, sir.” ";"(Охорона) - “Так, сер. Ні, сер.” "
 "Story/Tangaroa/Voiceline/RiotLog_6";"Text";"";"(Security) - ”Tulley says shoot to wound..?”";"(Охорона) - ”Таллі сказав стріляти на ураження...?”"
