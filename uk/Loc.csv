@@ -1233,7 +1233,7 @@ If I’m thrown in jail, this is proof I am innocent!";"Мене звати Са
 Детто зібрав водолазний костюм з велосипеда та старого водолазного шолома. Він поклав у нього гирі, аби спуститися вниз, але поклав забагато. І якщо я піду звідси, то ніхто не зможе качати повітря до Детто за допомогою велосипеда! 
 
 Якщо мене запроторять за ґрати, це буде доказом того, що я не винний!"
-"Story/CaravanIsland/UpdateRequired1";"Text";"";"Caravan Town and more is coming in 'The Second Chapter'";"Містечко Караван та багато іншого. Вже незабаром у другій частині."
+"Story/CaravanIsland/UpdateRequired1";"Text";"";"Caravan Town and more is coming in 'The Second Chapter'";"Містечко Караван та багато іншого. Вже незабаром у ""другому розділі""."
 "Story/CaravanIsland/UpdateRequired2";"Text";"";"If you want to keep up with the development, click our social medias below.";"Якщо ви хочете бути в курсі подій, слідкуйте за нашими соцмережами нижче."
 "Story/CaravanIsland/Voiceline/DettosJournal1_1";"Text";"";"DETTO'S SCIENTIFIC JOURNAL -CLASSIFIED-";"НАУКОВИЙ ЖУРНАЛ ДЕТТО -ЗАСЕКРЕЧЕНО-"
 "Story/CaravanIsland/Voiceline/DettosJournal1_2";"Text";"";"Ma says I should write down what I think to make it stick, so I write. ";"Мама каже, треба записувати все, що, на мою думку, може бути важливим, от я й записую. "
@@ -2314,8 +2314,8 @@ They have an active animal population. No longer do I need this make-shift crew.
 "Story/X/Voiceline/BikerDialog4";"Text";"";"Alright, yeah! Leave the heavy lifting to me!";"Добре, зрозумів! Залиш важку працю для мене!"
 "Story/X/Voiceline/BikerDialogue1";"Text";"";"Buddy! Yeah, could you be an angel and help me out a bit? I’d owe you big time!";"Друже! Так, ти, можеш мені трохи допомогти? Я буду тобі вельми вдячний!"
 "Story/X/Voiceline/BikerDialogue2";"Text";"";"Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!";"Друже! Так, ти, можеш мені трохи допомогти? Я буду тобі вельми вдячний!"
-"Story/X/Voiceline/BikerDialogue3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"А ти випадково не плотар, га? Якщо тобі потрібні будуть м’язи на боту — можеш далі не шукати!"
-"Story/X/Voiceline/BikerDialogue4";"Text";"";"Alright, yeah! Leave the heavy lifting to me!";"Добре, зрозумів! Залиш важку працю для мене!"
+"Story/X/Voiceline/BikerDialogue3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Слухайте, а ви часом не плотар, га? Якщо потрібні будуть м’язи на борту — можете далі не шукати!"
+"Story/X/Voiceline/BikerDialogue4";"Text";"";"Alright, yeah! Leave the heavy lifting to me!";"Добре, зрозумів! Залиште важку працю мені!"
 "Story/X/Voiceline/BikerDialogue5";"Text";"";"Ain’t nothing like the fresh breeze. Reminds me of the road trips me and the boys used to go on.";"Ніщо не зрівняється зі свіжим вітерцем. Він нагадує мені про подорожі, у які ми з хлопцями колись їздили."
 "Story/X/Voiceline/ExecutiveDialog1";"Text";"";"You there. Get me out of this thing.";"Гей, ти. Витягни мене з цієї штуки."
 "Story/X/Voiceline/ExecutiveDialog2";"Text";"";"Finally. I thought I’d be stuck here forever.";"Нарешті. Я вже думав, що застряг тут назавжди."
