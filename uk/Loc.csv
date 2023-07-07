@@ -1841,7 +1841,7 @@ From today on, we are all Forward Scouts, ready to discover the next step for hu
 "Story/Utopia/Voiceline/EndSlides_3";"Text";"";"Now Utopia stands free once again thanks to their actions.";"І тепер, завдяки їхнім діям, Утопія знову вільна."
 "Story/Utopia/Voiceline/EndSlides_4";"Text";"";"With this final chance we can begin - the slow and difficult road to recovery.";"З цим останнім шансом ми можемо почати повільний і тяжкий шлях до відновлення."
 "Story/Utopia/Voiceline/EndSlides_5";"Text";"";"From today on, we are all Forward Scouts, ready to discover the next step for humanity.";"Відсьогодні ми всі передові розвідники, готові відшукати наступний крок для людства."
-"Story/Utopia/Voiceline/HanneDialogue1";"Text";"";"We owe our future to you. Grateful doesn’t even begin to describe it.";"We owe our future to you. Grateful doesn’t even begin to describe it."
+"Story/Utopia/Voiceline/HanneDialogue1";"Text";"";"We owe our future to you. Grateful doesn’t even begin to describe it.";"Ми вдячні тобі за наше майбутнє. Вдячність навіть не може описати це відчуття."
 "Story/Utopia/Voiceline/HanneDialogue10_1";"Text";"";"Detto will do fine. Despite everything, that boy has a certain spirit in him. ";"Detto will do fine. Despite everything, that boy has a certain spirit in him. "
 "Story/Utopia/Voiceline/HanneDialogue10_2";"Text";"";"It gives me hope for Utopia. For humanity, honestly.";"It gives me hope for Utopia. For humanity, honestly."
 "Story/Utopia/Voiceline/HanneDialogue11_1";"Text";"";"I heard about the Selene facility. ";"Я чула про комплекс ""Селену"". "
@@ -2016,8 +2016,8 @@ From today on, we are all Forward Scouts, ready to discover the next step for hu
 "Story/Utopia/Voiceline/OlofDialogue14_2";"Text";"";"The city wouldn’t last a year out at sea. ";"The city wouldn’t last a year out at sea. "
 "Story/Utopia/Voiceline/OlofDialogue14_3";"Text";"";"Vasagatan was my way of saving a few souls from that fate.";"Vasagatan was my way of saving a few souls from that fate."
 "Story/Utopia/Voiceline/OlofDialogue15";"Text";"";"They would have drowned anyway.";"They would have drowned anyway."
-"Story/Utopia/Voiceline/OlofDialogue16";"Text";"";"I am a good man. I am a good man.";"I am a good man. I am a good man."
-"Story/Utopia/Voiceline/OlofDialogue17_1";"Text";"";"The Lurkers weren’t entirely useless. ";"The Lurkers weren’t entirely useless. "
+"Story/Utopia/Voiceline/OlofDialogue16";"Text";"";"I am a good man. I am a good man.";"Я хороша людина. Я хороша людина."
+"Story/Utopia/Voiceline/OlofDialogue17_1";"Text";"";"The Lurkers weren’t entirely useless. ";"Чатівники не були повністю марними. "
 "Story/Utopia/Voiceline/OlofDialogue17_2";"Text";"";"They wrought chaos onboard Tangaroa.";"They wrought chaos onboard Tangaroa."
 "Story/Utopia/Voiceline/OlofDialogue17_3";"Text";"";"Any decent fighting force could have brought order within a day or two.";"Any decent fighting force could have brought order within a day or two."
 "Story/Utopia/Voiceline/OlofDialogue17_4";"Text";"";"None of them were ready for reality. When there’s only food for one in ten, nine have to go.";"None of them were ready for reality. When there’s only food for one in ten, nine have to go."
@@ -2206,7 +2206,7 @@ They should be grateful. I am the only reason they are alive.
 "Story/Vasagatan/OlofsLog2";"Text";"";"As I’ve suspected the crew is completely incompetent. Now they’re claiming RATS have eaten half of our supplies in a matter of weeks. I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive.
 
 Of course, the food shortage will need to be handled. Tonight we’re discussing which staff members are most suitable for termination.
-~Olof Wilkstrom";"Як я і підозрював, екіпаж виявився абсолютно некомпетентним. Тепер вони стверджують, що ЩУРИ з'їли половину нашої їжі за кілька тижнів. Я пообіцяв їм збільшити пайки, якщо вони зможуть принести мені хоч одного з цих шкідників живим.
+~Olof Wilkstrom";"Як я і підозрював, екіпаж виявився абсолютно некомпетентним. Тепер вони стверджують, що ЩУРИ з'їли половину нашої їжі за кілька тижнів. Я пообіцяв їм збільшити пайки, якщо вони зможуть принести мені хоч одного з цих ""чатівників"" живим.
 
 Звісно, проблему нестачі їжі треба якось вирішити. Сьогодні ввечері ми будемо обговорювати, яких співробітників краще звільнити.
 ~Олоф Вілкштром"
@@ -2215,7 +2215,7 @@ Of course, the food shortage will need to be handled. Tonight we’re discussing
 I’ve already made progress on their training. With food and pain as incentives I can discipline them. And by sharing their blood the mutations increase. I wonder if another species would react the same? I’ve received a transmission from a place called Caravan Town not far from here.
 
 They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.
-~Olof Wilkstrom";"А ці шкідники мають потенціал. Вочевидь вони колись були щурами, а тепер стали чимось набагато лютішим. А також розумнішими.
+~Olof Wilkstrom";"А ці ""чатівники"" мають потенціал. Вочевидь вони колись були щурами, а тепер стали чимось набагато лютішим. А також розумнішими.
 
 Я вже навчився дресувати їх використовуючи їжу та удари. При змішанні крові їх мутації збільшуються. Цікаво чи була б така сама реакція в інших видів? Я отримав повідомлення з містечка Караван, що неподалік звідси.
 
@@ -2229,7 +2229,7 @@ They have an active animal population. No longer do I need this make-shift crew.
 (Olof) - “Get out. Do your job.”";"(Розшифроване аудіо)
 (Ханне) - “Але що це значить? Ти не можеш просто так їх звільнити. Ми ж у відкритому морі!”
 (Олоф) - “Ханне, тебе привезли, щоб ти підтримувала роботу двигунів. Це те, що ти...”
-(Шкідник) - *Скажені звуки*
+(Чатівник) - *Скажені звуки*
 (Ханне) - “Це один з тих клятих щурів! Що ти з ним робиш?”
 (Олоф) - “Забирайся геть. Роби свою роботу.”"
 "Story/Vasagatan/Recording2";"Text";"";"(Transcribed)
@@ -2240,7 +2240,7 @@ They have an active animal population. No longer do I need this make-shift crew.
 (Капітан) - *Стукіт* “Вілкштроме, це терміново. З'явився туман. Ми не знаємо, наскільки піднялася вода. Карти марні. Нам треба...”
 (Олоф) - “Екіпаж планує бунт, капітане. Час діяти.”
 (Капітан) - “Бунт? Вони просто намагаються вижити, я... Ви збожеволіли?”
-(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо шкідників на свою користь.”"
+(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо ""чатівників"" на свою користь.”"
 "Story/Vasagatan/Recording3";"Text";"";"(Transcribed)
 [The ship’s hull grinding against solid rock.]
 (Captain) - “Get to the lifeboats! Hurry!”
@@ -2286,7 +2286,7 @@ They have an active animal population. No longer do I need this make-shift crew.
 "Story/Vasagatan/Voiceline/OlofsLog2_3";"Text";"";"I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive.";"Я пообіцяв їм збільшити пайки, якщо вони зможуть принести мені хоч одного з цих шкідників живим."
 "Story/Vasagatan/Voiceline/OlofsLog2_4";"Text";"";"Of course, the food shortage will need to be handled. ";"Звісно, проблему нестачі їжі треба якось вирішити. "
 "Story/Vasagatan/Voiceline/OlofsLog2_5";"Text";"";"Tonight we’re discussing which staff members are most suitable for termination.";"Сьогодні ввечері ми будемо обговорювати, яких співробітників краще звільнити."
-"Story/Vasagatan/Voiceline/OlofsLog3_1";"Text";"";"These ‘lurkers’ have potential.";"А ці шкідники мають потенціал."
+"Story/Vasagatan/Voiceline/OlofsLog3_1";"Text";"";"These ‘lurkers’ have potential.";"А ці ""чатівники"" мають потенціал."
 "Story/Vasagatan/Voiceline/OlofsLog3_2";"Text";"";"They were clearly once rats, now grown into something much more rabid. Yet also smarter.";"Вочевидь вони колись були щурами, а тепер стали чимось набагато лютішим. А також розумнішими."
 "Story/Vasagatan/Voiceline/OlofsLog3_3";"Text";"";"I’ve already made progress on their training. With food and pain as incentives I can discipline them. ";"Я вже навчився дресувати їх використовуючи їжу та удари. "
 "Story/Vasagatan/Voiceline/OlofsLog3_4";"Text";"";"And by sharing their blood the mutations increase. I wonder if another species would react the same?";"При змішанні крові їх мутації збільшуються. Цікаво чи була б така сама реакція в інших видів?"
@@ -2294,17 +2294,17 @@ They have an active animal population. No longer do I need this make-shift crew.
 "Story/Vasagatan/Voiceline/OlofsLog3_6";"Text";"";"They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.";"Вони мають велику популяцію тварин. Мені більше не потрібна ця непостійна команда. Я створю справжніх солдатів. Вірних солдатів."
 "Story/Vasagatan/Voiceline/Recording1_1";"Text";"";"(Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”";"(Ханне) - “Але що це значить? Ти не можеш просто так їх звільнити. Ми ж у відкритому морі!”"
 "Story/Vasagatan/Voiceline/Recording1_2";"Text";"";"(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” ";"(Олоф) - “Ханне, тебе привезли, щоб ти підтримувала роботу двигунів. Це те, що ти...” "
-"Story/Vasagatan/Voiceline/Recording1_3";"Text";"";"(Lurker) - *Rabid noises.*";"(Шкідник) - *Скажені звуки*"
+"Story/Vasagatan/Voiceline/Recording1_3";"Text";"";"(Lurker) - *Rabid noises.*";"(Чатівник) - *Скажені звуки*"
 "Story/Vasagatan/Voiceline/Recording1_4";"Text";"";"(Hanne) - “That’s one of those damn rats! What… what are you doing to it?”";"(Ханне) - “Це один з тих клятих щурів! Що ти з ним робиш?”"
 "Story/Vasagatan/Voiceline/Recording1_5";"Text";"";"(Olof) - “Get out. Do your job.”";"(Олоф) - “Забирайся геть. Роби свою роботу.”"
 "Story/Vasagatan/Voiceline/Recording2_1";"Text";"";"(Captain) - *Knocking* “Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-”";"(Капітан) - *Стукіт* “Вілкштроме, це терміново. З'явився туман. Ми не знаємо, наскільки піднялася вода. Карти марні. Нам треба...”"
 "Story/Vasagatan/Voiceline/Recording2_2";"Text";"";"(Olof) - “The crew are planning a mutiny, Captain. It is time to act.”";"(Олоф) - “Екіпаж планує бунт, капітане. Час діяти.”"
 "Story/Vasagatan/Voiceline/Recording2_3";"Text";"";"(Captain) - “A mutiny? They’re just trying to stay alive, I- Are you mad?”";"(Капітан) - “Бунт? Вони просто намагаються вижити, я... Ви збожеволіли?”"
-"Story/Vasagatan/Voiceline/Recording2_4";"Text";"";"(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”";"(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо шкідників на свою користь.”"
+"Story/Vasagatan/Voiceline/Recording2_4";"Text";"";"(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”";"(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо ""чатівників"" на свою користь.”"
 "Story/Vasagatan/Voiceline/Recording3_1";"Text";"";"[The ship’s hull grinding against solid rock.]";"*Корпус корабля скрегоче об тверду породу*"
 "Story/Vasagatan/Voiceline/Recording3_2";"Text";"";"(Captain) - “Get to the lifeboats! Hurry!”";"(Капітан) - “До рятувальних шлюпок! Швидко!”"
 "Story/Vasagatan/Voiceline/Recording3_3";"Text";"";"(Hanne) - “Olof! You coward!”";"(Ханне) - “Олофе! Ти боягуз!”"
-"Story/Vasagatan/Voiceline/Recording3_4";"Text";"";"(Lurker) - *Aggressive snarl.*";"(Шкідник) - *Агресивне гарчання*"
+"Story/Vasagatan/Voiceline/Recording3_4";"Text";"";"(Lurker) - *Aggressive snarl.*";"(Чатівник) - *Агресивне гарчання*"
 "Story/Vasagatan/Voiceline/Recording3_5";"Text";"";"(Captain) - “Watch out!”";"(Капітан) - “Стережись!”"
 "Story/Vasagatan/Voiceline/Recording3_6";"Text";"";"[Distorted screams are heard before the tape cuts off.]";"*Чути спотворені крики* | Запис обірвався"
 "Story/X/Voiceline/BikerDialog1";"Text";"";"Buddy! Yeah, could you be an angel and help me out a bit? I’d owe you big time!";"Друже! Так, ти, можеш мені трохи допомогти? Я буду тобі вельми вдячний!"
