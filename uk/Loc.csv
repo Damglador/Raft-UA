@@ -558,7 +558,7 @@ Evacuate personnel from the crane area";"Помилка
 "Graphics/TextureQuality";"Text";"";"Texture quality";"Якість текстур"
 "Graphics/WaterQuality";"Text";"";"Water quality";"Якість води"
 "Item/Advanced_Battery";"Text";"";"Advanced Battery@Used to power electrical machines for longer.";"Покращений акумулятор@Використовується для більш тривалого живлення техніки."
-"Item/AirBottle";"Text";"";"Oxygen bottle@Provides extra oxygen underwater.";"Киснева пляшка@Надає додатковий кисень під водою."
+"Item/AirBottle";"Text";"";"Oxygen bottle@Provides extra oxygen underwater.";"Пляшка з киснем@Надає додатковий кисень під водою."
 "Item/AnglerFishHead";"Text";"";"Anglerfish head@Can be worn to brighten a dark room.";"Голова вудильника@Можна носити, щоб освітлювати темні кімнати."
 "Item/Arrow_Metal";"Text";"";"Metal arrow@Pointy, lightweight and well balanced.";"Металева стріла@Гостра, легка і добре збалансована."
 "Item/Arrow_Plastic";"Text";"";"Plastic arrow@A very simple arrow.";"Пластмасова стріла@Дуже проста стріла."
@@ -591,11 +591,11 @@ Evacuate personnel from the crane area";"Помилка
 "Item/BlueprintCropplot_Large_Tier3";"Text";"";"Blueprint: Advanced large crop plot@Can be learned in researchtable.";"Креслення: Покращена велика грядка@Можна вивчити у дослідницькому столі."
 "Item/BlueprintCropplot_Medium_Tier3";"Text";"";"Blueprint: Advanced medium crop plot@Can be learned in researchtable.";"Креслення: Покращена середня грядка@Можна вивчити у дослідницькому столі."
 "Item/BlueprintCropplot_Small_Tier3";"Text";"";"Blueprint: Advanced small crop plot@Can be learned in researchtable.";"Креслення: Покращена маленька грядка@Можна вивчити у дослідницькому столі."
-"Item/BlueprintDetailPlank";"Text";"";"Blueprint: Detail plank@Can be learned in researchtable.";"Креслення: Дошка-деталь@Можна вивчити у дослідницькому столі."
+"Item/BlueprintDetailPlank";"Text";"";"Blueprint: Detail plank@Can be learned in researchtable.";"Креслення: Декоративна дошка@Можна вивчити у дослідницькому столі."
 "Item/BlueprintDrinkingGlass";"Text";"";"Blueprint: Drinking glass@Can be learned in researchtable.";"Креслення: Склянка для пиття@Можна вивчити у дослідницькому столі."
 "Item/BlueprintElectricGrill";"Text";"";"Blueprint: Electric grill@Can be learned in researchtable.";"Креслення: Електрогриль@Можна вивчити у дослідницькому столі."
 "Item/BlueprintElectricPurifier";"Text";"";"Blueprint: Electric purifier@Can be learned in researchtable.";"Креслення: Електроочищувач@Можна вивчити у дослідницькому столі."
-"Item/BlueprintEngineControls";"Text";"";"Blueprint: Engine controls@Can be learned in researchtable.";"Креслення: Пристрій контролю@Можна вивчити у дослідницькому столі."
+"Item/BlueprintEngineControls";"Text";"";"Blueprint: Engine controls@Can be learned in researchtable.";"Креслення: Пристрій контролю двигунів@Можна вивчити у дослідницькому столі."
 "Item/BlueprintFirework";"Text";"";"Blueprint: Firework@Can be learned in researchtable.";"Креслення: Феєрверк@Можна вивчити у дослідницькому столі."
 "Item/BlueprintFuelTank";"Text";"";"Blueprint: Fuel tank@Can be learned in researchtable.";"Креслення: Резервуар для палива@Можна вивчити у дослідницькому столі."
 "Item/BlueprintHeadLighAdvanced";"Text";"";"Blueprint: Advanced head light@Can be learned in researchtable.";"Креслення: Покращений налобний ліхтар@Можна вивчити у дослідницькому столі."
@@ -623,7 +623,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Bow";"Text";"";"Basic bow@Shoots arrows roughly where you point it.";"Простий лук@Стріляє стрілами приблизно туди, куди ви цілитесь."
 "Item/Brick_Dry";"Text";"";"Dry brick@A dry brick. Not very exciting in itself.";"Суха цегла@Суха цегла. Сама по собі не дуже цікава."
 "Item/Briefcase";"Text";"";"Briefcase@";"Портфель@"
-"Item/Bucket";"Text";"";"Bucket@Useful for gathering milk.";"Відро@Використовується для збору молока."
+"Item/Bucket";"Text";"";"Bucket@Useful for gathering milk.";"Відро@Корисне для збору молока."
 "Item/Bucket_Milk";"Text";"";"Bucket of milk@A full bucket of milk.";"Відро молока@Ціле відро молока."
 "Item/Calendar";"Text";"";"Calendar@Keep count on how many days you have survived.";"Календар@Створений, щоб ви збилися з рахунку вижитих днів."
 "Item/Canteen_Empty";"Text";"";"Empty canteen@Can be filled with lots of water.";"Порожня фляга@Можна наповнити великою кількістю води."
@@ -631,26 +631,26 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Canteen_Water";"Text";"";"Canteen of fresh water@Fresh water is very important on the ocean.";"Фляга прісної води@Прісна вода дуже важлива у відкритому океані."
 "Item/Cassette_Classical";"Text";"";"Classical cassette@#1 Left Alone
 #2 Llama Waltz
-#3 Unwanted Adventure";"Касета з класикою@#1 Left Alone
-#2 Llama Waltz
-#3 Unwanted Adventure"
+#3 Unwanted Adventure";"Касета з класикою@№1 Залишившись наодинці
+№2 Вальс лам
+№3 Небажана пригода"
 "Item/Cassette_EDM";"Text";"";"EDM cassette @#1 Dehydrated
 #2 It's a Wave
-#3 Raving on Sea";"Касета з EDM@#1 Dehydrated
-#2 It's a Wave
-#3 Raving on Sea"
-"Item/Cassette_Elevator";"Text";"";"Elevator cassette@#1 Levels Descending";"Ліфтярська касета@#1 Levels Descending"
+#3 Raving on Sea";"Касета з EDM@№1 Зневоднення
+№2 Це хвиля
+№3 Рейв у морі"
+"Item/Cassette_Elevator";"Text";"";"Elevator cassette@#1 Levels Descending";"Ліфтярська касета@№1 Зменшення висоти"
 "Item/Cassette_Pop";"Text";"";"Pop cassette@#1 Funky Surfer
 #2 Romantic Sunset
-#3 Summer Breeze";"Касета з попмузикою@#1 Funky Surfer
-#2 Romantic Sunset
-#3 Summer Breeze"
+#3 Summer Breeze";"Касета з попмузикою@№1 Веселий серфінгіст
+№2 Романтичний захід сонця
+№3 Літній бриз"
 "Item/Cassette_Rock";"Text";"";"Rock cassette@#1 More Metal!
 #2 Seagull Stole my Potato
-#3 Smoke on my Raft";"Касета з роком@#1 More Metal!
-#2 Seagull Stole my Potato
-#3 Smoke on my Raft"
-"Item/Cassette_TradingPost";"Text";"";"Trading post cassette@#1 Bargain Bossa";"Касета торговельного пункту@#1 Bargain Bossa"
+#3 Smoke on my Raft";"Касета з роком@№1 Більше металу!
+№2 Мартини викрали картоплю
+№3 Дим на моєму плоті"
+"Item/Cassette_TradingPost";"Text";"";"Trading post cassette@#1 Bargain Bossa";"Касета торговельного пункту@№1 Босанова торгівля"
 "Item/CatfishDeluxe";"Text";"";"Catfish deluxe@Makes you run faster.";"Сом Делюкс@Змушує вас швидше бігати."
 "Item/CaveMushroom";"Text";"";"Cave mushroom@Great addition to many meals.";"Печерний гриб@Чудове доповнення до багатьох страв."
 "Item/Chili";"Text";"";"Chili@Spice up your food.";"Перець чилі@Приправте свою їжу."
@@ -688,7 +688,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/ExplosiveGoo";"Text";"";"Explosive goo@Can be dried in a smelter.";"Вибуховий слиз@Може бути висушений у плавильні."
 "Item/ExplosivePowder";"Text";"";"Explosive powder@Handle with care.";"Вибуховий порох@Поводьтеся з ним обережно."
 "Item/Feather";"Text";"";"Feather@It's from a bird.";"Перо@Із дупці пташки."
-"Item/FishStew";"Text";"";"Fish stew@A sturdier and tastier fish stew.";"Рибне рагу@Міцне та смачне рибне рагу."
+"Item/FishStew";"Text";"";"Fish stew@A sturdier and tastier fish stew.";"Тушкована риба@Міцна та смачна рибна юшка."
 "Item/FishingBait_Advanced";"Text";"";"Advanced fishing bait@Has a peculiar look! Used by advanced anglers.";"Покращена рибальська наживка@Має специфічний вигляд! Використовується досвідченими рибалками."
 "Item/FishingBait_Expert";"Text";"";"Expert fishing bait@Glorius sheen! Used by expert anglers.";"Експертна рибальська наживка@Прекрасний блиск! Використовується досвідченими рибалками."
 "Item/FishingBait_Simple";"Text";"";"Simple fishing bait@Simple and efficient! Used by novice anglers.";"Проста рибальська наживка@Проста і ефективна! Використовується рибалками-початківцями."
@@ -700,8 +700,8 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Flower_Red";"Text";"";"Red flower@Can be made into paint.";"Червона квітка@Може бути перетворена у фарбу."
 "Item/Flower_White";"Text";"";"White flower@Can be made into paint.";"Біла квітка@Може бути перетворена у фарбу."
 "Item/Flower_Yellow";"Text";"";"Yellow flower@Can be made into paint.";"Жовта квітка@Може бути перетворена у фарбу."
-"Item/Foamspitter";"Text";"";"Foamspitter@Tier 2. Time for bubbles.";"Плювальниця@Рівень 2. Час для бульбашок."
-"Item/FruitCompot";"Text";"";"Fruit compot@Tastes extra good when you are tired of chewing meat.";"Фруктове асорті@Смакує особливо добре, коли ви втомилися жувати м'ясо."
+"Item/Foamspitter";"Text";"";"Foamspitter@Tier 2. Time for bubbles.";"Піноутворювач@Рівень 2. Час для бульбашок."
+"Item/FruitCompot";"Text";"";"Fruit compot@Tastes extra good when you are tired of chewing meat.";"Фруктовий компот@Смакує особливо добре, коли ви втомилися жувати м'ясо."
 "Item/GiantClam";"Text";"";"Giant clam@A big clam.";"Гігантський молюск@Великий молюск."
 "Item/Glass";"Text";"";"Glass@It's transparent.";"Скло@Воно прозоре."
 "Item/GlowShrimp";"Text";"";"GlowShrimp@Tier 1. Glows less than you might think.";"Сяйна креветка@Рівень 1. Світиться менше, ніж ви можете подумати."
@@ -714,13 +714,13 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Hat_Fishing";"Text";"";"Fishing hat@Lures for any occasion.";"Рибальський капелюх@Наживки на всі випадки життя."
 "Item/Hat_Glasses_Aviator";"Text";"";"Sunglasses@For those sunny days.";"Протисонцеві окуляри@Для сонячних днів."
 "Item/Hat_Glasses_Disguise";"Text";"";"Disguise glasses@It might fool your friends, but it can't fool the shark.";"Маскувальні окуляри@Вони можуть ввести в оману ваших друзів, але не акулу."
-"Item/Hat_Mayor";"Text";"";"Mayor hat@Belonged to the mayor of Caravan Town.";"Капелюх мера@Належав меру містечка Караван."
+"Item/Hat_Mayor";"Text";"";"Mayor hat@Belonged to the mayor of Caravan Town.";"Капелюх мера@Належав меру трейлерного містечка."
 "Item/Hat_Pilot";"Text";"";"Pilot helmet@An old but fancy pilot helmet.";"Шолом пілота@Старий, але стильний шолом пілота."
 "Item/Hat_Pirate";"Text";"";"Pirate hat@Ahoy, set sail!";"Піратська трикутка@Ахой, на вітрила!"
 "Item/Hat_Sailor";"Text";"";"Sailor hat@A true hat for a true sailor.";"Матроський кашкет@Справжній капелюх для справжнього матроса."
 "Item/Hat_Tiki";"Text";"";"Tiki mask@Mysterious wooden mask.";"Маска Тікі@Таємнича дерев'яна маска."
 "Item/HeadBroth";"Text";"";"Head broth@A tad scary but nutritious broth.";"Бульйон з голови@Трохи страшний, але поживний бульйон."
-"Item/HeadLight";"Text";"";"Head light@Useful when exploring dark places.";"Налобний ліхтар@Стане в пригоді при дослідженні темних місць."
+"Item/HeadLight";"Text";"";"Head light@Useful when exploring dark places.";"Налобний ліхтар@Корисний при дослідженні темних місць."
 "Item/HeadLight_Advanced";"Text";"";"Advanced head light@Reliable and excellent battery lifetime.";"Покращений налобний ліхтар@Надійний та має відмінний час автономної роботи."
 "Item/HealingSalve";"Text";"";"Healing salve@Soothes and restores your wounds.";"Зцілювальна мазь@Заспокоює вас та загоює ваші рани."
 "Item/HealingSalve_Good";"Text";"";"Good healing salve@Soothes and restores your wounds.";"Хороша зцілювальна мазь@Заспокоює вас та загоює ваші рани."
@@ -730,7 +730,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/HoneyComb";"Text";"";"Honeycomb@Can be used to create honey jars.";"Стільники@Можнуть бути використані для створення банок меду."
 "Item/Hook_Plastic";"Text";"";"Plastic hook@Use this amazing item to catch debris floating by in the ocean!";"Пластиковий гак@Використовуйте цей неймовірний предмет, щоб ловити сміття, яке пропливає повз вас в океані!"
 "Item/Hook_Scrap";"Text";"";"Scrap hook@This is basically the same as the plastic hook but better. It's faster, more durable and can be thrown farther.";"Брухтовий гак@Майже як пластиковий гак, але краще. Він швидший, міцніший та може бути закинутий далі."
-"Item/Hook_Titanium";"Text";"";"Titanium hook@The ultimate hook for any rafter.";"Титановий гак@Оптимальний гак для будь-якого плотаря."
+"Item/Hook_Titanium";"Text";"";"Titanium hook@The ultimate hook for any rafter.";"Титановий гак@Оптимальний гак для будь-кого на плоті."
 "Item/HyenaBossHead";"Text";"";"Alpha's head@It was tough, but you beat it!";"Голова Альфи@Було важко, але ви впоралися!"
 "Item/HyenaHead";"Text";"";"Hyena head@Looks good on a trophy board.";"Голова гієни@Має чудовий вигляд на трофейній дошці."
 "Item/Item";"Text";"";"Item";"Предмет"
@@ -755,7 +755,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/NetCanister";"Text";"";"Net canister@Used together with the net launcher.";"Бідон із сіткою@Використовується разом з запускачем сітки."
 "Item/NetGun";"Text";"";"Net launcher@Aim at an animal to catch it.";"Запускач сітки@Цільтесь у тварину, щоб спіймати її."
 "Item/NetNibbler";"Text";"";"Netnibbler@Tier 1. Better here than on one of the nets.";"Сіткоїжка@Рівень 1. Краще тут, ніж в одній із сіток."
-"Item/Note";"Text";"";"Note@";"Записка@"
+"Item/Note";"Text";"";"Note@";"Нотатка@"
 "Item/OxygenBubble";"Text";"";"Oxygen bubble@A breath of fresh air.";"Киснева бульбашка@Ковток свіжого повітря."
 "Item/Package";"Text";"";"Decoration package@It's the inside that matters.";"Коробка з декором@Важливо що усередині."
 "Item/Paddle";"Text";"";"Paddle@Has your raft gotten stuck? This will help!";"Весло@Ваш пліт застряг? Це допоможе!"
@@ -772,10 +772,10 @@ Evacuate personnel from the crane area";"Помилка
 "Item/PlasticCup_Empty";"Text";"";"Empty cup@Can be filled with some water.";"Порожній кухоль@Можна наповнити водою."
 "Item/PlasticCup_SaltWater";"Text";"";"Cup of salt water@Drinking saltwater is not very good. Can be turned into fresh water.";"Кухоль солоної води@Пити солону воду не дуже корисно. Можна перетворити на прісну воду."
 "Item/PlasticCup_Water";"Text";"";"Cup of fresh water@Fresh water is very important on the ocean.";"Кухоль прісної води@Прісна вода дуже важлива у відкритому океані."
-"Item/PoisonPuffer";"Text";"";"Poison-puffer";"Риба-їжак"
-"Item/PoisonPufferHead";"Text";"";"Poison-puffer head@Just a Poison-puffer head.";"Голова риби-їжака@Лише голова риби-їжака."
+"Item/PoisonPuffer";"Text";"";"Poison-puffer";"Отруйний пухир"
+"Item/PoisonPufferHead";"Text";"";"Poison-puffer head@Just a Poison-puffer head.";"Голова отруйного пухиря@Просто голова отруйного пухиря."
 "Item/PolarBearHead";"Text";"";"Polar bear head@Looks good on a trophy board.";"Голова білого ведмедя@Має чудовий вигляд на трофейній дошці."
-"Item/Pufferlisk";"Text";"";"Pufferlisk@Tier 2. Reminiscent of another seacreature. ";"Їжачок@Рівень 2. Нагадує інше морське створіння. "
+"Item/Pufferlisk";"Text";"";"Pufferlisk@Tier 2. Reminiscent of another seacreature. ";"Пухирик@Рівень 2. Нагадує інше морське створіння. "
 "Item/RainbowLobster";"Text";"";"Rainbow Lobster@Tier 3. Magnificent colors!";"Веселковий лобстер@Рівень 3. Чудові кольори!"
 "Item/Raw_Beet";"Text";"";"Raw beet@Can be cooked or planted for more beets. Fits in a small crop plot.";"Сирий буряк@Може бути приготований або посаджена, щоб отримати більше буряків. Росте на маленькій грядці."
 "Item/Raw_Catfish";"Text";"";"Raw catfish@One would need a big fire to cook this thing...";"Сирий сом@Щоб приготувати його треба великий вогонь..."
@@ -789,28 +789,28 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Raw_Shark";"Text";"";"Raw sharkmeat@It sort of looks like a boomerang.";"Сире м'ясо акули@Воно схоже на бумеранг."
 "Item/Raw_Tilapia";"Text";"";"Raw tilapia@This thing is funny looking.";"Сира тілапія@Ця штука кумедно виглядає."
 "Item/Recipe_BBQ";"Text";"";"Recipe: BBQ@A recipe that can be cooked in a pot";"Рецепт: Їжа-барбекю@Можна приготувати у казані."
-"Item/Recipe_CatfishDeluxe";"Text";"";"Recipe: Catfish deluxe@A recipe that can be cooked in a pot. Makes you run faster.";"Рецепт: Сом Делюкс@Можна приготувати у казані. Змушує вас швидше бігати."
+"Item/Recipe_CatfishDeluxe";"Text";"";"Recipe: Catfish deluxe@A recipe that can be cooked in a pot. Makes you run faster.";"Рецепт: Сом Делюкс@Можна приготувати у каструлі для готування. Змушує вас швидше бігати."
 "Item/Recipe_CoconutBeat";"Text";"";"Recipe: Coconut beat@A recipe that can be made in a juicer.";"Рецепт: Кокосовий напій@Можна зробити у соковитискачі."
-"Item/Recipe_CoconutChicken";"Text";"";"Recipe: Coconut chicken@A recipe that can be cooked in a pot.";"Рецепт: Курка в кокосі@Можна приготувати у казані."
-"Item/Recipe_DrumstickWithJam";"Text";"";"Recipe: Drumstick with jam@A recipe that can be cooked in a pot.";"Рецепт: Гомілка з варенням@Можна приготувати у казані."
-"Item/Recipe_FishStew";"Text";"";"Recipe: Fish stew@A recipe that can be cooked in a pot.";"Рецепт: Рибне рагу@Можна приготувати у казані."
-"Item/Recipe_FruitCompot";"Text";"";"Recipe: Fruit compot@A recipe that can be cooked in a pot.";"Рецепт: Фруктове асорті@Можна приготувати у казані."
-"Item/Recipe_HeadBroth";"Text";"";"Recipe: Head broth@A recipe that can be cooked in a pot.";"Рецепт: Бульйон з голови@Можна приготувати у казані."
-"Item/Recipe_HeartyStew";"Text";"";"Recipe: Hearty stew@A recipe that can be cooked in a pot. A mysterious stew that lets you evade death, once.";"Рецепт: Ситне рагу@Можна приготувати у казані. Загадкове рагу, яке колись допоможе вам уникнути смерті."
+"Item/Recipe_CoconutChicken";"Text";"";"Recipe: Coconut chicken@A recipe that can be cooked in a pot.";"Рецепт: Курка в кокосі@Можна приготувати у каструлі для готування."
+"Item/Recipe_DrumstickWithJam";"Text";"";"Recipe: Drumstick with jam@A recipe that can be cooked in a pot.";"Рецепт: Гомілка з варенням@Можна приготувати у каструлі для готування."
+"Item/Recipe_FishStew";"Text";"";"Recipe: Fish stew@A recipe that can be cooked in a pot.";"Рецепт: Рибне рагу@Можна приготувати у каструлі для готування."
+"Item/Recipe_FruitCompot";"Text";"";"Recipe: Fruit compot@A recipe that can be cooked in a pot.";"Рецепт: Фруктове асорті@Можна приготувати у каструлі для готування."
+"Item/Recipe_HeadBroth";"Text";"";"Recipe: Head broth@A recipe that can be cooked in a pot.";"Рецепт: Бульйон з голови@Можна приготувати у каструлі для готування."
+"Item/Recipe_HeartyStew";"Text";"";"Recipe: Hearty stew@A recipe that can be cooked in a pot. A mysterious stew that lets you evade death, once.";"Рецепт: Ситне рагу@Можна приготувати у каструлі для готування. Загадкове рагу, яке колись допоможе вам уникнути смерті."
 "Item/Recipe_Mangonana";"Text";"";"Recipe: Mangonana@A recipe that can be made in a juicer.";"Рецепт: Бананго@Можна зробити у соковитискачі."
-"Item/Recipe_MushroomOmelette";"Text";"";"Recipe: Mushroom omelette@A recipe that can be cooked in a pot.";"Рецепт: Грибний омлет@Можна приготувати у казані."
+"Item/Recipe_MushroomOmelette";"Text";"";"Recipe: Mushroom omelette@A recipe that can be cooked in a pot.";"Рецепт: Грибний омлет@Можна приготувати у каструлі для готування."
 "Item/Recipe_RedMelon";"Text";"";"Recipe: Red melon@A recipe that can be made in a juicer.";"Рецепт: Червона диня@Можна зробити у соковитискачі."
 "Item/Recipe_RedbeetShot";"Text";"";"Recipe: Redbeet shot@A recipe that can be made in a juicer. Adds some extra hearts to your life.";"Рецепт: Буряковий шот@Можна зробити у соковитискачі. Додає вам трохи додаткового здоров'я."
-"Item/Recipe_SalmonSalad";"Text";"";"Recipe: Salmon salad@A recipe that can be cooked in a pot. A healthy salad that increases your lung capacity.";"Рецепт: Салат з лосося@Можна приготувати у казані. Корисний салат, що збільшує об'єм легенів."
-"Item/Recipe_SharkDinner";"Text";"";"Recipe: Shark dinner@A recipe that can be cooked in a pot.";"Рецепт: Акуляча вечеря@Можна приготувати у казані."
-"Item/Recipe_SilverSmoothie";"Text";"";"Recipe: Silver smoothie@A recipe that can be made in a juicer.";"Рецепт: Сріблясте смузі@Можна зробити у соковитискачі."
-"Item/Recipe_SimpleFishStew";"Text";"";"Recipe: Simple fish stew@A recipe that can be cooked in a pot.";"Рецепт: Легке рибне рагу@Можна приготувати у казані."
+"Item/Recipe_SalmonSalad";"Text";"";"Recipe: Salmon salad@A recipe that can be cooked in a pot. A healthy salad that increases your lung capacity.";"Рецепт: Салат з лосося@Можна приготувати у каструлі для готування. Корисний салат, що збільшує об'єм легенів."
+"Item/Recipe_SharkDinner";"Text";"";"Recipe: Shark dinner@A recipe that can be cooked in a pot.";"Рецепт: Акуляча вечеря@Можна приготувати у каструлі для готування."
+"Item/Recipe_SilverSmoothie";"Text";"";"Recipe: Silver smoothie@A recipe that can be made in a juicer.";"Рецепт: Срібне смузі@Можна зробити у соковитискачі."
+"Item/Recipe_SimpleFishStew";"Text";"";"Recipe: Simple fish stew@A recipe that can be cooked in a pot.";"Рецепт: Легке рибне рагу@Можна приготувати у каструлі для готування."
 "Item/Recipe_SimpleSmoothie";"Text";"";"Recipe: Simple smoothie@A recipe that can be made in a juicer.";"Рецепт: Легке смузі@Можна зробити у соковитискачі."
-"Item/Recipe_SpicyPineberry";"Text";"";"Recipe: Spicy pineberry@A recipe that can be made in a juicer. Makes you swim faster.";"Рецепт: Пряна полуниця@Можна зробити у соковитискачі."
+"Item/Recipe_SpicyPineberry";"Text";"";"Recipe: Spicy pineberry@A recipe that can be made in a juicer. Makes you swim faster.";"Рецепт: Пряна суниця@Можна зробити у соковитискачі."
 "Item/Recipe_SteakWithJam";"Text";"";"Recipe: Steak with jam@A recipe that can be cooked in a pot";"Рецепт: Стейк з варенням@Можна приготувати у казані."
 "Item/Recipe_StrawberryColada";"Text";"";"Recipe: Strawberry colada@A recipe that can be made in a juicer.";"Рецепт: Полунична колада@Можна зробити у соковитискачі."
 "Item/Recipe_Sushi";"Text";"";"Recipe: Sushi@A recipe that can be cooked in a pot";"Рецепт: Суші@Можна приготувати у казані."
-"Item/Recipe_VegetableSoup";"Text";"";"Recipe: Vegetable soup@A recipe that can be cooked in a pot.";"Рецепт: Овочевий суп@Можна приготувати у казані."
+"Item/Recipe_VegetableSoup";"Text";"";"Recipe: Vegetable soup@A recipe that can be cooked in a pot.";"Рецепт: Овочевий суп@Можна приготувати у каструлі для готування."
 "Item/RedMelon";"Text";"";"Red melon@A refreshing drink for a hot summer day.";"Червона диня@Напій, який освіжає у спекотні літні дні."
 "Item/RedbeetShot";"Text";"";"Redbeet shot@Adds some extra hearts to your life.";"Буряковий шот@Додає вам трохи додаткового здоров'я."
 "Item/RhinoSharkTrophy";"Text";"";"Rhino shark trophy@Too big to fit on a trophy board.";"Трофей акули Райно@Занадто великий, щоб поміститися на трофейній дошці."
@@ -819,7 +819,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Sand";"Text";"";"Sand@Apparently turns into glass when smelted.";"Пісок@Вочевидь, після виплавлення він стане склом."
 "Item/Scrap";"Text";"";"Scrap@Some old parts from... something?";"Брухт@Якісь старі запчастини від... чогось?"
 "Item/Screecher";"Text";"";"Screecher";"Гриф-крикун"
-"Item/ScreecherHead";"Text";"";"Screecher head@To remember it by.";"Голова грифа-крикуна@На пам'ять."
+"Item/ScreecherHead";"Text";"";"Screecher head@To remember it by.";"Голова грифа-крикун@На пам'ять."
 "Item/ScreecherHead_Caravan";"Text";"";"White screecher head@A subspecies of Screechers.";"Голова білого грифа-крикуна@Підвид грифів-крикунів."
 "Item/SeaVine";"Text";"";"Seaweed@Can be put into a smelter to turn into goo.";"Водорості@Можуть бути переплавлені у слиз."
 "Item/Seagull";"Text";"";"Seagull";"Мартин"
@@ -858,7 +858,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Strawberry";"Text";"";"Strawberry@A great source for vitamin C.";"Полуниця@Чудове джерело вітаміну C."
 "Item/StrawberryColada";"Text";"";"Strawberry colada@Taste like a relaxing day on the beach.";"Полунична колада@Смак як у розслабленого дня на пляжі."
 "Item/Sushi";"Text";"";"Sushi@Where did the rice come from?";"Суші@Звідки тут взявся рис?"
-"Item/SweepNet";"Text";"";"Sweep net@Useful for catching bugs.";"Сачок@Знадобиться для вилову комах."
+"Item/SweepNet";"Text";"";"Sweep net@Useful for catching bugs.";"Сачок@Корисний для вилову комах."
 "Item/Sword_Titanium";"Text";"";"Titanium sword@The gratest device for poking and cutting things.";"Титановий меч@Найкраще знаряддя для штрикання та розрізання речей."
 "Item/Thatch";"Text";"";"Palm Leaf@Could be useful, maybe for making ropes?";"Пальмове листя@Може стати в пригоді, наприклад, для виготовлення мотузок?"
 "Item/Titanium";"Text";"";"Titanium@";"Титан@"
@@ -889,7 +889,7 @@ Evacuate personnel from the crane area";"Помилка
 "LoadMenu/Tip3";"Text";"";"Blueprints found in the world are automatically added to your research table!";"Знайдені у світі креслення автоматично додаються до вашого дослідницького стола!"
 "LoadMenu/Tip4";"Text";"";"Shark baits are useful when exploring reefs!";"Приманки для акул стануть в пригоді при дослідженні рифів!"
 "LoadMenu/Tip5";"Text";"";"Sharks wont eat foundation armor!";"Акули не їдять укріплення основи!"
-"LoadMenu/Tip6";"Text";"";"Make sure to keep your distance from puffer fishes when they explode!";"Переконайтеся, що ви тримаєтеся на достатній відстані від риб-їжаків, коли вони вибухають!"
+"LoadMenu/Tip6";"Text";"";"Make sure to keep your distance from puffer fishes when they explode!";"Переконайтеся, що ви тримаєтеся на достатній відстані від риб-пухирів, коли вони вибухають!"
 "LoadMenu/Tip7";"Text";"";"Want to play with others? Join our discord server to find new friends!";"Бажаєте пограти з кимось? Приєднуйтесь до нашого Discord-сервера, щоб знаходити нових друзів!"
 "LoadMenu/Tip8";"Text";"";"Sleeping in a bed allows you to skip night time!";"Сон у ліжку дозволяє пропускати ночі!"
 "LoadMenu/Tip9";"Text";"";"";""
@@ -924,13 +924,13 @@ Evacuate personnel from the crane area";"Помилка
 "Menu/Credits/ProductionSupport";"Text";"";"Production Support";"Підтримка з виробництва"
 "Menu/Credits/RouhiVoice";"Text";"";"Voice actor - Rouhi";"Актор озвучення Рухі"
 "Menu/Credits/Story";"Text";"";"Game Writer";"Письменник гри"
-"Menu/Credits/VoiceDirector";"Text";"";"Voice Director";"Режисер озвучення"
+"Menu/Credits/VoiceDirector";"Text";"";"Voice Director";"Директор з озвучення"
 "Menu/Credits/VoiceRecordingEngineers";"Text";"";"Voice Recording Engineers";"Інженери звукозапису"
 "Menu/Delete";"Text";"";"Delete";"Видалити"
 "Menu/DeleteWorldButton";"Text";"";"Delete";"Видалити"
 "Menu/Developer";"Text";"";"Developer:";"Розробник:"
 "Menu/Difficulty";"Text";"";"Difficulty";"Складність"
-"Menu/DoYouWantToSave";"Text";"";"Do you want to save before you exit?";"Бажаєте зберегти світ?"
+"Menu/DoYouWantToSave";"Text";"";"Do you want to save before you exit?";"Зберегти світ перед виходом?"
 "Menu/Done";"Text";"";"Done";"Готово"
 "Menu/EmptyName";"Text";"";"Name can't be empty";"Не може бути порожньою"
 "Menu/EnterText";"Text";"";"Enter text...";"Уведіть текст..."
@@ -955,7 +955,7 @@ Restart Raft and try again.";"Відключено від Steam.
 "Menu/Music";"Text";"";"Music";"Музика"
 "Menu/NameExists";"Text";"";"Name already exists";"Назва вже існує"
 "Menu/New";"Text";"";"New";"Новий"
-"Menu/NewWorld";"Text";"";"New world";"Новий світ"
+"Menu/NewWorld";"Text";"";"New world";"Новий світ гігі"
 "Menu/Next";"Text";"";"Next";"Наступне"
 "Menu/No";"Text";"";"No";"Ні"
 "Menu/NoFriends";"Text";"";"Host not allowing friends to join";"Творець не дозволяє приєднуватися друзям"
@@ -972,7 +972,7 @@ Refresh or restart Raft and try again.";"Немає підключення з St
 "Menu/Previous";"Text";"";"Previous";"Попереднє"
 "Menu/Programmer";"Text";"";"Programmer";"Програміст"
 "Menu/Publisher";"Text";"";"Publisher:";"Видавець:"
-"Menu/RaftBuiltBy";"Text";"";"Raft built by: {[RaftBuiltByName]}";"Пліт гравця {[RaftBuiltByName]}"
+"Menu/RaftBuiltBy";"Text";"";"Raft built by: {[RaftBuiltByName]}";"Пліт побудований гравцем {[RaftBuiltByName]}"
 "Menu/ReallyUnstuck";"Text";"";"Teleport to safe location?";"Телепортуватися у безпечне місце?"
 "Menu/RefreshButton";"Text";"";"Refresh";"Оновити"
 "Menu/ReturnToGame";"Text";"";"Return to game";"Повернутися"
@@ -1005,7 +1005,7 @@ Refresh or restart Raft and try again.";"Немає підключення з St
 "QuestItem/Temperance_ControlRod";"Text";"";"Control rod";"Керувальний стрижень"
 "QuestItem/Temperance_ElectricalCable";"Text";"";"Electrical cable";"Електричний провід"
 "QuestItem/Temperance_ReactorKey";"Text";"";"Reactor key";"Ключ від реактора"
-"QuestItem/Temperance_SeleneGateKey";"Text";"";"Selene key";"Ключ від «Селени»"
+"QuestItem/Temperance_SeleneGateKey";"Text";"";"Selene key";"Ключ від «Селене»"
 "QuestItem/Utopia_Cable";"Text";"";"Electrical cable";"Електричний провід"
 "QuestItem/Utopia_CarbonDioxideCanister";"Text";"";"Carbon dioxide canister";"Балон з вуглекислим газом"
 "QuestItem/Utopia_DettoCode";"Text";"";"Part of Detto's code";"Частина коду Детто"
@@ -1064,7 +1064,7 @@ HENRY suggested that I start writing things down after Astrid disappeared so tha
 "Story/BalboaIsland/CorreasDiary2";"Text";"";"The kids are fighting. Astrid would have known how to make them stop. I found her wrench out by the clearing. I’ve been calling out on the radio. Please. I just want to talk, sis.
 
 MIRANDA is screaming outside. I hope her and HENRY make up soon.
-~BRUNO";"Діти б'ються. Астрід знала б, як їх зупинити. Я знайшов її гайковий ключ на галявині. Я кликав її по радіо. Будь ласка, сестро, я просто хочу поговорити.
+~BRUNO";"Діти б'ються. Астрід знала б, як їх зупинити. Я знайшов її гайковий ключ на галявині. Я кликав її по рації. Будь ласка, сестро, я просто хочу поговорити.
 
 МІРАНДА кричить на вулиці. Сподіваюся, вони з ГЕНРІ скоро помиряться.
 ~БРУНО"
@@ -1102,7 +1102,7 @@ So many memories of this place. We’ll find you, sis. I promise.
 "Story/BalboaIsland/Voiceline/CorreasDiary1_3";"Text";"";"The next shift was meant to start weeks back. But the replacements never showed up.";"Наступна зміна мала розпочатися кілька тижнів тому. Але заміна так і не з'явилася."
 "Story/BalboaIsland/Voiceline/CorreasDiary1_4";"Text";"";"HENRY suggested that I start writing things down after Astrid disappeared so that I'm not feeling so lonely anymore.";"ГЕНРІ запропонував мені почати записувати все, що відбувалося після зникнення Астрід, щоб я більше не почувався таким самотнім."
 "Story/BalboaIsland/Voiceline/CorreasDiary2_1";"Text";"";"The kids are fighting. Astrid would have known how to make them stop.";"Діти б'ються. Астрід знала б, як їх зупинити."
-"Story/BalboaIsland/Voiceline/CorreasDiary2_2";"Text";"";"I found her wrench out by the clearing. I’ve been calling out on the radio. ";"Я знайшов її гайковий ключ на галявині. Я кликав її по радіо. "
+"Story/BalboaIsland/Voiceline/CorreasDiary2_2";"Text";"";"I found her wrench out by the clearing. I’ve been calling out on the radio. ";"Я знайшов її гайковий ключ на галявині. Я кликав її по рації. "
 "Story/BalboaIsland/Voiceline/CorreasDiary2_3";"Text";"";"Please. I just want to talk, sis. MIRANDA is screaming outside.";"Будь ласка, сестро, я просто хочу поговорити. МІРАНДА кричить на вулиці."
 "Story/BalboaIsland/Voiceline/CorreasDiary2_4";"Text";"";"I hope her and HENRY make up soon.";"Сподіваюся, вони з ГЕНРІ скоро помиряться."
 "Story/BalboaIsland/Voiceline/CorreasDiary3_1";"Text";"";"I haven’t seen ERROL all night. I asked MIRANDA but she and HENRY won’t tell me anything. ";"Я не бачив ЕРРОЛА всю ніч. Я питав МІРАНДУ, але вони з ГЕНРІ нічого мені не сказали. "
@@ -1180,7 +1180,7 @@ I think I agree.";"НАУКОВИЙ ЖУРНАЛ ДЕТТО -ДОСЛІДЖЕН�
 
 У містечку є якийсь незнайомець на ім'я Олоф. Тато й далі йде на свої зустрічі, дітям з ним йти не дозволено. Але вночі Санджай мені допомагає проникнути на судно незнайомця. Я думав, в нього є якісь ліки для мами…
 
-Але судно Олофа було лише заповнене клітками. У клітках були великі щури, а також… дуже здоровенна гієна. Вони були дуже агресивними. Санджай знайшов записки про розведення та тренування цих звірів як особисту “армію”. Санджай думає, що Олоф поганець.
+Але судно Олофа було лише заповнене клітками. У клітках були великі щури, а також… дуже здоровенна гієна. Вони були дуже агресивними. Санджай знайшов записки про розведення та тренування цих звірів як особисту ""армію"". Санджай думає, що Олоф поганець.
 
 Мабуть я з ним згоден."
 "Story/CaravanIsland/DettosJournal6";"Text";"";"DETTO'S ADVENTURE JOURNAL
@@ -1211,7 +1211,7 @@ why do you - Why do you think I, Olof Wilkstrom, left that corrupt city? Because
 
 Who should force them? That’s right. The greatest rafters in this new southern sea. YOU! TAKE TANGAROA! TAKE BACK YOUR FUTURE!";"ПРОМОВА ДО ПЛОТАРІВ, 17 травня П'ЯТА ЧЕРНЕТКА
 
-чому ви... Як ви думаєте, чому я, Олоф Вілкштром, покинув це корумповане місто? Тому що вони відмовлялися брати на борт звичайних людей робітничого класу. Я був шокований. Чому еліта повинна рятуватися від апокаліпсиса? Вони ПОВИННІ ділитися своєю розкішшю.
+чому ви... Як ви думаєте, чому я, Олоф Вілкстром, покинув це корумповане місто? Тому що вони відмовлялися брати на борт звичайних людей робітничого класу. Я був шокований. Чому еліта повинна рятуватися від апокаліпсиса? Вони ПОВИННІ ділитися своєю розкішшю.
 
 -Пауза для оплесків-
 
@@ -1222,7 +1222,7 @@ Who should force them? That’s right. The greatest rafters in this new southern
 
 “Ми лиш виживаємо”, — сказав Путрі Рейєс, один з перших мешканців міст на плотах, коли один з наших журналістів запитав про умови їх життя. Дрейфуючи здебільшого за морською течією, вони, схоже, постійно розширюються, що викликає неабияке занепокоєння у прибережної влади."
 "Story/CaravanIsland/RaftTownArticle2";"Text";"";" ""A maritime hazard in the making,"" the foreign minister stated this morning in a public adress. Despite these concerns many believe raft towns could very well be a viable alternative. Recent rumors surrounding the construction of sanctuary towers in the southern hemisphere has only increased tensions. We sought a comment from the local government.";" “Назріває морська небезпека”, — заявив сьогодні вранці міністр закордонних справ у своєму публічному зверненні. Попри всі побоювання, багато хто вважає, що міста на плотах цілком можуть бути придатною альтернативою. Нещодавні чутки про будівництво веж-притулків у південній півкулі лише посилили напруженість. Ми звернулися за коментарем до місцевої влади."
-"Story/CaravanIsland/RaftTownArticleCaption1";"Text";"";"SAILING AS ONE";"ПЛИВЕМО ЯК ЄДИНЕ ЦІЛЕ"
+"Story/CaravanIsland/RaftTownArticleCaption1";"Text";"";"SAILING AS ONE";"ЗБЕРЕЖЕННЯ ОДНАМ ОДНИХ"
 "Story/CaravanIsland/RaftTownArticleCaption2";"Text";"";"THE RAFT TOWNS OF INDONESIA";"МІСТА НА ПЛОТАХ В ІНДОНЕЗІЇ"
 "Story/CaravanIsland/SanjayMessage";"Text";"";"My name is Sanjay. I think I’m in trouble.
 
@@ -1266,7 +1266,7 @@ If I’m thrown in jail, this is proof I am innocent!";"Мене звати Са
 "Story/CaravanIsland/Voiceline/DettosJournal5_3";"Text";"";"But at night I got Sanjay to help me sneak onto the stranger’s ship.";"Але вночі Санджай мені допомагає проникнути на судно незнайомця."
 "Story/CaravanIsland/Voiceline/DettosJournal5_4";"Text";"";"I thought maybe he had some medicine for Ma…";"Я думав, в нього є якісь ліки для мами…"
 "Story/CaravanIsland/Voiceline/DettosJournal5_5";"Text";"";"But Olof’s boat was just filled with cages. In the cages were big rats, and a… very large hyena. ";"Але судно Олофа було лише заповнене клітками. У клітках були великі щури, а також… дуже здоровенна гієна. "
-"Story/CaravanIsland/Voiceline/DettosJournal5_6";"Text";"";"They were so angry! Sanjay found notes talking about feeding and training them into his personal ‘army’.";"Вони були дуже агресивними. Санджай знайшов записки про розведення та тренування цих звірів як особисту “армію”."
+"Story/CaravanIsland/Voiceline/DettosJournal5_6";"Text";"";"They were so angry! Sanjay found notes talking about feeding and training them into his personal ‘army’.";"Вони були дуже агресивними. Санджай знайшов записки про розведення та тренування цих звірів як особисту ""армію""."
 "Story/CaravanIsland/Voiceline/DettosJournal5_7";"Text";"";"Sanjay thinks Olof might be a bad guy. I think I agree.";"Санджай думає, що Олоф поганець. Мабуть я з ним згоден."
 "Story/CaravanIsland/Voiceline/DettosJournal6_1";"Text";"";"DETTO'S ADVENTURE JOURNAL";"ПРИГОДНИЦЬКИЙ ЖУРНАЛ ДЕТТО"
 "Story/CaravanIsland/Voiceline/DettosJournal6_2";"Text";"";"Pa says we have to go. Ma is getting sicker, and I heard that strange man Olof shouting orders.";"Тато каже, нам вже час йти. Мамі стає ще гірше, а ще я чув, як той дивак Олоф усіма командує."
@@ -1279,19 +1279,19 @@ If I’m thrown in jail, this is proof I am innocent!";"Мене звати Са
 "Story/CaravanIsland/Voiceline/DoctorsNote_4";"Text";"";"It’s the pigs. For weeks they’ve acted erratic.";"Це все свині. Вже кілька тижнів вони поводяться неадекватно."
 "Story/CaravanIsland/Voiceline/DoctorsNote_5";"Text";"";"I’ve been blind to it. I didn’t even notice the butchers getting sick. ";"Я не звертав на це уваги. Навіть не помітив, як м'ясники захворіли. "
 "Story/CaravanIsland/Voiceline/DoctorsNote_6";"Text";"";" It all started when Olof Wilkstrom arrived and I do not see it as a coincidence.";" Все почалося коли приїхав Олоф Вілкштром і це не збіг обставин."
-"Story/CaravanIsland/Voiceline/OlofsSpeech_1";"Text";"";"SPEECH TO THE RAFTERS, 17th of may FITFH DRAFT";"ПРОМОВА ДО ПЛОТАРІВ, 17 травня П'ЯТА ЧЕРНЕТКА"
-"Story/CaravanIsland/Voiceline/OlofsSpeech_2";"Text";"";"Why do you - Why do you think I, Olof Wilkstrom, left that corrupt city?";"Чому ви... Як ви думаєте, чому я, Олоф Вілкштром, покинув це корумповане місто?"
+"Story/CaravanIsland/Voiceline/OlofsSpeech_1";"Text";"";"SPEECH TO THE RAFTERS, 17th of may FITFH DRAFT";"ГОВІР ДО РАФТЕРІВ, 17-е травню П'ЯТА ЗАПИС"
+"Story/CaravanIsland/Voiceline/OlofsSpeech_2";"Text";"";"Why do you - Why do you think I, Olof Wilkstrom, left that corrupt city?";"Чому ви... Як ви думаєте, чому я, Олоф Вілкстром, покинув це корумповане місто?"
 "Story/CaravanIsland/Voiceline/OlofsSpeech_3";"Text";"";"Because they refused to let regular working class folk on board. I was appalled.";"Тому що вони відмовлялися брати на борт звичайних людей робітничого класу. Я був шокований."
 "Story/CaravanIsland/Voiceline/OlofsSpeech_4";"Text";"";"Why should the elite get to escape the apocalypse? They should be FORCED to share their luxury.";"Чому еліта повинна рятуватися від апокаліпсиса? Вони ПОВИННІ ділитися своєю розкішшю."
 "Story/CaravanIsland/Voiceline/OlofsSpeech_5";"Text";"";"Who should force them? That’s right. The greatest rafters in this new southern sea.";"Хто повинен їх примушувати? Правильно. Найкращі плотарі у новому південному морі."
 "Story/CaravanIsland/Voiceline/OlofsSpeech_6";"Text";"";"YOU! TAKE TANGAROA! TAKE BACK YOUR FUTURE!";"ВИ! ЗАХОПІТЬ ТАНҐАРОА! ПОВЕРНІТЬ ВАШЕ МАЙБУТНЄ!"
 "Story/CaravanIsland/Voiceline/RaftTownArticle1_1";"Text";"";"The flooding of Jakarta has led to escaping locals creating interconnected rafts as they make their way to land.";"Затоплення Джакарти призвело до того, що місцеві жителі, рятуючись від повені, створювали поєднані між собою плоти, аби дістатися до суші."
-"Story/CaravanIsland/Voiceline/RaftTownArticle1_2";"Text";"";"“We just make do,” said Putri Reyes, one of the earlier adopters of these raft-towns, when inquired by one of our reporters about their living conditions.";"«Ми лиш виживаємо», — сказав Путрі Рейєс, один з перших мешканців міст на плотах, коли один з наших журналістів запитав про умови їх життя."
+"Story/CaravanIsland/Voiceline/RaftTownArticle1_2";"Text";"";"“We just make do,” said Putri Reyes, one of the earlier adopters of these raft-towns, when inquired by one of our reporters about their living conditions.";"“Ми лиш виживаємо”, — сказав Путрі Рейєс, один з перших мешканців міст на плотах, коли один з наших журналістів запитав про умови їх життя."
 "Story/CaravanIsland/Voiceline/RaftTownArticle1_3";"Text";"";"Drifting largely on sea-currents, they appear to be growing at a steady rate, raising considerable concerns with coastal authorities.";"Дрейфуючи здебільшого за морською течією, вони, схоже, постійно розширюються, що викликає неабияке занепокоєння у прибережної влади."
-"Story/CaravanIsland/Voiceline/RaftTownArticle1_4";"Text";"";"""A maritime hazard in the making,"" the foreign minister stated this morning in a public address.";"«Назріває морська небезпека», — заявив сьогодні вранці міністр закордонних справ у своєму публічному зверненні."
+"Story/CaravanIsland/Voiceline/RaftTownArticle1_4";"Text";"";"""A maritime hazard in the making,"" the foreign minister stated this morning in a public address.";"“Назріває морська небезпека”, — заявив сьогодні вранці міністр закордонних справ у своєму публічному зверненні."
 "Story/CaravanIsland/Voiceline/RaftTownArticle1_5";"Text";"";"Despite these concerns many believe raft towns could very well be a viable alternative.";"Попри всі побоювання, багато хто вважає, що міста на плотах цілком можуть бути придатною альтернативою."
 "Story/CaravanIsland/Voiceline/RaftTownArticle1_6";"Text";"";"Recent rumors surrounding the construction of sanctuary towers in the southern hemisphere has only increased tensions. We sought a comment from the local government.";"Нещодавні чутки про будівництво веж-притулків у південній півкулі лише посилили напруженість. Ми звернулися за коментарем до місцевої влади."
-"Story/CaravanIsland/Voiceline/RaftTownArticle2_1";"Text";"";"""A maritime hazard in the making,"" the foreign minister stated this morning in a public address.";"«Назріває морська небезпека», — заявив сьогодні вранці міністр закордонних справ у своєму публічному зверненні."
+"Story/CaravanIsland/Voiceline/RaftTownArticle2_1";"Text";"";"""A maritime hazard in the making,"" the foreign minister stated this morning in a public address.";"“Назріває морська небезпека”, — заявив сьогодні вранці міністр закордонних справ у своєму публічному зверненні."
 "Story/CaravanIsland/Voiceline/RaftTownArticle2_2";"Text";"";"Despite these concerns many believe raft towns could very well be a viable alternative.";"Попри всі побоювання, багато хто вважає, що міста на плотах цілком можуть бути придатною альтернативою."
 "Story/CaravanIsland/Voiceline/RaftTownArticle2_3";"Text";"";"Recent rumors surrounding the construction of sanctuary towers in the southern hemisphere has only increased tensions. We sought a comment from the";"Нещодавні чутки про будівництво веж-притулків у південній півкулі лише посилили напруженість. Ми звернулися за коментарем до"
 "Story/CaravanIsland/Voiceline/SanjayMessage_1";"Text";"";"My name is Sanjay. I think I’m in trouble.";"Мене звати Санджай. Здається, я в біді."
@@ -1333,14 +1333,14 @@ Time to get to work.";"Зупиніть мене, якщо ви вже чули 
  
 Час братися до роботи."
 "Story/Prologue/ScoutRule1";"Text";"";"Your Raft is your home. Your Hook is your friend.";"Твій пліт — твій дім. Твій гак — твій друг."
-"Story/Prologue/ScoutRule2";"Text";"";"If your Raft breaks, you patch it up. If your Hook is lost, you make another. ";"Якщо твій пліт зламається — відремонтуй. Якщо твій гак загубиться — зроби новий. "
+"Story/Prologue/ScoutRule2";"Text";"";"If your Raft breaks, you patch it up. If your Hook is lost, you make another. ";"Якщо ваш пліт зламається — відремонтуйте. Якщо ваш гак загубиться — зробіть новий. "
 "Story/Prologue/ScoutRule3";"Text";"";"If you find the big blue stretching out forever, that means you aren’t paying attention.";"Якщо тобі здається, що велика синя смуга попереду нескінченна — тобі лише здається."
-"Story/Prologue/ScoutRule4";"Text";"";"There’s nothing you can’t make if you have the right salvage.";"Немає нічого неможливого, якщо ти вмієш виживати."
-"Story/Prologue/ScoutRule5";"Text";"";"Follow any radio frequencies. If it’s still broadcasting, it’s above water.";"Досліджуй усі радіочастоти. Якщо сигнал є — значить його джерело все ще над водою."
+"Story/Prologue/ScoutRule4";"Text";"";"There’s nothing you can’t make if you have the right salvage.";"Немає нічого неможливого, якщо ви вмієте виживати."
+"Story/Prologue/ScoutRule5";"Text";"";"Follow any radio frequencies. If it’s still broadcasting, it’s above water.";"Досліджуйте усі радіочастоти. Якщо сигнал є — значить його джерело все ще над водою."
 "Story/Prologue/ScoutRule6";"Text";"";"Others have come before you, more will come after you. Be sure to mark the way. ";"Багато людей тут плавало до тебе, ще більше пливтиме після тебе. Не забувай позначати шлях. "
 "Story/Prologue/ScoutRule7";"Text";"";"The world is gone, but its stories remain. Gather as many as you can. ";"Світ зник, але його історії все ще є. Зберіть їх якомога більше. "
 "Story/Prologue/ScoutRuleSharkAlert";"Text";"";"And for Pete’s sake, watch out for sharks.";"І, заради Бога, бережись акул."
-"Story/Prologue/ScoutRuleTitle";"Text";"";"YOU ARE A FORWARD SCOUT";"ТИ — ПРОВІДНИЙ РОЗВІДНИК"
+"Story/Prologue/ScoutRuleTitle";"Text";"";"YOU ARE A FORWARD SCOUT";"ТИ — ПЕРЕДОВИЙ РОЗВІДНИК"
 "Story/RadioTower/Note1";"Text";"";"DECEMBER 12th:
 
 We stopped for the night. Owl climbed the tower. Radio still works apparently. Should be two weeks before we reach Selene, but the team’s not responding.
@@ -1350,12 +1350,12 @@ You might say things are a bit tense. The other facilities are under water. So�
 I really hope we’re not the last hope for humanity.
 ~Cuckoo";"12 ГРУДНЯ:
 
-Ми зупинились на ніч. Пугач виліз на вежу. Схоже, що радіо все ще працює. До “Селени” ми доберемося десь за два тижні, але команда не виходить на зв'язок.
+Ми зупинились на ніч. Сова вилізла на вежу. Схоже, що радіо все ще працює. До “Селени” ми доберемося десь за два тижні, але команда не виходить на зв'язок.
 
-Можна сказати, що ситуація трохи напружена. Частина приміщень затоплена. Тому… Якщо у “Селені” щось сталося — це кінець. А ще тепер Синиця відмовляється з нами розмовляти.
+Можна сказати, що ситуація трохи напружена. Частина приміщень затоплена. Тому… Якщо у “Селені” щось сталося — це кінець. А ще тепер Горобець відмовляється з нами розмовляти.
 
 Я дуже сподіваюся, що ми не остання надія людства.
-~Чиж"
+~Зозуля"
 "Story/RadioTower/Note2";"Text";"";"JANUARY:
 
 It’s been weeks. Just me and Owl here now, stuck on this platform. Sparrow took the boat. I can’t figure out why... Everything is just so secretive. I mean, I don’t even know their real names!
@@ -1365,12 +1365,12 @@ I only know the team at Selene got a prototype working and they needed more peop
 Owl’s yelling up in the tower. Maybe the radio picked up something? Is it you, Sparrow?
 ~Cuckoo";"СІЧЕНЬ:
 
-Минули тижні. Наразі тут лише я та Пугач, ми застрягли на цій платформі. Синиця забрала човен. Не можу зрозуміти, чому... Все настільки засекречено. Я навіть не знаю їхніх справжніх імен!
+Минули тижні. Наразі тут лише я та Сова, ми застрягли на цій платформі. Горобець забрав човен. Не можу зрозуміти, чому... Все настільки засекречено. Я навіть не знаю їхніх справжніх імен!
 
 Я лиш знаю, що команда в “Селені” отримала прототип, який працює, і їм потрібно більше людей. Ми повинні стати цими людьми, і ми разом б знайшли вихід з цієї халепи. Якось.
 
-Пугач щось кричить на вежі. Може радіо щось вловило? Це що, Синиця?
-~Чиж"
+Сова щось кричить на вежі. Може радіо щось вловило? Це що, Горобець?
+~Зозуля"
 "Story/RadioTower/Note3";"Text";"";"Errm… FEBRUARY(?) 
 
 We’ve picked up a lot of signals. Maybe someone will come and help us. We’re not starving... yet.
@@ -1382,47 +1382,47 @@ I hope you make it to Selene. I hope you finish the reactor. For all of us.
 
 Ми отримали чимало сигналів. Можливо, хтось з'явиться і допоможе нам. Ми не голодуємо... поки.
 
-Реактор у “Селені” може бути нашим єдиним шансом проти цього безкрайнього океану, і ти це знала, Синице. Пугач вважає, що ти нас зрадила. Але у тебе, мабуть, була вагома причина залишити нас тут.
+Реактор у “Селені” може бути нашим єдиним шансом проти цього безкрайнього океану, і ти це знав, Горобцю. Сова вважає, що ти нас зрадив. Але у тебе, мабуть, була вагома причина залишити нас тут.
 
 Сподіваюся, ти дістанешся до “Селени”. Сподіваюся, ти закінчиш реактор. Заради нас усіх.
-~Чиж"
+~Зозуля"
 "Story/RadioTower/Note4";"Text";"";"OWL’S RADIO NOTES:
 22 Dec ~Distress call received. Balboa Island.
 9 Jan ~Cuckoo won’t accept facts.
 2 Feb ~Gunshots in the distance. Tangaroa City?
 14 Feb ~Sparrow’s comm. At Selene?
 6 Mar ~Another distress call. Varuna Point. Missing child?
-16 Apr ~Rafters dreaming of UTOPIA. Foolish hope.";"РАДІОНОТАТКИ ПУГАЧА:
+16 Apr ~Rafters dreaming of UTOPIA. Foolish hope.";"РАДІОНОТАТКИ СОВИ:
 22 груд. ~Отримано сигнал лиха. Острів Бальбоа.
-9 січ. ~Чиж погоджується з правдою.
+9 січ. ~Зозуля не сприймає факти.
 2 лют. ~Постріли удалині. Місто Танґароа?
-14 лют. ~Розмова Синиці. У “Селені”?
+14 лют. ~Розмова Горобця. У “Селені”?
 6 берез. ~Ще один сигнал лиха. Варуна Пойнт. Зникле дитя?
 16 квіт. ~Плотарі мріють знайти УТОПІЮ. Безглузда надія."
 "Story/RadioTower/PostIt";"Text";"";"People?";"Люди?"
-"Story/RadioTower/Voiceline/Note1_1";"Text";"";"DECEMBER 12th: We stopped for the night. Owl climbed the tower. Radio still works apparently.";"12 ГРУДНЯ: Ми зупинились на ніч. Пугач виліз на вежу. Схоже, що радіо все ще працює."
-"Story/RadioTower/Voiceline/Note1_2";"Text";"";"Should be two weeks before we reach Selene, but the team’s not responding.";"До «Селени» ми доберемося десь за два тижні, але команда не виходить на зв'язок."
+"Story/RadioTower/Voiceline/Note1_1";"Text";"";"DECEMBER 12th: We stopped for the night. Owl climbed the tower. Radio still works apparently.";"12 ГРУДНЯ: Ми зупинились на ніч. Сова вилізла на вежу. Схоже, що радіо все ще працює."
+"Story/RadioTower/Voiceline/Note1_2";"Text";"";"Should be two weeks before we reach Selene, but the team’s not responding.";"До “Селени” ми доберемося десь за два тижні, але команда не виходить на зв'язок."
 "Story/RadioTower/Voiceline/Note1_3";"Text";"";"You might say things are a bit tense. The other facilities are under water.";"Можна сказати, що ситуація трохи напружена. Частина приміщень затоплена."
-"Story/RadioTower/Voiceline/Note1_4";"Text";"";"So… If Selene is lost, we’ve got nothing. And now Sparrow’s not talking to either of us.";"Тому… Якщо у «Селені» щось сталося — це кінець. А ще тепер Синиця відмовляється з нами розмовляти."
+"Story/RadioTower/Voiceline/Note1_4";"Text";"";"So… If Selene is lost, we’ve got nothing. And now Sparrow’s not talking to either of us.";"Тому… Якщо у “Селені” щось сталося — це кінець. А ще тепер Горобець відмовляється з нами розмовляти."
 "Story/RadioTower/Voiceline/Note1_5";"Text";"";"I really hope we’re not the last hope for humanity.";"Я дуже сподіваюся, що ми не остання надія людства."
-"Story/RadioTower/Voiceline/Note2_1";"Text";"";"JANUARY: It’s been weeks. Just me and Owl here now, stuck on this platform.";"СІЧЕНЬ: Минули тижні. Наразі тут лише я та Пугач, ми застрягли на цій платформі."
-"Story/RadioTower/Voiceline/Note2_2";"Text";"";"Sparrow took the boat. I can’t figure out why... Everything is just so secretive. ";"Синиця забрала човен. Не можу зрозуміти, чому... Все настільки засекречено. "
+"Story/RadioTower/Voiceline/Note2_1";"Text";"";"JANUARY: It’s been weeks. Just me and Owl here now, stuck on this platform.";"СІЧЕНЬ: Минули тижні. Наразі тут лише я та Сова, ми застрягли на цій платформі."
+"Story/RadioTower/Voiceline/Note2_2";"Text";"";"Sparrow took the boat. I can’t figure out why... Everything is just so secretive. ";"Горобець забрав човен. Не можу зрозуміти, чому... Все настільки засекречено. "
 "Story/RadioTower/Voiceline/Note2_3";"Text";"";"I mean, I don’t even know their real names! ";"Я навіть не знаю їхніх справжніх імен! "
-"Story/RadioTower/Voiceline/Note2_4";"Text";"";"I only know the team at Selene got a prototype working and they needed more people. ";"Я лиш знаю, що команда в «Селені» отримала прототип, який працює, і їм потрібно більше людей. "
+"Story/RadioTower/Voiceline/Note2_4";"Text";"";"I only know the team at Selene got a prototype working and they needed more people. ";"Я лиш знаю, що команда в “Селені” отримала прототип, який працює, і їм потрібно більше людей. "
 "Story/RadioTower/Voiceline/Note2_5";"Text";"";"WE were supposed to be those people and Together we would find a way out of this mess. Somehow.";"Ми повинні стати цими людьми, і ми разом б знайшли вихід з цієї халепи. Якось."
 "Story/RadioTower/Voiceline/Note2_6";"Text";"";"Owl’s yelling up in the tower. Maybe the radio picked up something? Is it you, Sparrow?
-";"Пугач щось кричить на вежі. Може радіо щось вловило? Це що, Синиця?"
+";"Сова щось кричить на вежі. Може радіо щось вловило? Це що, Горобець?"
 "Story/RadioTower/Voiceline/Note3_1";"Text";"";"Errm… FEBRUARY(?) We’ve picked up a lot of signals. Maybe someone will come and help us. ";"Гммм… ЛЮТИЙ(?) Ми отримали чимало сигналів. Можливо, хтось з'явиться і допоможе нам. "
 "Story/RadioTower/Voiceline/Note3_2";"Text";"";"We’re not starving... yet.";"Ми не голодуємо... поки."
-"Story/RadioTower/Voiceline/Note3_3";"Text";"";"The reactor at Selene might be the only chance we have against this endless ocean.";"Реактор у «Селені» може бути нашим єдиним шансом проти цього безкрайнього океану."
-"Story/RadioTower/Voiceline/Note3_4";"Text";"";" You knew it, Sparrow. Owl thinks you betrayed us. ";" І ти це знала, Синице. Пугач вважає, що ти нас зрадила. "
+"Story/RadioTower/Voiceline/Note3_3";"Text";"";"The reactor at Selene might be the only chance we have against this endless ocean.";"Реактор у “Селені” може бути нашим єдиним шансом проти цього безкрайнього океану."
+"Story/RadioTower/Voiceline/Note3_4";"Text";"";" You knew it, Sparrow. Owl thinks you betrayed us. ";" І ти це знав, Горобцю. Сова вважає, що ти нас зрадив. "
 "Story/RadioTower/Voiceline/Note3_5";"Text";"";"But you must have had a good reason for leaving us here.";"Але у тебе, мабуть, була вагома причина залишити нас тут."
-"Story/RadioTower/Voiceline/Note3_6";"Text";"";"I hope you make it to Selene. I hope you finish the reactor. For all of us.";"Сподіваюся, ти дістанешся до «Селени». Сподіваюся, ти закінчиш реактор. Заради нас усіх."
-"Story/RadioTower/Voiceline/Note4_1";"Text";"";"OWL’S RADIO NOTES:";"РАДІОНОТАТКИ ПУГАЧА:"
+"Story/RadioTower/Voiceline/Note3_6";"Text";"";"I hope you make it to Selene. I hope you finish the reactor. For all of us.";"Сподіваюся, ти дістанешся до “Селени”. Сподіваюся, ти закінчиш реактор. Заради нас усіх."
+"Story/RadioTower/Voiceline/Note4_1";"Text";"";"OWL’S RADIO NOTES:";"РАДІОНОТАТКИ СОВИ:"
 "Story/RadioTower/Voiceline/Note4_2";"Text";"";"22 Dec ~Distress call received. Balboa Island.";"22 груд. ~Отримано сигнал лиха. Острів Бальбоа."
-"Story/RadioTower/Voiceline/Note4_3";"Text";"";"9 Jan ~Cuckoo won’t accept facts.";"9 січ. ~Чиж погоджується з правдою."
+"Story/RadioTower/Voiceline/Note4_3";"Text";"";"9 Jan ~Cuckoo won’t accept facts.";"9 січ. ~Зозуля не сприймає факти."
 "Story/RadioTower/Voiceline/Note4_4";"Text";"";"2 Feb ~Gunshots in the distance. Tangaroa City?";"2 лют. ~Постріли удалині. Місто Танґароа?"
-"Story/RadioTower/Voiceline/Note4_5";"Text";"";"14 Feb ~Sparrow’s comm. At Selene?";"14 лют. ~Розмова Синиці. У «Селені»?"
+"Story/RadioTower/Voiceline/Note4_5";"Text";"";"14 Feb ~Sparrow’s comm. At Selene?";"14 лют. ~Розмова Горобця. У “Селені”?"
 "Story/RadioTower/Voiceline/Note4_6";"Text";"";"6 Mar ~Another distress call. Varuna Point. Missing child?";"6 берез. ~Ще один сигнал лиха. Варуна Пойнт. Зникле дитя?"
 "Story/RadioTower/Voiceline/Note4_7";"Text";"";"16 Apr ~Rafters dreaming of UTOPIA. Foolish hope.";"16 квіт. ~Плотарі мріють знайти УТОПІЮ. Безглузда надія."
 "Story/Tangaroa/GardenerDiary";"Text";"";"Oh no, no, no. The entire ecosystem is ruined! 
@@ -1446,7 +1446,7 @@ We’ll be starving by the end of the year. If not sooner!
 (Security) - ”Tulley says shoot to wound..?”";"(Розшифроване аудіо)
 (Охорона) - “Ні, сер, вони не зробили нічого ворожого. Так, вони все ще просто скандують.”
 (Капітан Таллі) - *Приглушена відповідь*
-(Охорона) - “Так, сер, я озброєна. Але відверто кажучи, ми можемо використати водомети, якщо...”
+(Охорона) - “Так, сер, я озброєний. Але якщо я можу говорити відверто, ми можемо використати водомети, якщо...”
 (Капітан Таллі) - *Приглушений наказ*
 (Охорона) - “Так, сер. Ні, сер.” 
 *Статичний радіосигнал вимикається, коли голос охоронця тремтить*
@@ -1454,10 +1454,10 @@ We’ll be starving by the end of the year. If not sooner!
 "Story/Tangaroa/Ruben1";"Text";"";"Captain Tulley ordered us to push the engines to their limits. We’re trying to outrun a fleet of rafts, or something. It’s going to overheat the reactor. I sent a message up the tower. Tulley doesn’t care.
 
 I hope you’re faring better, Hanne. Much better.
-~Ruben";"Капітан Таллі наказав нам запустити двигуни на повну потужність. Ми намагаємося обігнати флотилію плотів, щось типу того. Це викличе перегрів реактора. Я надіслав повідомлення на вежу. Таллі начхати.
+~Ruben";"Капітан Туллі наказав нам підштовхнути двигуни до межі. Ми намагаємося уникати флоту пліт або щось. Він перегріє реактор. Я надіслав повідомлення до вежі. Туллі байдужість.
 
-Сподіваюся, тобі вже краще, Ханне. Набагато краще.
-~Рубен"
+Сподіваюся, що ви їдете краще, Ханне.
+~ Рубен"
 "Story/Tangaroa/Ruben2";"Text";"";"The engines are done. People upstairs are already upset over the extreme rationing. Now we’re at the mercy of the waves.
 
 And those rafts on the horizon are coming closer by the hour. I’m sealing up the reactor now. I don’t care what Captain Tulley says.
@@ -1519,14 +1519,14 @@ Now I will stay here, trapped in the cockpit with two dozen idiots who used to r
 ~Капітан Таллі"
 "Story/Tangaroa/Voiceline/GardenerDiary_1";"Text";"";"Oh no, no, no. The entire ecosystem is ruined! ";"О ні, ні, ні. Уся екосистема зруйнована! "
 "Story/Tangaroa/Voiceline/GardenerDiary_2";"Text";"";"I’ve WARNED Captain Tulley about this for weeks now.";"Я вже кілька тижнів ПОПЕРЕДЖАЮ про це капітана Таллі."
-"Story/Tangaroa/Voiceline/GardenerDiary_3";"Text";"";"My contract doesn’t allow me to tell anyone else and it’s eating me up inside.";"Мій контракт не дозволяє мені розповісти ще комусь, і це з'їдає мене зсередини."
+"Story/Tangaroa/Voiceline/GardenerDiary_3";"Text";"";"My contract doesn’t allow me to tell anyone else and it’s eating me up inside.";"Мій контракт не дозволяє мені нікому іншого казати, і це їсть мене всередині."
 "Story/Tangaroa/Voiceline/GardenerDiary_4";"Text";"";"The banana plants won’t bear nearly enough fruit. Not to mention the infestations…";"Бананові дерева не дають достатньої кількості плодів. Не кажучи вже про інфекції…"
-"Story/Tangaroa/Voiceline/GardenerDiary_5";"Text";"";"We’ll be starving by the end of the year. If not sooner!";"Ми будемо голодувати вже наприкінці року. Якщо не раніше!"
-"Story/Tangaroa/Voiceline/RiotLog_1";"Text";"";"(Security) - “No sir, they haven’t done anything hostile. Yes, they’re still just chanting.”";"(Охорона) - «Ні, сер, вони не зробили нічого ворожого. Так, вони все ще просто скандують.»"
+"Story/Tangaroa/Voiceline/GardenerDiary_5";"Text";"";"We’ll be starving by the end of the year. If not sooner!";"Ми будемо голодувати до кінця року. Якщо не скоро!"
+"Story/Tangaroa/Voiceline/RiotLog_1";"Text";"";"(Security) - “No sir, they haven’t done anything hostile. Yes, they’re still just chanting.”";"(Охорона) - “Ні, сер, вони не зробили нічого ворожого. Так, вони все ще просто скандують.”"
 "Story/Tangaroa/Voiceline/RiotLog_2";"Text";"";"(Captain Tulley) - *Muffled response.*";"(Капітан Таллі) - *Приглушена відповідь*"
-"Story/Tangaroa/Voiceline/RiotLog_3";"Text";"";"(Security) - ”Yes sir, I am armed. But if I may speak freely, we are able to use the water cannons if-”";"(Охорона) - «Так, сер, я озброєна. Але відверто кажучи, ми можемо використати водомети, якщо...»"
+"Story/Tangaroa/Voiceline/RiotLog_3";"Text";"";"(Security) - ”Yes sir, I am armed. But if I may speak freely, we are able to use the water cannons if-”";"(Охорона) - “Так, сер, я озброєна. Але відверто кажучи, ми можемо використати водомети, якщо...”"
 "Story/Tangaroa/Voiceline/RiotLog_4";"Text";"";"(Captain Tulley) - *Muffled order.*";"(Капітан Таллі) - *Приглушений наказ*"
-"Story/Tangaroa/Voiceline/RiotLog_5";"Text";"";"(Security) - ”Yes, sir. No, sir.” ";"(Охорона) - «Так, сер. Ні, сер.» "
+"Story/Tangaroa/Voiceline/RiotLog_5";"Text";"";"(Security) - ”Yes, sir. No, sir.” ";"(Охорона) - “Так, сер. Ні, сер.” "
 "Story/Tangaroa/Voiceline/RiotLog_6";"Text";"";"(Security) - ”Tulley says shoot to wound..?”";"(Охорона) - ”Таллі сказав стріляти на ураження...?”"
 "Story/Tangaroa/Voiceline/Ruben1_1";"Text";"";"Captain Tulley ordered us to push the engines to their limits.";"Капітан Таллі наказав нам запустити двигуни на повну потужність."
 "Story/Tangaroa/Voiceline/Ruben1_2";"Text";"";"We’re trying to outrun a fleet of rafts, or something. It’s going to overheat the reactor.";"Ми намагаємося обігнати флотилію плотів, щось типу того. Це викличе перегрів реактора."
@@ -1547,8 +1547,8 @@ Now I will stay here, trapped in the cockpit with two dozen idiots who used to r
 "Story/Tangaroa/Voiceline/Ruben4_4";"Text";"";"It’s like some kind of dumb guerilla war upstairs.";"Схоже, що нагорі триває якась безглузда партизанська війна."
 "Story/Tangaroa/Voiceline/Ruben4_5";"Text";"";"We’re fixing up a boat, but there’s no engine.";"Ми лагодимо човен, але у нас немає двигуна."
 "Story/Tangaroa/Voiceline/Ruben4_6";"Text";"";"The raft-kid thinks we could take one of the golf cart engines. It’s not a bad idea.";"Дитя з плоту пропонує взяти двигун від гольф-кара. Непогана ідея."
-"Story/Tangaroa/Voiceline/Ruben4_7";"Text";"";"Captain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.";"Капітан Таллі та «інвестори» все ще на вежі. Нехай там і гниють."
-"Story/Tangaroa/Voiceline/Ruben4_8";"Text";"";"Captain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.";"Капітан Таллі та «інвестори» все ще на вежі. Нехай там і гниють."
+"Story/Tangaroa/Voiceline/Ruben4_7";"Text";"";"Captain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.";"Капітан Таллі та “інвестори” все ще на вежі. Нехай там і гниють."
+"Story/Tangaroa/Voiceline/Ruben4_8";"Text";"";"Captain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.";"Капітан Таллі та “інвестори” все ще на вежі. Нехай там і гниють."
 "Story/Tangaroa/Voiceline/Ruben5_1";"Text";"";"The kid’s name is Detto.";"Хлопця звуть Детто. "
 "Story/Tangaroa/Voiceline/Ruben5_2";"Text";"";"How someone his age was able to reconstruct an engine like that I’ll never know, but now we’ve got the boat working.";"Вперше бачу, як хтось такого віку може відремонтувати такий двигун, але тепер човен знову на ходу."
 "Story/Tangaroa/Voiceline/Ruben5_3";"Text";"";"We’ll be gathering up a few more survivors before we head off.";"Ми підберемо ще кількох вцілілих, перш ніж вирушимо в дорогу."
@@ -1583,9 +1583,9 @@ One of them completely wrecked the boat when we tried to get away. None of the u
 I asked HENRY if I should trust the boy. But I didn’t get an answer.
 ~Bruno";"Бачили ведмедів на цьому замороженому острові!
 
-Один із них повністю розтрощив судно, коли ми намагалися втекти. Жодні простенькі хитрощі також не спрацювали. Нас із ГЕНРІ просто з'їли б, якби не з'явився той хлопчик з повітряним ріжком. Його звати Детто. Сказав, він прибув сюди з кількома вижившими.
+Один із них повністю розтрощив судно, коли ми намагалися втекти. Жодна з звичайних хитрощів також не працювала. Нас із ГЕНРІ просто з'їли б, якби не з'явився той хлопчик з повітряним рогом. Його звати Детто. Сказав, він прибув сюди з деякими вижившими.
 
-Я запитав ГЕНРІ, чи варто довіряти хлопчику. Але у відповідь — нічого.
+Я запитав ГЕНРІ, чи варто довіряти хлопчику. Але у відповідь - нічого.
 ~Бруно"
 "Story/Temperance/Bruno3";"Text";"";"Detto showed me and HENRY some abandoned igloos. The boy got them open by fiddling with some cables? The big igloo is still shut though. I wonder what’s inside…
 
@@ -1601,7 +1601,7 @@ Where are you, sis?
 "Story/Temperance/Bruno4";"Text";"";"That kid Detto is really smart. Using material we salvaged, he was able to fix up my boat. Ruben is recovering too, but... he doesn’t seem to want to talk to me a lot. Both of them stare whenever I talk to HENRY…?
 
 HENRY doesn’t like the way they look at us. I think I need to do something.
-~Bruno";"Той хлопчина, Детто, дуже кмітливий. З допомогою матеріалу, що ми припасли, він зміг відремонтувати моє судно. Рубен також видужує, але… схоже, він не дуже бажає розмовляти зі мною. Обидва зазираються щоразу, коли я розмовляю з ГЕНРІ…?
+~Bruno";"Той хлопчина Детто дуже кмітливий. З допомогою матеріалу, що ми припасли, він зміг виправити мій човен. Рубен також видужує, але... схоже, він не дуже бажає розмовляти зі мною. Обидва зазираються щоразу, коли я розмовляю з ГЕНРІ…?
 
 ГЕНРІ не до вподоби те, як вони дивляться на нас. Схоже, мені треба щось зробити.
 ~Бруно"
@@ -1610,9 +1610,9 @@ HENRY doesn’t like the way they look at us. I think I need to do something.
 HENRY is staying behind. It’s bittersweet. He doesn’t speak with me anymore, but I think it’s safer for someone to stay behind. Detto says there’s a place with lots of people. Ruben says Astrid might be there. She definitely isn’t here, in this cold place.
 
 It’s nice talking to people.
-~Bruno";"Судно готове до відправлення. Детто з повітряним ріжком готовий, а Рубен принаймні може ходити.
+~Bruno";"Судно готове до відправлення. Детто готовий працювати з тифоном, а Рубен принаймні може ходити.
 
-ГЕНРІ залишається позаду. Якось і радісно, і сумно. Він зі мною більше не розмовляє, але я думаю, так буде безпечніше, якщо хтось лишиться позаду. Детто каже, там є місце для купи людей. Рубен каже, що Астрід може бути там. Вона точно не тут, в цьому холодному місці.
+ГЕНРІ залишається позаду. Якось і радісно, і сумно. Він зі мною більше не розмовляє, але комусь легше попросити когось, щоб лишився позаду. Детто, там є місце для купи людей. Рубен каже, що Астрід може бути там. Вона точно не тут, в цьому холодному місці.
 
 Чудово розмовляти з людьми.
 ~Бруно"
@@ -1621,19 +1621,19 @@ It’s nice talking to people.
 I was sent to Selene alongside two colleagues. One of which I discovered was a mole by the ‘investors’. Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.
 
 The other colleague… I left behind. I did not trust you, Cuckoo. I couldn’t. It was too much of a risk. I hope you will forgive me.
-~Sparrow";"Мене звати Синиця. Хто знайде цей запис, знайте — я ставила інтереси людства на перше місце. Завжди.
+~Sparrow";"Мене звуть Горобець. Хто знайде цей запис, знайте — я ставив інтереси людства на перше місце. Завжди.
 
-Мене відправили до “Селени” разом з двома колегами. Я з'ясувала, що один з них — кріт, надісланий “інвесторами”. От дозволили б Пугачу прибути до “Селени”, знання про цю необмежену зелену енергію були б монополізовані тими самими людьми, що заварили ту кашу, яку ми й сьорбали.
+Мене відправили до “Селени” разом з двома колегами. Я з'ясував, що один з них — кріт, надісланий “інвесторами”. От дозволили б Сові прибути до “Селени”, знання про цю необмежену зелену енергію були б монополізовані тими самими людьми, що й заварили ту кашу, яку ми й сьорбали.
 
-Іншого колегу… я лишила позаду. Я тобі не довіряла, Чиже. Я не могла. Це було надто ризиковано. Сподіваюсь, ти мені пробачиш.
-~Синиця"
+Іншу колегу… я лишив позаду. Я тобі не довіряв, Зозуле. Я не міг. Це було надто ризиковано. Сподіваюсь, ти мені пробачиш.
+~Горобець"
 "Story/Temperance/Sparrow2";"Text";"";"The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities. No easy task. But it has been done. In theory. Yet we do not have the people to construct anything but a basic prototype. It can be built for real, I know it! We just need more people.
 
 There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. One of the ‘investors’ has taken control of the community. Olof Wilkstrom. I fear his intentions with this potential Utopia.
 ~Sparrow";"Комплекс “Селена” був збудований лише з однією метою: освоєння та покращення експериментальних реакторів, які живили плавучі міста енергією. Непросте завдання. Та все ж, воно виконане. В теорії. Однак в нас немає людей для будівництва чогось окрім базового прототипу. Його справді можна збудувати, я це точно знаю! Нам лише треба більше людей.
 
 Є одне місце, де плотарі живуть в мирі разом з усіма вижившими зі старого світу. Його називають Утопія. Може, там ми можемо усунути шкоду, яку ми наробили. Але вчора ми отримали повідомлення від них. Один з “інвесторів” взяв на себе контроль над громадою. Олоф Вілкштром. Мене лякають його наміри щодо потенційної Утопії.
-~Синиця"
+~Горобець"
 "Story/Temperance/Voiceline/Bruno1_1";"Text";"";"I’ve already lost MIRANDA. I will not lose you too, HENRY.";"Я вже втратив МІРАНДУ. Тебе я точно не втрачу, ГЕНРІ."
 "Story/Temperance/Voiceline/Bruno1_2";"Text";"";"The two of us have followed a signal far south. I know it's from my sister. There’s no doubt. ";"Ми обидва пішли вслід за сигналом далеко на південь. Я знаю, він від моєї сестри. Жодних сумнівів. "
 "Story/Temperance/Voiceline/Bruno1_3";"Text";"";"HENRY is skeptical. He thinks the cold will be dangerous.";"ГЕНРІ скептичний. Він вважає, холоди будуть небезпечними."
@@ -1659,19 +1659,19 @@ There’s a place where the rafters live in peace with any survivors of the old 
 "Story/Temperance/Voiceline/Bruno5_3";"Text";"";"He doesn’t speak with me anymore, but I think it’s safer for someone to stay behind. ";"Він зі мною більше не розмовляє, але я думаю, так буде безпечніше, якщо хтось лишиться позаду. "
 "Story/Temperance/Voiceline/Bruno5_4";"Text";"";"Detto says there’s a place with lots of people. Ruben says Astrid might be there.";"Детто каже, там є місце для купи людей. Рубен каже, що Астрід може бути там."
 "Story/Temperance/Voiceline/Bruno5_5";"Text";"";"She definitely isn’t here, in this cold place. It’s nice talking to people.";"Вона точно не тут, в цьому холодному місці. Чудово розмовляти з людьми."
-"Story/Temperance/Voiceline/Sparrow1_1";"Text";"";"I am called Sparrow. Whoever finds this, know that I held humanity’s interest first. Always.";"Мене звати Синиця. Хто знайде цей запис, знайте — я ставила інтереси людства на перше місце. Завжди."
-"Story/Temperance/Voiceline/Sparrow1_2";"Text";"";"I was sent to Selene alongside two colleagues.";"Мене відправили до «Селени» разом з двома колегами."
-"Story/Temperance/Voiceline/Sparrow1_3";"Text";"";"One of which I discovered was a mole by the ‘investors’.";"Я з'ясувала, що один з них — кріт, надісланий «інвесторами»."
-"Story/Temperance/Voiceline/Sparrow1_4";"Text";"";"Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.";"От дозволили б Пугачу прибути до «Селени», знання про цю необмежену зелену енергію були б монополізовані тими самими людьми, що заварили ту кашу, яку ми й сьорбали."
-"Story/Temperance/Voiceline/Sparrow1_5";"Text";"";"The other colleague… I left behind. I did not trust you, Cuckoo.";"Іншого колегу… я лишила позаду. Я тобі не довіряла, Чиже."
+"Story/Temperance/Voiceline/Sparrow1_1";"Text";"";"I am called Sparrow. Whoever finds this, know that I held humanity’s interest first. Always.";"Мене звуть Горобець. Хто знайде цей запис, знайте — я ставив інтереси людства на перше місце. Завжди."
+"Story/Temperance/Voiceline/Sparrow1_2";"Text";"";"I was sent to Selene alongside two colleagues.";"Мене відправили до “Селени” разом з двома колегами."
+"Story/Temperance/Voiceline/Sparrow1_3";"Text";"";"One of which I discovered was a mole by the ‘investors’.";"Я з'ясував, що один з них — кріт, надісланий “інвесторами”."
+"Story/Temperance/Voiceline/Sparrow1_4";"Text";"";"Had Owl been allowed to come to Selene, the knowledge of this unlimited green energy would have been monopolized by the same people who caused this mess to begin with.";"От дозволили б Сові прибути до “Селени”, знання про цю необмежену зелену енергію були б монополізовані тими самими людьми, що й заварили ту кашу, яку ми й сьорбали."
+"Story/Temperance/Voiceline/Sparrow1_5";"Text";"";"The other colleague… I left behind. I did not trust you, Cuckoo.";"Іншу колегу… я лишив позаду. Я тобі не довіряв, Зозуле."
 "Story/Temperance/Voiceline/Sparrow1_6";"Text";"";"I couldn’t. It was too much of a risk. I hope you will forgive me.";"Я не міг. Це було надто ризиковано. Сподіваюсь, ти мені пробачиш."
-"Story/Temperance/Voiceline/Sparrow2_1";"Text";"";"The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities.";"Комплекс «Селена» був збудований лише з однією метою: освоєння та покращення експериментальних реакторів, які живили плавучі міста енергією."
+"Story/Temperance/Voiceline/Sparrow2_1";"Text";"";"The Selene facility was built for one purpose: master and perfect the experimental reactors used to power the floating cities.";"Комплекс “Селена” був збудований лише з однією метою: освоєння та покращення експериментальних реакторів, які живили плавучі міста енергією."
 "Story/Temperance/Voiceline/Sparrow2_2";"Text";"";"No easy task. But it has been done. In theory.";"Непросте завдання. Та все ж, воно виконане. В теорії."
 "Story/Temperance/Voiceline/Sparrow2_3";"Text";"";"Yet we do not have the people to construct anything but a basic prototype. ";"Однак в нас немає людей для будівництва чогось окрім базового прототипу. "
 "Story/Temperance/Voiceline/Sparrow2_4";"Text";"";"It can be built for real, I know it! We just need more people.";"Його справді можна збудувати, я це точно знаю! Нам лише треба більше людей."
 "Story/Temperance/Voiceline/Sparrow2_5";"Text";"";"There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. ";"Є одне місце, де плотарі живуть в мирі разом з усіма вижившими зі старого світу. Його називають Утопія. "
 "Story/Temperance/Voiceline/Sparrow2_6";"Text";"";"Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. ";"Може, там ми можемо усунути шкоду, яку ми наробили. Але вчора ми отримали повідомлення від них. "
-"Story/Temperance/Voiceline/Sparrow2_7";"Text";"";"One of the ‘investors’ has taken control of the community. Olof Wilkstrom.";"Один з «інвесторів» взяв на себе контроль над громадою. Олоф Вілкштром. "
+"Story/Temperance/Voiceline/Sparrow2_7";"Text";"";"One of the ‘investors’ has taken control of the community. Olof Wilkstrom.";"Один з “інвесторів” взяв на себе контроль над громадою. Олоф Вілкштром. "
 "Story/Temperance/Voiceline/Sparrow2_8";"Text";"";"I fear his intentions with this potential Haven.";"Мене лякають його наміри щодо потенційної Утопії."
 "Story/Utopia/Captives";"Text";"";"FROM THE PEOPLE OF UTOPIA
 
@@ -1696,15 +1696,15 @@ Just in case I’ve decided to up the security on my raft. This map should allow
 
 Like me!";"УТОПІЧНИЙ ЖУРНАЛ ДЕТТО -СУПЕР ТАЄМНО-
 
-В мене тепер є свій пліт! І він підключений до вітрогенераторів! Якби в мене було ще більше енергії, лиш уявіть, які експерименти я міг би проводити… 
+В мене тепер є свій пліт! І він підключений до справжніх вітряків! Якби в мене було ще більше енергії, лиш уявіть, які експерименти я міг би проводити... 
 
-Але намалювався той лунатик Олоф. Його клітки вже розвантажені, і тепер він обіцяє допомогти всім бажаючим зі своєю “армією”. 
+Але намалювався той лунатик Олоф. Його клітки вже розвантажені, і тепер він обіцяє допомогти всім бажаючим зі своєю ""армією"".
 
-Востаннє, коли я його бачив, Олоф Вілкштром зруйнував містечко Караван. Я НІКОЛИ йому не пробачу! Сподіваюсь, що Ханне та Рубен мене вислухають. Йому не можна довіряти!
+Востаннє, коли я його бачив - Олоф Уілкстром зруйнував містечко Караван. Я йому НІКОЛИ не пробачу! Сподіваюсь, що Ганна та Рубен мене вслухають. Йому не можна довіряти!
 
-Про всяк випадок вирішив посилити безпеку на своєму плоті. Ця мапа має дозволити зайти лише НАЙРОЗУМНІШИМ!
+Про всяк випадок вирішив посилити безпеку на своєму плоту. Ця карта повинна пропускати лише НАЙРОЗУМНІШИХ!
 
-Таким, як я!"
+Таких, як я!"
 "Story/Utopia/EndSlides";"Text";"";"When the ocean itself broke the Forward Scouts, the survivors were left with nothing.
 
 Yet they persisted, rose up from nothing, defied our flooded world, and brought back hope.
@@ -1753,8 +1753,8 @@ From today on, we are all Forward Scouts, ready to discover the next step for hu
 "Story/Utopia/Voiceline/BrunoDialogue9";"Text";"";"You’ve been to Temperance too? You must really like bears.";"І на Темперанс також? Ви, мабуть, обожнюєте ведмедів."
 "Story/Utopia/Voiceline/Captives_1";"Text";"";"FROM THE PEOPLE OF UTOPIA";"ВІД ЛЮДЕЙ УТОПІЇ"
 "Story/Utopia/Voiceline/Captives_2";"Text";"";"Do NOT trust Olof Wilkstrom. When he arrived here we took his word in good faith.";"НЕ довіряйте Олофу Вілкштрому. Коли він сюди прибув, ми повірили йому на слово."
-"Story/Utopia/Voiceline/Captives_3";"Text";"";"He exploited us at every turn. Now all of us ‘dissenters’ are locked up.";"Він нас використовував на кожному кроці. Тепер усі ми «інакодумці» та замкнені."
-"Story/Utopia/Voiceline/Captives_4";"Text";"";"Which is everyone, by my count. To anyone reading this, Olof should be up in the marketplace.";"А за моїми підрахунками «інакодумцями» вивилися буквально всі. Хто це читає, знайте — Олоф вже має бути на ринку."
+"Story/Utopia/Voiceline/Captives_3";"Text";"";"He exploited us at every turn. Now all of us ‘dissenters’ are locked up.";"Він нас використовував на кожному кроці. Тепер усі ми “інакодумці” та замкнені."
+"Story/Utopia/Voiceline/Captives_4";"Text";"";"Which is everyone, by my count. To anyone reading this, Olof should be up in the marketplace.";"А за моїми підрахунками “інакодумцями” вивилися буквально всі. Хто це читає, знайте — Олоф вже має бути на ринку."
 "Story/Utopia/Voiceline/Captives_5";"Text";"";"BEWARE of his rabid beasts! Please, take the master key from him.";"ОСТЕРІГАЙТЕСЯ його скажених звірів! Будь ласка, заберіть у нього головний ключ."
 "Story/Utopia/Voiceline/Captives_6";"Text";"";"Set us free! Set Utopia FREE!";"Звільніть нас! Звільніть УТОПІЮ!"
 "Story/Utopia/Voiceline/CitraDialogue1";"Text";"";"The turbines are still working, wonderful.";"Турбіни досі працюють, чудово."
@@ -1831,7 +1831,7 @@ From today on, we are all Forward Scouts, ready to discover the next step for hu
 "Story/Utopia/Voiceline/DettoRaft_2";"Text";"";"I have my own raft! And it’s hooked up to actual wind turbines! ";"В мене тепер є свій пліт! І він підключений до справжніх вітрогенераторів! "
 "Story/Utopia/Voiceline/DettoRaft_3";"Text";"";"If I had even more power, just imagine all the experiments I could run… ";"Якби в мене було ще більше енергії, лиш уявіть, які експерименти я міг би проводити… "
 "Story/Utopia/Voiceline/DettoRaft_4";"Text";"";"But now that lunatic Olof appeared. ";"Але намалювався той лунатик Олоф. "
-"Story/Utopia/Voiceline/DettoRaft_5";"Text";"";"His cages are already unloaded and now he’s promising to help everyone with his ‘army’. ";"Його клітки вже розвантажені, і тепер він обіцяє допомогти всім бажаючим зі своєю «армією». "
+"Story/Utopia/Voiceline/DettoRaft_5";"Text";"";"His cages are already unloaded and now he’s promising to help everyone with his ‘army’. ";"Його клітки вже розвантажені, і тепер він обіцяє допомогти всім бажаючим зі своєю “армією”. "
 "Story/Utopia/Voiceline/DettoRaft_6";"Text";"";"Last I saw him, Olof Wilkstrom ruined Caravan Town.";"Востаннє, коли я його бачив, Олоф Вілкштром зруйнував містечко Караван."
 "Story/Utopia/Voiceline/DettoRaft_7";"Text";"";"I will NEVER forgive him! I hope Hanne and Ruben listen to me. He is not to be trusted!";"Я НІКОЛИ йому не пробачу! Сподіваюсь, що Ханне та Рубен мене вислухають. Йому не можна довіряти!"
 "Story/Utopia/Voiceline/DettoRaft_8";"Text";"";"Just in case I’ve decided to up the security on my raft. ";"Про всяк випадок вирішив посилити безпеку на своєму плоту."
@@ -1846,8 +1846,8 @@ From today on, we are all Forward Scouts, ready to discover the next step for hu
 "Story/Utopia/Voiceline/HanneDialogue10_2";"Text";"";"It gives me hope for Utopia. For humanity, honestly.";"Це дає мені віру в Утопію. Відверто кажучи, навіть в людство."
 "Story/Utopia/Voiceline/HanneDialogue11_1";"Text";"";"I heard about the Selene facility. ";"Я чула про комплекс «Селена». "
 "Story/Utopia/Voiceline/HanneDialogue11_2";"Text";"";"As soon as we’ve stabilized the situation here, we’ll look to finish their ambitions.";"Як тільки ми стабілізуємо ситуацію тут, ми подивимося, як покінчити з їхніми амбіціями."
-"Story/Utopia/Voiceline/HanneDialogue12_1";"Text";"";"Sparrow revealed everything we needed to know. ";"Синиця розповіла все, що нам потрібно було знати. "
-"Story/Utopia/Voiceline/HanneDialogue12_2";"Text";"";"She went off soon after looking for someone called ‘Cuckoo’. We wish her the best.";"Вона пішла незабаром після того, як шукала когось на ім'я Чиж. Ми бажаємо їй всього найкращого. "
+"Story/Utopia/Voiceline/HanneDialogue12_1";"Text";"";"Sparrow revealed everything we needed to know. ";"Горобець розповів все, що нам потрібно було знати. "
+"Story/Utopia/Voiceline/HanneDialogue12_2";"Text";"";"She went off soon after looking for someone called ‘Cuckoo’. We wish her the best.";"Вона пішла незабаром після того, як шукала когось на ім'я Зозуля. Ми бажаємо їй всього найкращого. "
 "Story/Utopia/Voiceline/HanneDialogue13";"Text";"";"Hope. Is that what I’m feeling?";"Те, що я відчуваю, це... надія?"
 "Story/Utopia/Voiceline/HanneDialogue14";"Text";"";"I’ve waited so long for that moment when we can stop surviving, and start to live.";"Я так довго чекала цього моменту, коли ми перестанемо виживати та почнемо жити."
 "Story/Utopia/Voiceline/HanneDialogue15";"Text";"";"Thank you. Thank you so much.";"Дякую. Дуже тобі дякую."
@@ -2134,8 +2134,8 @@ But it’s just one shark. How hard could it be?
 "Story/Varuna/Voiceline/Grabber2_2";"Text";"";"I moved my cache. It’s higher up now, on the new floor. Right under their noses.";"Я перемістив свій схрон. Тепер він вище, на новому поверсі. Прямо у них під носом."
 "Story/Varuna/Voiceline/Grabber2_3";"Text";"";"The foreman complained about the lack of cameras. Ha! Like that’d matter.";"Бригадир скаржився на брак камер. Ха! Ніби це має значення."
 "Story/Varuna/Voiceline/Grabber2_4";"Text";"";"I wouldn’t get caught even if the walls had eyes. I’m starting to get good at this.";"Мене б не піймали, навіть якби стіни мали очі. У мене починає непогано виходити."
-"Story/Varuna/Voiceline/Grabber3_1";"Text";"";"We don’t work on new floors anymore. Everyone is scared of ""the Grabber"".";"Ми більше не працюємо на нових поверхах. Всі бояться «Крадія»."
-"Story/Varuna/Voiceline/Grabber3_2";"Text";"";"There’s talk about leaving before ''the water gets even higher''. ";"Йдуть розмови про те, щоб піти поки «вода не піднялася ще вище». "
+"Story/Varuna/Voiceline/Grabber3_1";"Text";"";"We don’t work on new floors anymore. Everyone is scared of ""the Grabber"".";"Ми більше не працюємо на нових поверхах. Всі бояться “Крадія”."
+"Story/Varuna/Voiceline/Grabber3_2";"Text";"";"There’s talk about leaving before ''the water gets even higher''. ";"Йдуть розмови про те, щоб піти поки “вода не піднялася ще вище”. "
 "Story/Varuna/Voiceline/Grabber3_3";"Text";"";"Leaving for that other construction project, the one taken over by rafters.";"Піти на інше будівництво, на те, що будують плотарі."
 "Story/Varuna/Voiceline/Grabber3_4";"Text";"";"They call it Utopia. Ha! The only utopia I need is right here! I’ve started to secure the tower.";"Вони називають його Утопія. Ха! Єдина утопія, яка мені треба, прямо тут! Я почав зміцювати вежу."
 "Story/Varuna/Voiceline/Grabber3_5";"Text";"";"As long as I live no one will claim my treasure. No one will reach my nest!";"Поки я живий, ніхто не зазіхне на мій скарб. Ніхто не дістанеться мого гнізда!"
@@ -2146,10 +2146,10 @@ But it’s just one shark. How hard could it be?
 "Story/Varuna/Voiceline/Grabber4_5";"Text";"";"In the morning they were so freaked out they sailed away immediately. Hilarious!";"Вранці вони були так налякані, що одразу ж попливли геть. Кумедно!"
 "Story/Varuna/Voiceline/Grabber5_1";"Text";"";"A man talking to dolls arrived yesterday. I found his loud discussions entertaining. ";"Вчора прибув чоловік, котрий говорив з ляльками. Його гучні розмови мене трохи потішили. "
 "Story/Varuna/Voiceline/Grabber5_2";"Text";"";"Maybe I miss company a bit too. The man climbed high up into the crane with a satellite dish.";"Можливо, я теж трохи скучив за компанією. Чоловік виліз на кран із супутниковою антеною."
-"Story/Varuna/Voiceline/Grabber5_3";"Text";"";"He called out on his little radio for ‘Astrid’. It looked… unsuccessful.";"Він покликав у своє маленьке радіо «Астрід». Здається… у нього не вийшло."
-"Story/Varuna/Voiceline/Grabber5_4";"Text";"";"I might have… stolen one of his dolls. ‘Miranda’ is her name.";"Я, схоже, поцупив одну з його ляльок. Її звуть «Міранда»."
+"Story/Varuna/Voiceline/Grabber5_3";"Text";"";"He called out on his little radio for ‘Astrid’. It looked… unsuccessful.";"Він покликав у своє маленьке радіо “Астрід”. Здається… у нього не вийшло."
+"Story/Varuna/Voiceline/Grabber5_4";"Text";"";"I might have… stolen one of his dolls. ‘Miranda’ is her name.";"Я, схоже, поцупив одну з його ляльок. Її звуть “Міранда”."
 "Story/Varuna/Voiceline/Grabber5_5";"Text";"";" The man left an hour ago, after freaking out all day over it! Ha! So many strange people these days.";" Він поплив годину тому, після того, як цілий день божеволів через неї! Ха! Так багато дивних людей у наші дні."
-"Story/Varuna/Voiceline/Grabber6_1";"Text";"";"I would be bored these days, if the ‘motherlode’ wasn’t on the forefront of my mind.";"Мені зараз було б нудно, якби я не думав так про «жилу»."
+"Story/Varuna/Voiceline/Grabber6_1";"Text";"";"I would be bored these days, if the ‘motherlode’ wasn’t on the forefront of my mind.";"Мені зараз було б нудно, якби я не думав так про “жилу”."
 "Story/Varuna/Voiceline/Grabber6_2";"Text";"";"The water stole it from me. I should’ve acted sooner. ";"Вода вкрала її у мене. Я повинен був діяти раніше. "
 "Story/Varuna/Voiceline/Grabber6_3";"Text";"";"Now there’s trouble in the way. It’s risky to deal with, but it might be worth it. The thought gnaws at me.";"А тепер на моєму шляху неприємності. Це ризиковано, але, мабуть, воно того варте. Ця думка не дає мені спокою."
 "Story/Varuna/Voiceline/Grabber6_4";"Text";"";"But it’s just one shark. How hard could it be?";"Але ж це лише одна акула. Це ж не так складно, чи не так?"
@@ -2201,7 +2201,7 @@ They should be grateful. I am the only reason they are alive.
 "Story/Vasagatan/OlofsLog2";"Text";"";"As I’ve suspected the crew is completely incompetent. Now they’re claiming RATS have eaten half of our supplies in a matter of weeks. I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive.
 
 Of course, the food shortage will need to be handled. Tonight we’re discussing which staff members are most suitable for termination.
-~Olof Wilkstrom";"Як я і підозрював, екіпаж виявився абсолютно некомпетентним. Тепер вони стверджують, що ЩУРИ з'їли половину нашої їжі за кілька тижнів. Я пообіцяв їм збільшити пайки, якщо вони зможуть принести мені хоч одного з цих “чатівників” живим.
+~Olof Wilkstrom";"Як я і підозрював, екіпаж виявився абсолютно некомпетентним. Тепер вони стверджують, що ЩУРИ з'їли половину нашої їжі за кілька тижнів. Я пообіцяв їм збільшити пайки, якщо вони зможуть принести мені хоч одного з цих шкідників живим.
 
 Звісно, проблему нестачі їжі треба якось вирішити. Сьогодні ввечері ми будемо обговорювати, яких співробітників краще звільнити.
 ~Олоф Вілкштром"
@@ -2210,7 +2210,7 @@ Of course, the food shortage will need to be handled. Tonight we’re discussing
 I’ve already made progress on their training. With food and pain as incentives I can discipline them. And by sharing their blood the mutations increase. I wonder if another species would react the same? I’ve received a transmission from a place called Caravan Town not far from here.
 
 They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.
-~Olof Wilkstrom";"А ці “чатівники” мають потенціал. Вочевидь вони колись були щурами, а тепер стали чимось набагато лютішим. А також розумнішими.
+~Olof Wilkstrom";"А ці шкідники мають потенціал. Вочевидь вони колись були щурами, а тепер стали чимось набагато лютішим. А також розумнішими.
 
 Я вже навчився дресувати їх використовуючи їжу та удари. При змішанні крові їх мутації збільшуються. Цікаво чи була б така сама реакція в інших видів? Я отримав повідомлення з містечка Караван, що неподалік звідси.
 
@@ -2235,7 +2235,7 @@ They have an active animal population. No longer do I need this make-shift crew.
 (Капітан) - *Стукіт* “Вілкштроме, це терміново. З'явився туман. Ми не знаємо, наскільки піднялася вода. Карти марні. Нам треба...”
 (Олоф) - “Екіпаж планує бунт, капітане. Час діяти.”
 (Капітан) - “Бунт? Вони просто намагаються вижити, я... Ви збожеволіли?”
-(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо ""чатівників"" на свою користь.”"
+(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо шкідників на свою користь.”"
 "Story/Vasagatan/Recording3";"Text";"";"(Transcribed)
 [The ship’s hull grinding against solid rock.]
 (Captain) - “Get to the lifeboats! Hurry!”
@@ -2261,7 +2261,7 @@ They have an active animal population. No longer do I need this make-shift crew.
 "Story/Vasagatan/Voiceline/HannesLetter3_1";"Text";"";"I saw a large rat last night… Unnervingly large. ";"Минулої ночі я бачила великого щура... Жахливо великого. "
 "Story/Vasagatan/Voiceline/HannesLetter3_2";"Text";"";"I tried telling the crew we obviously have an infestation among the locked down supplies.";"Я намагалася сказати екіпажу, що серед наших припасів, вочевидь, завелися шкідники."
 "Story/Vasagatan/Voiceline/HannesLetter3_3";"Text";"";"They laughed at me. I miss you, Ruben.";"А вони лиш посміялися з мене. Сумую за тобою, Рубене."
-"Story/Vasagatan/Voiceline/MagazineClipping1_1";"Text";"";"calling the cost of the project’s realization “borderline criminal” and its scope “outrageous, at least”";"називаючи вартість реалізації проєкту «майже злочинною», а його масштаби — «щонайменше неймовірними»"
+"Story/Vasagatan/Voiceline/MagazineClipping1_1";"Text";"";"calling the cost of the project’s realization “borderline criminal” and its scope “outrageous, at least”";"називаючи вартість реалізації проєкту “майже злочинною”, а його масштаби — “щонайменше неймовірними”."
 "Story/Vasagatan/Voiceline/MagazineClipping1_2";"Text";"";"Despite vocal opposition, the Floating Cities Project does not appear to be slowing down anytime soon. ";"Попри активну опозицію, проєкт плавучих міст, схоже, не збирається зупинятися. "
 "Story/Vasagatan/Voiceline/MagazineClipping1_3";"Text";"";"According to former General Olof Wilkstrom’s latest statement on the issue:";"Про це свідчить остання заява колишнього генерала Олофа Вілкштрома з цього приводу:"
 "Story/Vasagatan/Voiceline/MagazineClipping1_4";"Text";"";"“We are fully aware of the strain this puts on our people. ";"«Ми повністю усвідомлюємо, які труднощі це несе для людей. "
@@ -2281,34 +2281,34 @@ They have an active animal population. No longer do I need this make-shift crew.
 "Story/Vasagatan/Voiceline/OlofsLog2_3";"Text";"";"I promised them increased rations if they could bring me one of these ridiculous ‘lurkers’ alive.";"Я пообіцяв їм збільшити пайки, якщо вони зможуть принести мені хоч одного з цих шкідників живим."
 "Story/Vasagatan/Voiceline/OlofsLog2_4";"Text";"";"Of course, the food shortage will need to be handled. ";"Звісно, проблему нестачі їжі треба якось вирішити. "
 "Story/Vasagatan/Voiceline/OlofsLog2_5";"Text";"";"Tonight we’re discussing which staff members are most suitable for termination.";"Сьогодні ввечері ми будемо обговорювати, яких співробітників краще звільнити."
-"Story/Vasagatan/Voiceline/OlofsLog3_1";"Text";"";"These ‘lurkers’ have potential.";"А ці «чатівники» мають потенціал."
+"Story/Vasagatan/Voiceline/OlofsLog3_1";"Text";"";"These ‘lurkers’ have potential.";"А ці шкідники мають потенціал."
 "Story/Vasagatan/Voiceline/OlofsLog3_2";"Text";"";"They were clearly once rats, now grown into something much more rabid. Yet also smarter.";"Вочевидь вони колись були щурами, а тепер стали чимось набагато лютішим. А також розумнішими."
 "Story/Vasagatan/Voiceline/OlofsLog3_3";"Text";"";"I’ve already made progress on their training. With food and pain as incentives I can discipline them. ";"Я вже навчився дресувати їх використовуючи їжу та удари. "
 "Story/Vasagatan/Voiceline/OlofsLog3_4";"Text";"";"And by sharing their blood the mutations increase. I wonder if another species would react the same?";"При змішанні крові їх мутації збільшуються. Цікаво чи була б така сама реакція в інших видів?"
 "Story/Vasagatan/Voiceline/OlofsLog3_5";"Text";"";"I’ve received a transmission from a place called Caravan Town not far from here.";"Я отримав повідомлення з містечка Караван, що неподалік звідси."
 "Story/Vasagatan/Voiceline/OlofsLog3_6";"Text";"";"They have an active animal population. No longer do I need this make-shift crew. I will create true soldiers. Loyal soldiers.";"Вони мають велику популяцію тварин. Мені більше не потрібна ця непостійна команда. Я створю справжніх солдатів. Вірних солдатів."
-"Story/Vasagatan/Voiceline/Recording1_1";"Text";"";"(Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”";"(Ханне) - «Але що це значить? Ти не можеш просто так їх звільнити. Ми ж у відкритому морі!»"
-"Story/Vasagatan/Voiceline/Recording1_2";"Text";"";"(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” ";"(Олоф) - «Ханне, тебе привезли, щоб ти підтримувала роботу двигунів. Це те, що ти...»"
+"Story/Vasagatan/Voiceline/Recording1_1";"Text";"";"(Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”";"(Ханне) - “Але що це значить? Ти не можеш просто так їх звільнити. Ми ж у відкритому морі!”"
+"Story/Vasagatan/Voiceline/Recording1_2";"Text";"";"(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” ";"(Олоф) - “Ханне, тебе привезли, щоб ти підтримувала роботу двигунів. Це те, що ти...” "
 "Story/Vasagatan/Voiceline/Recording1_3";"Text";"";"(Lurker) - *Rabid noises.*";"(Чатівник) - *Скажені звуки*"
-"Story/Vasagatan/Voiceline/Recording1_4";"Text";"";"(Hanne) - “That’s one of those damn rats! What… what are you doing to it?”";"(Ханне) - «Це один з тих клятих щурів! Що ти з ним робиш?»"
-"Story/Vasagatan/Voiceline/Recording1_5";"Text";"";"(Olof) - “Get out. Do your job.”";"(Олоф) - «Забирайся геть. Роби свою роботу.»"
-"Story/Vasagatan/Voiceline/Recording2_1";"Text";"";"(Captain) - *Knocking* “Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-”";"(Капітан) - *Стукіт* «Вілкштроме, це терміново. З'явився туман. Ми не знаємо, наскільки піднялася вода. Карти марні. Нам треба...»"
-"Story/Vasagatan/Voiceline/Recording2_2";"Text";"";"(Olof) - “The crew are planning a mutiny, Captain. It is time to act.”";"(Олоф) - «Екіпаж планує бунт, капітане. Час діяти.»"
-"Story/Vasagatan/Voiceline/Recording2_3";"Text";"";"(Captain) - “A mutiny? They’re just trying to stay alive, I- Are you mad?”";"(Капітан) - «Бунт? Вони просто намагаються вижити, я... Ви збожеволіли?»"
-"Story/Vasagatan/Voiceline/Recording2_4";"Text";"";"(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”";"(Олоф) - «Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо “чатівників” на свою користь.»"
+"Story/Vasagatan/Voiceline/Recording1_4";"Text";"";"(Hanne) - “That’s one of those damn rats! What… what are you doing to it?”";"(Ханне) - “Це один з тих клятих щурів! Що ти з ним робиш?”"
+"Story/Vasagatan/Voiceline/Recording1_5";"Text";"";"(Olof) - “Get out. Do your job.”";"(Олоф) - “Забирайся геть. Роби свою роботу.”"
+"Story/Vasagatan/Voiceline/Recording2_1";"Text";"";"(Captain) - *Knocking* “Wilkstrom, it’s urgent. There’s mist now. We don’t know how far the water’s risen. The maps are useless. We need to-”";"(Капітан) - *Стукіт* “Вілкштроме, це терміново. З'явився туман. Ми не знаємо, наскільки піднялася вода. Карти марні. Нам треба...”"
+"Story/Vasagatan/Voiceline/Recording2_2";"Text";"";"(Olof) - “The crew are planning a mutiny, Captain. It is time to act.”";"(Олоф) - “Екіпаж планує бунт, капітане. Час діяти.”"
+"Story/Vasagatan/Voiceline/Recording2_3";"Text";"";"(Captain) - “A mutiny? They’re just trying to stay alive, I- Are you mad?”";"(Капітан) - “Бунт? Вони просто намагаються вижити, я... Ви збожеволіли?”"
+"Story/Vasagatan/Voiceline/Recording2_4";"Text";"";"(Olof) - “I gave you a chance to live. Now we have to protect ourselves from the masses. We will use the ‘lurkers’ to our advantage.”";"(Олоф) - “Я дав вам шанс вижити. Тепер ми повинні захистити себе від мас. Ми використаємо шкідників на свою користь.”"
 "Story/Vasagatan/Voiceline/Recording3_1";"Text";"";"[The ship’s hull grinding against solid rock.]";"*Корпус корабля скрегоче об тверду породу*"
-"Story/Vasagatan/Voiceline/Recording3_2";"Text";"";"(Captain) - “Get to the lifeboats! Hurry!”";"(Капітан) - «До рятувальних шлюпок! Швидко!»"
-"Story/Vasagatan/Voiceline/Recording3_3";"Text";"";"(Hanne) - “Olof! You coward!”";"(Ханне) - «Олофе! Ти боягуз!»"
+"Story/Vasagatan/Voiceline/Recording3_2";"Text";"";"(Captain) - “Get to the lifeboats! Hurry!”";"(Капітан) - “До рятувальних шлюпок! Швидко!”"
+"Story/Vasagatan/Voiceline/Recording3_3";"Text";"";"(Hanne) - “Olof! You coward!”";"(Ханне) - “Олофе! Ти боягуз!”"
 "Story/Vasagatan/Voiceline/Recording3_4";"Text";"";"(Lurker) - *Aggressive snarl.*";"(Чатівник) - *Агресивне гарчання*"
-"Story/Vasagatan/Voiceline/Recording3_5";"Text";"";"(Captain) - “Watch out!”";"(Капітан) - «Стережись!»"
+"Story/Vasagatan/Voiceline/Recording3_5";"Text";"";"(Captain) - “Watch out!”";"(Капітан) - “Стережись!”"
 "Story/Vasagatan/Voiceline/Recording3_6";"Text";"";"[Distorted screams are heard before the tape cuts off.]";"*Чути спотворені крики* | Запис обірвався"
 "Story/X/Voiceline/BikerDialog1";"Text";"";"Buddy! Yeah, could you be an angel and help me out a bit? I’d owe you big time!";"Друже! Так, ти, можеш мені трохи допомогти? Я буду тобі вельми вдячний!"
 "Story/X/Voiceline/BikerDialog2";"Text";"";"Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!";"Йой! Та я б без тебе загинув. Порада на майбутнє: ведмеді НЕ пестливі!"
-"Story/X/Voiceline/BikerDialog3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"А ти випадково не плотар, га? Якщо тобі потрібні будуть м’язи на боту — можеш далі не шукати!"
+"Story/X/Voiceline/BikerDialog3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Скажи, ти ж не будеш плотарем, га? Якщо тобі потрібні будуть м’язи на боту, не шукай далі!"
 "Story/X/Voiceline/BikerDialog4";"Text";"";"Alright, yeah! Leave the heavy lifting to me!";"Добре, зрозумів! Залиш важку працю для мене!"
 "Story/X/Voiceline/BikerDialogue1";"Text";"";"Buddy! Yeah, could you be an angel and help me out a bit? I’d owe you big time!";"Друже! Так, ти, можеш мені трохи допомогти? Я буду тобі вельми вдячний!"
-"Story/X/Voiceline/BikerDialogue2";"Text";"";"Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!";"Йой! Та я б без тебе загинув. Порада на майбутнє: ведмеді НЕ пестливі!"
-"Story/X/Voiceline/BikerDialogue3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Слухайте, а ви часом не плотар, га? Якщо потрібні будуть м’язи на борту — можете далі не шукати!"
+"Story/X/Voiceline/BikerDialogue2";"Text";"";"Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!";"Друже! Так, ти, можеш мені трохи допомогти? Я буду тобі вельми вдячний!"
+"Story/X/Voiceline/BikerDialogue3";"Text";"";"Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!";"Скажи, ти ж не будеш плотарем, га? Якщо тобі потрібні будуть м’язи на боту, не шукай далі!"
 "Story/X/Voiceline/BikerDialogue4";"Text";"";"Alright, yeah! Leave the heavy lifting to me!";"Добре, зрозумів! Залиште важку працю мені!"
 "Story/X/Voiceline/BikerDialogue5";"Text";"";"Ain’t nothing like the fresh breeze. Reminds me of the road trips me and the boys used to go on.";"Ніщо не зрівняється зі свіжим вітерцем. Він нагадує мені про подорожі, у які ми з хлопцями колись їздили."
 "Story/X/Voiceline/ExecutiveDialog1";"Text";"";"You there. Get me out of this thing.";"Гей, ти. Витягни мене з цієї штуки."
