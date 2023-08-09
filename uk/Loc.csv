@@ -272,7 +272,7 @@
 "Controls/Hotbar";"Text";"";"Hotbar";"Панель швидкого доступу";"";"";"";"";"";"";"";"";"";"";""
 "Controls/Interact";"Text";"";"Interact";"Взаємодія";"";"";"";"";"";"";"";"";"";"";""
 "Controls/Inventory";"Text";"";"Inventory";"Інвентар";"";"";"";"";"";"";"";"";"";"";""
-"Controls/InvertMouseY";"Text";"";"Invert mouse up/down";"Інвертувати оберт вгору/вниз";"";"";"";"";"";"";"";"";"";"";""
+"Controls/InvertMouseY";"Text";"";"Invert mouse up/down";"Інвертувати оберт угору/униз";"";"";"";"";"";"";"";"";"";"";""
 "Controls/Jump";"Text";"";"Jump";"Стрибок";"";"";"";"";"";"";"";"";"";"";""
 "Controls/Key";"Text";"";"Key";"Клавіша";"";"";"";"";"";"";"";"";"";"";""
 "Controls/Keybinds";"Text";"";"Keybinds";"Призначення клавіш";"";"";"";"";"";"";"";"";"";"";""
@@ -286,7 +286,7 @@
 "Controls/StopNotebookVoice";"Text";"";"Stop playing note";"Зупинити відтворення записки";"";"";"";"";"";"";"";"";"";"";""
 "Controls/StrafeLeft";"Text";"";"Strafe left";"Йти ліворуч";"";"";"";"";"";"";"";"";"";"";""
 "Controls/StrafeRight";"Text";"";"Strafe right";"Йти праворуч";"";"";"";"";"";"";"";"";"";"";""
-"Controls/SwimDown";"Text";"";"Swim down";"Плисти вниз";"";"";"";"";"";"";"";"";"";"";""
+"Controls/SwimDown";"Text";"";"Swim down";"Плисти униз";"";"";"";"";"";"";"";"";"";"";""
 "Controls/ToggleNoClip";"Text";"";"Toggle noclip";"Перемкнути політ";"";"";"";"";"";"";"";"";"";"";""
 "Controls/ToggleNotebook";"Text";"";"Hide/Show notebook";"Сховати/показати щоденник";"";"";"";"";"";"";"";"";"";"";""
 "Controls/TogglePaintSide";"Text";"";"Toggle single sided painting";"Перемкнути одностороннє фарбування";"";"";"";"";"";"";"";"";"";"";""
@@ -524,7 +524,7 @@ Evacuate personnel from the crane area";"Помилка
 "General/ShowPlayerNames";"Text";"";"Enable nametag";"Увімкнути тег імені";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/AmbientOcclusion";"Text";"";"Ambient Occlusion";"Оклюзія середовища";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/Antialiasing";"Text";"";"Antialiasing";"Згладжування";"";"";"";"";"";"";"";"";"";"";""
-"Graphics/FOV";"Text";"";"FOV";"Поле зору";"";"";"";"";"";"";"";"";"";"";""
+"Graphics/FOV";"Text";"";"FOV";"Кут огляду";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/FPSCap";"Text";"";"Framerate limit";"Ліміт частоти кадрів";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/FPSCap120";"Text";"";"FPS 120";"120 FPS";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/FPSCap144";"Text";"";"FPS 144";"144 FPS";"";"";"";"";"";"";"";"";"";"";""
@@ -532,7 +532,7 @@ Evacuate personnel from the crane area";"Помилка
 "Graphics/FPSCap60";"Text";"";"FPS 60";"60 FPS";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/FPSCap90";"Text";"";"FPS 90";"90 FPS";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/FPSCapNoLimit";"Text";"";"No limit";"Без обмежень";"";"";"";"";"";"";"";"";"";"";""
-"Graphics/FullscreenMode/Borderless";"Text";"";"Borderless";"Без рамок";"";"";"";"";"";"";"";"";"";"";""
+"Graphics/FullscreenMode/Borderless";"Text";"";"Borderless";"Безрамковий";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/FullscreenMode/Exclusive";"Text";"";"Exclusive";"Ексклюзивний";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/FullscreenMode/Windowed";"Text";"";"Windowed";"У вікні";"";"";"";"";"";"";"";"";"";"";""
 "Graphics/FullscreenModeTitle";"Text";"";"Fullscreen mode";"Повноекранний режим";"";"";"";"";"";"";"";"";"";"";""
@@ -877,7 +877,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Watermelon";"Text";"";"Watermelon@Quenches thirst and soothes hunger.";"Кавун@Втамовує спрагу та вгамовує голод.";"";"";"";"";"";"";"";"";"";"";""
 "Item/Wool";"Text";"";"Wool@Wow... it's sooo soft.";"Вовна@Ого… вона така м'яка.";"";"";"";"";"";"";"";"";"";"";""
 "Item/ZiplineTool";"Text";"";"Zipline tool@Equipping it allows you to ride on ziplines.";"Знаряддя для зіплайнів@Спорядивши його ви зможете кататися на зіплайнах.";"";"";"";"";"";"";"";"";"";"";""
-"Item/ZiplineToolElectric";"Text";"";"Electric zipline tool@Equipping it allows you to ride up or down on ziplines.";"Електрознаряддя для зіплайнів@Спорядивши його ви зможете кататися угору чи вниз на зіплайнах.";"";"";"";"";"";"";"";"";"";"";""
+"Item/ZiplineToolElectric";"Text";"";"Electric zipline tool@Equipping it allows you to ride up or down on ziplines.";"Електрознаряддя для зіплайнів@Спорядивши його ви зможете кататися угору чи униз на зіплайнах.";"";"";"";"";"";"";"";"";"";"";""
 "LoadMenu/Load";"Text";"";"Loading...";"Завантаження…";"";"";"";"";"";"";"";"";"";"";""
 "LoadMenu/LoadingAssets";"Text";"";"Loading assets";"Завантаження ресурсів";"";"";"";"";"";"";"";"";"";"";""
 "LoadMenu/LoadingMenu";"Text";"";"Leaving world";"Покидання світу";"";"";"";"";"";"";"";"";"";"";""
@@ -1230,7 +1230,7 @@ Detto put together a diving suit using a bike and an old diving helmet. Detto pu
 
 If I’m thrown in jail, this is proof I am innocent!";"Мене звати Санджай. Здається, я в біді.
 
-Детто зібрав водолазний костюм з велосипеда та старого водолазного шолома. Він поклав у нього гирі, аби спуститися вниз, але поклав забагато. І якщо я піду звідси, то ніхто не зможе качати повітря до Детто за допомогою велосипеда! 
+Детто зібрав водолазний костюм з велосипеда та старого водолазного шолома. Він поклав у нього гирі, аби спуститися униз, але поклав забагато. І якщо я піду звідси, то ніхто не зможе качати повітря до Детто за допомогою велосипеда! 
 
 Якщо мене запроторять за ґрати, це буде доказом того, що я не винний!";"";"";"";"";"";"";"";"";"";"";""
 "Story/CaravanIsland/UpdateRequired1";"Text";"";"Caravan Town and more is coming in 'The Second Chapter'";"Містечко Караван та багато іншого. Вже незабаром у ""другому розділі"".";"";"";"";"";"";"";"";"";"";"";""
@@ -1296,7 +1296,7 @@ If I’m thrown in jail, this is proof I am innocent!";"Мене звати Са
 "Story/CaravanIsland/Voiceline/RaftTownArticle2_3";"Text";"";"Recent rumors surrounding the construction of sanctuary towers in the southern hemisphere has only increased tensions. We sought a comment from the";"Нещодавні чутки про будівництво веж-притулків у південній півкулі лише посилили напруженість. Ми звернулися за коментарем до";"";"";"";"";"";"";"";"";"";"";""
 "Story/CaravanIsland/Voiceline/SanjayMessage_1";"Text";"";"My name is Sanjay. I think I’m in trouble.";"Мене звати Санджай. Здається, я в біді.";"";"";"";"";"";"";"";"";"";"";""
 "Story/CaravanIsland/Voiceline/SanjayMessage_2";"Text";"";"Detto put together a diving suit using a bike and an old diving helmet.";"Детто зібрав водолазний костюм з велосипеда та старого водолазного шолома.";"";"";"";"";"";"";"";"";"";"";""
-"Story/CaravanIsland/Voiceline/SanjayMessage_3";"Text";"";" Detto put weights in it to go down, but he put in too much.";" Він поклав у нього гирі, аби спуститися вниз, але поклав забагато.";"";"";"";"";"";"";"";"";"";"";""
+"Story/CaravanIsland/Voiceline/SanjayMessage_3";"Text";"";" Detto put weights in it to go down, but he put in too much.";" Він поклав у нього гирі, аби спуститися униз, але поклав забагато.";"";"";"";"";"";"";"";"";"";"";""
 "Story/CaravanIsland/Voiceline/SanjayMessage_4";"Text";"";"Now if I leave then no one will pump air to Detto using the bike! ";"І якщо я піду звідси, то ніхто не зможе качати повітря до Детто за допомогою велосипеда! ";"";"";"";"";"";"";"";"";"";"";""
 "Story/CaravanIsland/Voiceline/SanjayMessage_5";"Text";"";"If I’m thrown in jail, this is proof I am innocent!";"Якщо мене запроторять за ґрати, це буде доказом того, що я не винний!";"";"";"";"";"";"";"";"";"";"";""
 "Story/FirstPage";"Text";"";"First page";"Перша сторінка";"";"";"";"";"";"";"";"";"";"";""
