@@ -1005,7 +1005,7 @@ Refresh or restart Raft and try again.";"Немає підключення з St
 "QuestItem/Temperance_ControlRod";"Text";"";"Control rod";"Керувальний стрижень";"";"";"";"";"";"";"";"";"";"";""
 "QuestItem/Temperance_ElectricalCable";"Text";"";"Electrical cable";"Електричний провід";"";"";"";"";"";"";"";"";"";"";""
 "QuestItem/Temperance_ReactorKey";"Text";"";"Reactor key";"Ключ від реактора";"";"";"";"";"";"";"";"";"";"";""
-"QuestItem/Temperance_SeleneGateKey";"Text";"";"Selene key";"Ключ від «Селени»";"";"";"";"";"";"";"";"";"";"";""
+"QuestItem/Temperance_SeleneGateKey";"Text";"";"Selene key";"Ключ від «Селін»";"";"";"";"";"";"";"";"";"";"";""
 "QuestItem/Utopia_Cable";"Text";"";"Electrical cable";"Електричний провід";"";"";"";"";"";"";"";"";"";"";""
 "QuestItem/Utopia_CarbonDioxideCanister";"Text";"";"Carbon dioxide canister";"Балон з вуглекислим газом";"";"";"";"";"";"";"";"";"";"";""
 "QuestItem/Utopia_DettoCode";"Text";"";"Part of Detto's code";"Частина коду Детто";"";"";"";"";"";"";"";"";"";"";""
