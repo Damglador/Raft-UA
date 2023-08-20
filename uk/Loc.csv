@@ -865,7 +865,7 @@ Evacuate personnel from the crane area";"Помилка
 "Item/TitaniumIngot";"Text";"";"Titanium ingot@It's sooo heavy.";"Титановий злиток@Він таакий важкий.";"";"";"";"";"";"";"";"";"";"";""
 "Item/TitaniumOre";"Text";"";"Titanium ore@Can be smelted into titanium ingot.";"Титанова руда@Може бути переплавлена у титановий злиток.";"";"";"";"";"";"";"";"";"";"";""
 "Item/TitaniumTools";"Text";"";"Titanium tools@";"Титанові інструменти@";"";"";"";"";"";"";"";"";"";"";""
-"Item/TradeToken";"Text";"";"Trade coin@Used as currency at the trading post.";"Торговельна монета@Використовується як валюта у торговельному пункті.";"";"";"";"";"";"";"";"";"";"";""
+"Item/TradeToken";"Text";"";"Trade coin@Used as currency at the trading post.";"Монета@Використовується як валюта у торговельному пункті.";"";"";"";"";"";"";"";"";"";"";""
 "Item/TrapSnapper";"Text";"";"Trap Snapper@Tier 2. A toe might go missing if you're not careful.";"Кусючий окунь@Рівень 2. Якщо ви не будете обережними, то можете втратити палець на нозі.";"";"";"";"";"";"";"";"";"";"";""
 "Item/TrashCube";"Text";"";"Trash cube@Used as currency at the trading post.";"Куб сміття@Використовується як валюта у торговельному пункті.";"";"";"";"";"";"";"";"";"";"";""
 "Item/TrophyBoard_Large";"Text";"";"Large trophy board@You can place your catch on this!";"Велика трофейна дошка@Ви можете покласти на неї свій улов!";"";"";"";"";"";"";"";"";"";"";""
