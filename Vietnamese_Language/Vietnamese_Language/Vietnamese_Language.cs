@@ -77,11 +77,11 @@ namespace VietnameseLanguage
             else
                 Debug.LogError(logPrefix + $"Failed to load {font.name}");
         }
+        //======================================= Font loader ==================================================
         public void StartUpdateAfterDelayRoutine()
         {
             StartCoroutine(UpdateAfterDelayRoutine());
         }
-        //======================================= Font loader ==================================================
         public IEnumerator UpdateAfterDelayRoutine()
         {
             yield return new WaitForSeconds(0.1f);
@@ -99,6 +99,8 @@ namespace VietnameseLanguage
         public static bool UpdateFont(Text __instance)
         {
             if (__instance.font.name != "ChineseRocks")
+                return false;
+            else if (__instance.name == "AmountText")
                 return false;
             __instance.font = SVNEngine;
             return true;
@@ -198,6 +200,8 @@ namespace VietnameseLanguage
                 __instance.font = Main.newLiberationSansBold_TMP;
             else if (__instance.font.name == "Ubuntu-Bold SDF")
                 __instance.font = Main.newUbuntuBold_TMP;
+            else if (__instance.font.name == "calibrib SDF")
+                __instance.font = Main.newCalibriBold_TMP;
         }
         [HarmonyPatch(typeof(TextMeshProUGUI), "Awake")]
         static void Postfix(TextMeshProUGUI __instance) => Postfix(__instance as TMP_Text);
