@@ -428,7 +428,7 @@ Evacuate personnel from the crane area";"Помилка
 "Game/FillWater";"Text";"";"Fill with freshwater";"Залити прісну воду";""
 "Game/Food";"Text";"";"Food";"Їжа";""
 "Game/FriendlyFire";"Text";"";"Friendly fire?";"Дружній вогонь?";""
-"Game/Harvest";"Text";"";"Harvest";"Урожай";""
+"Game/Harvest";"Text";"";"Harvest";"Зібрати";""
 "Game/HazmatSuit";"Text";"";"Equip hazmat suit";"Одягти захисний костюм";""
 "Game/Health";"Text";"";"Health";"Здоров’я";""
 "Game/HoldToPickupX";"Text";"";"Hold to pick up {[ItemX]}";"Утримуйте, щоб забрати {[ItemX]}";""
@@ -631,26 +631,26 @@ Evacuate personnel from the crane area";"Помилка
 "Item/Canteen_Water";"Text";"";"Canteen of fresh water@Fresh water is very important on the ocean.";"Фляга прісної води@Прісна вода дуже важлива у відкритому океані.";""
 "Item/Cassette_Classical";"Text";"";"Classical cassette@#1 Left Alone
 #2 Llama Waltz
-#3 Unwanted Adventure";"Касета з класикою@#1 Left Alone
-#2 Llama Waltz
-#3 Unwanted Adventure";""
+#3 Unwanted Adventure";"Касета з класикою@#1 Залишившись наодинці
+#2 Вальс лам
+#3 Небажана пригода";""
 "Item/Cassette_EDM";"Text";"";"EDM cassette @#1 Dehydrated
 #2 It's a Wave
-#3 Raving on Sea";"Касета з EDM@#1 Dehydrated
-#2 It's a Wave
-#3 Raving on Sea";""
-"Item/Cassette_Elevator";"Text";"";"Elevator cassette@#1 Levels Descending";"Ліфтярська касета@#1 Levels Descending";""
+#3 Raving on Sea";"Касета з EDM@#1 Зневоднення
+#2 Це хвиля
+#3 Рейв у морі";""
+"Item/Cassette_Elevator";"Text";"";"Elevator cassette@#1 Levels Descending";"Касета з ліфта@#1 Спуск";""
 "Item/Cassette_Pop";"Text";"";"Pop cassette@#1 Funky Surfer
 #2 Romantic Sunset
-#3 Summer Breeze";"Касета з попмузикою@#1 Funky Surfer
-#2 Romantic Sunset
-#3 Summer Breeze";""
+#3 Summer Breeze";"Касета з попмузикою@#1 Веселий серфінгіст
+#2 Романтичний захід сонця
+#3 Літній бриз";""
 "Item/Cassette_Rock";"Text";"";"Rock cassette@#1 More Metal!
 #2 Seagull Stole my Potato
-#3 Smoke on my Raft";"Касета з роком@#1 More Metal!
-#2 Seagull Stole my Potato
-#3 Smoke on my Raft";""
-"Item/Cassette_TradingPost";"Text";"";"Trading post cassette@#1 Bargain Bossa";"Касета торговельного пункту@#1 Bargain Bossa";""
+#3 Smoke on my Raft";"Касета з роком@#1 Більше металу!
+#2 Мартини викрали картоплю
+#3 Дим на моєму плоті";""
+"Item/Cassette_TradingPost";"Text";"";"Trading post cassette@#1 Bargain Bossa";"Касета торговельного пункту@#1 Босанова торгівля";""
 "Item/CatfishDeluxe";"Text";"";"Catfish deluxe@Makes you run faster.";"Сом Делюкс@Змушує вас швидше бігати.";""
 "Item/CaveMushroom";"Text";"";"Cave mushroom@Great addition to many meals.";"Печерний гриб@Чудове доповнення до багатьох страв.";""
 "Item/Chili";"Text";"";"Chili@Spice up your food.";"Перець чилі@Приправте свою їжу.";""
@@ -1583,7 +1583,7 @@ One of them completely wrecked the boat when we tried to get away. None of the u
 I asked HENRY if I should trust the boy. But I didn’t get an answer.
 ~Bruno";"Бачили ведмедів на цьому замороженому острові!
 
-Один із них повністю розтрощив судно, коли ми намагалися втекти. Жодні простенькі хитрощі також не спрацювали. Нас із ГЕНРІ просто з'їли б, якби не з'явився той хлопчик з повітряним ріжком. Його звати Детто. Сказав, він прибув сюди з кількома вижившими.
+Один із них повністю розтрощив судно, коли ми намагалися втекти. Жодні простенькі хитрощі також не спрацювали. Нас із ГЕНРІ просто з'їли б, якби не з'явився той хлопчик з повітряним ріжком. Його звати Детто. Сказав, він прибув сюди з кількома вцілілими.
 
 Я запитав ГЕНРІ, чи варто довіряти хлопчику. Але у відповідь — нічого.
 ~Бруно";""
@@ -1632,7 +1632,7 @@ The other colleague… I left behind. I did not trust you, Cuckoo. I couldn’t.
 There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. One of the ‘investors’ has taken control of the community. Olof Wilkstrom. I fear his intentions with this potential Utopia.
 ~Sparrow";"Комплекс “Селін” був збудований лише з однією метою: освоєння та покращення експериментальних реакторів, які живили плавучі міста енергією. Непросте завдання. Та все ж, воно виконане. В теорії. Однак в нас немає людей для будівництва чогось окрім базового прототипу. Його справді можна збудувати, я це точно знаю! Нам лише треба більше людей.
 
-Є одне місце, де плотарі живуть в мирі разом з усіма вижившими зі старого світу. Його називають Утопія. Може, там ми можемо усунути шкоду, яку ми наробили. Але вчора ми отримали повідомлення від них. Один з “інвесторів” взяв на себе контроль над громадою. Олоф Вілкштром. Мене лякають його наміри щодо потенційної Утопії.
+Є одне місце, де плотарі живуть в мирі разом з усіма вцілілими зі старого світу. Його називають Утопія. Може, там ми можемо усунути шкоду, яку ми наробили. Але вчора ми отримали повідомлення від них. Один з “інвесторів” взяв на себе контроль над громадою. Олоф Вілкштром. Мене лякають його наміри щодо потенційної Утопії.
 ~Синиця";""
 "Story/Temperance/Voiceline/Bruno1_1";"Text";"";"I’ve already lost MIRANDA. I will not lose you too, HENRY.";"Я вже втратив МІРАНДУ. Тебе я точно не втрачу, ГЕНРІ.";""
 "Story/Temperance/Voiceline/Bruno1_2";"Text";"";"The two of us have followed a signal far south. I know it's from my sister. There’s no doubt. ";"Ми обидва пішли вслід за сигналом далеко на південь. Я знаю, він від моєї сестри. Жодних сумнівів. ";""
@@ -1642,7 +1642,7 @@ There’s a place where the rafters live in peace with any survivors of the old 
 "Story/Temperance/Voiceline/Bruno2_2";"Text";"";"One of them completely wrecked the boat when we tried to get away. ";"Один із них повністю розтрощив судно, коли ми намагалися втекти.";""
 "Story/Temperance/Voiceline/Bruno2_3";"Text";"";"None of the usual tricks worked either. ";"Жодні простенькі хитрощі також не спрацювали. ";""
 "Story/Temperance/Voiceline/Bruno2_4";"Text";"";"HENRY and I would have been eaten if that boy with the airhorn hadn’t showed up. ";"Нас із ГЕНРІ просто з'їли б, якби не з'явився той хлопчик з повітряним ріжком. ";""
-"Story/Temperance/Voiceline/Bruno2_5";"Text";"";"His name is Detto. Says he came here with some survivors.";"Його звати Детто. Сказав, він прибув сюди з кількома вижившими.";""
+"Story/Temperance/Voiceline/Bruno2_5";"Text";"";"His name is Detto. Says he came here with some survivors.";"Його звати Детто. Сказав, він прибув сюди з кількома вцілілими.";""
 "Story/Temperance/Voiceline/Bruno2_6";"Text";"";"I asked HENRY if I should trust the boy. But I didn’t get an answer.";"Я запитав ГЕНРІ, чи варто довіряти хлопчику. Але у відповідь — нічого.";""
 "Story/Temperance/Voiceline/Bruno3_1";"Text";"";"Detto showed me and HENRY some abandoned igloos.";"Детто показав нам з ГЕНРІ деякі закинуті іґлу.";""
 "Story/Temperance/Voiceline/Bruno3_2";"Text";"";"The boy got them open by fiddling with some cables? The big igloo is still shut though.";"Хлопчик їх відчинив, повозившись з дротами? Велика іґлу все ще замкнена.";""
@@ -1669,7 +1669,7 @@ There’s a place where the rafters live in peace with any survivors of the old 
 "Story/Temperance/Voiceline/Sparrow2_2";"Text";"";"No easy task. But it has been done. In theory.";"Непросте завдання. Та все ж, воно виконане. В теорії.";""
 "Story/Temperance/Voiceline/Sparrow2_3";"Text";"";"Yet we do not have the people to construct anything but a basic prototype. ";"Однак в нас немає людей для будівництва чогось окрім базового прототипу. ";""
 "Story/Temperance/Voiceline/Sparrow2_4";"Text";"";"It can be built for real, I know it! We just need more people.";"Його справді можна збудувати, я це точно знаю! Нам лише треба більше людей.";""
-"Story/Temperance/Voiceline/Sparrow2_5";"Text";"";"There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. ";"Є одне місце, де плотарі живуть в мирі разом з усіма вижившими зі старого світу. Його називають Утопія. ";""
+"Story/Temperance/Voiceline/Sparrow2_5";"Text";"";"There’s a place where the rafters live in peace with any survivors of the old world. They call it Utopia. ";"Є одне місце, де плотарі живуть в мирі разом з усіма вцілілими зі старого світу. Його називають Утопія. ";""
 "Story/Temperance/Voiceline/Sparrow2_6";"Text";"";"Maybe there we can begin to reverse the damage we’ve done. But we received a message from them yesterday. ";"Може, там ми можемо усунути шкоду, яку ми наробили. Але вчора ми отримали повідомлення від них. ";""
 "Story/Temperance/Voiceline/Sparrow2_7";"Text";"";"One of the ‘investors’ has taken control of the community. Olof Wilkstrom.";"Один з «інвесторів» взяв на себе контроль над громадою. Олоф Вілкштром. ";""
 "Story/Temperance/Voiceline/Sparrow2_8";"Text";"";"I fear his intentions with this potential Haven.";"Мене лякають його наміри щодо потенційної Утопії.";""
@@ -1947,7 +1947,7 @@ From today on, we are all Forward Scouts, ready to discover the next step for hu
 "Story/Utopia/Voiceline/LarsFight9";"Text";"";"You’re the only one I can trust, Alpha.";"Ти єдиний кому я можу довіряти, Альфо.";""
 "Story/Utopia/Voiceline/LarsFightExit1";"Text";"";"No, no! Alpha, you failure!";"Ні, ні! Альфо, ти невдаха!";""
 "Story/Utopia/Voiceline/LarsFightExit2";"Text";"";"All of this for nothing!";"І все це даремно!";""
-"Story/Utopia/Voiceline/LarsIntro1";"Text";"";"Out of all my creations, Alpha is a true warrior. A survivor.";"З усіх моїх творінь Альфа — справжній воїн. Виживший.";""
+"Story/Utopia/Voiceline/LarsIntro1";"Text";"";"Out of all my creations, Alpha is a true warrior. A survivor.";"З усіх моїх творінь Альфа — справжній воїн. Уцілілий.";""
 "Story/Utopia/Voiceline/LarsIntro2";"Text";"";"You see, the weak are singled out. The strong remain. You Forward Scouts were the same.";"Ну розумієте, слабкі відсіюються. Сильні залишаються. Ви, провідні розвідники, були такими ж.";""
 "Story/Utopia/Voiceline/LarsIntro3";"Text";"";"You build yourselves up from nothing. You keep going. Up until you encounter something stronger.";"Ви будуєте себе з нічого. Ви продовжуєте йти вперед. Доки не зіткнетеся з чимось сильнішим.";""
 "Story/Utopia/Voiceline/LarsIntro4";"Text";"";"Alpha, in position! Kill!";"Альфа, на позицію! Вбити!";""
