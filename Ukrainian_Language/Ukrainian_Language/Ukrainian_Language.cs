@@ -64,7 +64,8 @@ namespace UkrainianLanguage
                 Directory.CreateDirectory(dataFolder);
                 Log("Data folder created");
             }
-            UpdateTranslationFile();
+            Debug.Log(LocalizationManager.Sources[0].Import_CSV(null, Encoding.UTF8.GetString(GetEmbeddedFileBytes("Loc.csv")), eSpreadsheetUpdateMode.Merge, ';'));
+            LocalizationManager.LocalizeAll(true);
             RestoreLanguage();
             foreach (var t in Resources.FindObjectsOfTypeAll<TMP_Text>())
                 Patch_TMP_Awake.Postfix(t);
@@ -151,6 +152,8 @@ namespace UkrainianLanguage
                     LocalizationManager.Sources[0].Import_CSV(null, File.ReadAllText(translationFile, Encoding.UTF8), eSpreadsheetUpdateMode.Merge, ';');
                     LocalizationManager.LocalizeAll(true);
                     Debug.Log(logPrefix + $"Файл перекладу успішно завантажено з репозиторію: {repositoryUrl}");
+                    foreach (var t in Resources.FindObjectsOfTypeAll<TMP_Text>())
+                        Patch_TMP_Awake.Postfix(t);
                 }
                 catch (WebException e)
                 {

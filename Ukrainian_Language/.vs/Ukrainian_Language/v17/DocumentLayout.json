@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0435\u0440\u0435\u043A\u043B\u0430\u0434\u0438\\Raft\\Ukrainian_Language\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D2BDD7-E52C-4470-AC81-5F4B496CC559}|Ukrainian_Language\\Ukrainian_Language.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u043B\u0430\u0434\u0438\\raft\\ukrainian_language\\ukrainian_language\\modinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41D2BDD7-E52C-4470-AC81-5F4B496CC559}|Ukrainian_Language\\Ukrainian_Language.csproj|solutionrelative:ukrainian_language\\modinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D2BDD7-E52C-4470-AC81-5F4B496CC559}|Ukrainian_Language\\Ukrainian_Language.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u043B\u0430\u0434\u0438\\raft\\ukrainian_language\\ukrainian_language\\ukrainian_language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D2BDD7-E52C-4470-AC81-5F4B496CC559}|Ukrainian_Language\\Ukrainian_Language.csproj|solutionrelative:ukrainian_language\\ukrainian_language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modinfo.json",
+              "DocumentMoniker": "D:\\\u041F\u0435\u0440\u0435\u043A\u043B\u0430\u0434\u0438\\Raft\\Ukrainian_Language\\Ukrainian_Language\\modinfo.json",
+              "RelativeDocumentMoniker": "Ukrainian_Language\\modinfo.json",
+              "ToolTip": "D:\\\u041F\u0435\u0440\u0435\u043A\u043B\u0430\u0434\u0438\\Raft\\Ukrainian_Language\\Ukrainian_Language\\modinfo.json",
+              "RelativeToolTip": "Ukrainian_Language\\modinfo.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T19:45:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ukrainian_Language.cs",
+              "DocumentMoniker": "D:\\\u041F\u0435\u0440\u0435\u043A\u043B\u0430\u0434\u0438\\Raft\\Ukrainian_Language\\Ukrainian_Language\\Ukrainian_Language.cs",
+              "RelativeDocumentMoniker": "Ukrainian_Language\\Ukrainian_Language.cs",
+              "ToolTip": "D:\\\u041F\u0435\u0440\u0435\u043A\u043B\u0430\u0434\u0438\\Raft\\Ukrainian_Language\\Ukrainian_Language\\Ukrainian_Language.cs",
+              "RelativeToolTip": "Ukrainian_Language\\Ukrainian_Language.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAewIgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:36:54.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
