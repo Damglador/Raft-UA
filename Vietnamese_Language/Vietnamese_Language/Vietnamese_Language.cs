@@ -64,7 +64,15 @@ namespace VietnameseLanguage
                 Directory.CreateDirectory(dataFolder);
                 Log("Data folder created");
             }
-            UpdateTranslationFile();
+            if (File.Exists(translationFile))
+            {
+                LocalizationManager.Sources[0].Import_CSV(null, File.ReadAllText(translationFile, Encoding.UTF8), eSpreadsheetUpdateMode.Merge, ';');
+                LocalizationManager.LocalizeAll(true);
+            }
+            else
+            {
+                UpdateTranslationFile();
+            }
             RestoreLanguage();
             foreach (var t in Resources.FindObjectsOfTypeAll<TMP_Text>())
                 Patch_TMP_Awake.Postfix(t);

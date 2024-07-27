@@ -1,0 +1,2 @@
+C:\Users\Damglador\Desktop\Переклади\Raft\Vietnamese_Language\Vietnamese_Language\obj\Debug\Vietnamese_Language.csproj.AssemblyReference.cache
+C:\Users\Damglador\Desktop\Переклади\Raft\Vietnamese_Language\Vietnamese_Language\obj\Debug\Vietnamese_Language.csproj.CoreCompileInputs.cache
