@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# !!! DO NOT RUN WITH SUDO OR AS ROOT !!!
+# If you can't execute this script, check if it has permissions to be executed.
+# You can give execute permission using `chmod +x ./build.sh` or your file manager.
+
 # This script will find the first folder in the directory it was executed in
 # and archive everything needed for a mod in that folder into .rmod file
 
@@ -24,7 +28,16 @@ foldername=$(basename $(ls -d */ | head -n 1))
 if [ -e "$foldername.rmod" ]; then rm "$foldername.rmod"; echo "Removing old $foldername.rmod"; fi
 
 # Zip all files in the sub directory named as the current directory except for everything after "-x"
-cd $foldername && zip -r -o "../$foldername.rmod" "." -x "obj/*" "bin/*" "*.csproj" "*.rmod" "*.sln" "build.sh" "build.bat" && cd ..
+cd $foldername
+zip -r -o "../$foldername.rmod" "." -x "obj/*" "bin/*" "*.csproj" "*.rmod" "*.sln" "build.sh" "build.bat"
+# Check if archivation was successful
+if [ $? -eq 0 ]; then
+    echo "Build successful."
+else
+    echo "Build failed. Exiting."
+    exit
+fi
+cd ..
 
 # Install if enabled
 if $install; then
